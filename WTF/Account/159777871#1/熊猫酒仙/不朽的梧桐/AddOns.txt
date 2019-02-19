@@ -1,0 +1,8 @@
+Gladius: disabled
+oUF: disabled
+oUF_Hank: disabled
+CompactRaid_RaidDebuff_CTM: disabled
+CompactRaid_ClickSets: disabled
+CompactRaid_PartyTargets: disabled
+CompactRaid_Direction: disabled
+CompactRaid_RaidDebuff_WotLK: disabled

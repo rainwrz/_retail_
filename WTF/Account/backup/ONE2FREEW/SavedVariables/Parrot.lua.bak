@@ -1,0 +1,68 @@
+
+ParrotDB = {
+	["namespaces"] = {
+		["CombatEvents"] = {
+			["profiles"] = {
+				["Default"] = {
+					["dbver"] = 4,
+				},
+			},
+		},
+		["Suppressions"] = {
+		},
+		["ScrollAreas"] = {
+			["profiles"] = {
+				["Default"] = {
+					["areas"] = {
+						["Notification"] = {
+							["stickyDirection"] = "UP;CENTER",
+							["direction"] = "UP;CENTER",
+							["yOffset"] = 298.0000154555161,
+							["xOffset"] = -9.999864456491423,
+							["size"] = 150,
+							["animationStyle"] = "Straight",
+							["stickyAnimationStyle"] = "Pow",
+						},
+						["Outgoing"] = {
+							["stickyDirection"] = "DOWN;LEFT",
+							["direction"] = "DOWN;RIGHT",
+							["yOffset"] = 4.000379959502425,
+							["xOffset"] = 282.0009816304353,
+							["size"] = 260,
+							["animationStyle"] = "Straight",
+							["stickyAnimationStyle"] = "Pow",
+						},
+						["Incoming"] = {
+							["stickyDirection"] = "DOWN;RIGHT",
+							["direction"] = "DOWN;LEFT",
+							["yOffset"] = 6.999807079597417,
+							["iconSide"] = "RIGHT",
+							["xOffset"] = -314.9992668204058,
+							["size"] = 260,
+							["animationStyle"] = "Straight",
+							["stickyAnimationStyle"] = "Pow",
+						},
+					},
+				},
+			},
+		},
+		["Cooldowns"] = {
+		},
+		["Display"] = {
+		},
+		["Triggers"] = {
+			["profiles"] = {
+				["Default"] = {
+					["dbver"] = 8,
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["霜梧桐 - 伊森利恩"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

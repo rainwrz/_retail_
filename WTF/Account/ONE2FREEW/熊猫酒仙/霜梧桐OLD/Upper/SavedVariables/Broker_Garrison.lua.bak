@@ -1,0 +1,696 @@
+
+Broker_GarrisonDB = {
+	["profileKeys"] = {
+		["霜梧桐 - 熊猫酒仙"] = "Default",
+	},
+	["global"] = {
+		["data"] = {
+			["熊猫酒仙"] = {
+				["霜梧桐"] = {
+					["lootedToday"] = {
+					},
+					["configVersion"] = 2,
+					["missions"] = {
+						[183] = {
+							["type"] = "Combat",
+							["id"] = 183,
+							["duration"] = 1800,
+							["rewards"] = {
+								[326] = {
+									["title"] = "Currency Reward",
+									["quantity"] = 30,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								},
+							},
+							["missionState"] = 1,
+							["timeLeftCalc"] = 768,
+							["notification"] = 0,
+							["name"] = "Hazardous Herbivores",
+							["followers"] = {
+								{
+									["name"] = "Professor Felblast",
+									["id"] = "0x000000000023E323",
+									["abilities"] = {
+										{
+											["id"] = 177,
+											["name"] = "Metamorphosis",
+											["icon"] = "Interface\\ICONS\\Ability_Warlock_DemonicPower.blp",
+										}, -- [1]
+										{
+											["id"] = 62,
+											["name"] = "Skinning",
+											["icon"] = "Interface\\ICONS\\INV_Misc_Pelt_Wolf_01.blp",
+										}, -- [2]
+										{
+											["id"] = 38,
+											["name"] = "Ogreslayer",
+											["icon"] = "Interface\\ICONS\\Achievement_Reputation_Ogre.blp",
+										}, -- [3]
+										{
+											["id"] = 181,
+											["name"] = "Summon Infernal",
+											["icon"] = "Interface\\ICONS\\Spell_Shadow_SummonInfernal.blp",
+										}, -- [4]
+										{
+											["id"] = 79,
+											["name"] = "Scavenger",
+											["icon"] = "Interface\\ICONS\\ACHIEVEMENT_GUILDPERK_BOUNTIFULBAGS.BLP",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+									["iconId"] = 1080912,
+								}, -- [1]
+							},
+							["start"] = 1419794389,
+							["level"] = 90,
+							["timeLeft"] = "19 min",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[377] = {
+							["type"] = "Combat",
+							["id"] = 377,
+							["duration"] = 36000,
+							["rewards"] = {
+								[781] = {
+									["title"] = "Bonus Follower XP",
+									["followerXP"] = 2000,
+									["tooltip"] = "+2,000 XP",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+2,000 XP",
+								},
+							},
+							["missionState"] = 1,
+							["timeLeftCalc"] = 4668,
+							["notification"] = 0,
+							["name"] = "Heart of the Sabermaw",
+							["followers"] = {
+								{
+									["name"] = "Image of Archmage Vargoth",
+									["id"] = "0x00000000000BA0DE",
+									["abilities"] = {
+										{
+											["id"] = 171,
+											["name"] = "Counterspell",
+											["icon"] = "Interface\\ICONS\\Spell_Frost_IceShock.blp",
+										}, -- [1]
+										{
+											["id"] = 65,
+											["name"] = "Dwarvenborn",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Dwarf_Female.blp",
+										}, -- [2]
+										{
+											["id"] = 77,
+											["name"] = "Burst of Power",
+											["icon"] = "Interface\\ICONS\\Spell_Nature_ShamanRage.blp",
+										}, -- [3]
+										{
+											["id"] = 170,
+											["name"] = "Blink",
+											["icon"] = "Interface\\ICONS\\Spell_Arcane_Blink.blp",
+										}, -- [4]
+										{
+											["id"] = 46,
+											["name"] = "Guerilla Fighter",
+											["icon"] = "Interface\\ICONS\\Achievement_Zone_UnGoroCrater_01.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+									["iconId"] = 1066016,
+								}, -- [1]
+								{
+									["name"] = "Soulbinder Tuulani",
+									["id"] = "0x00000000002CEECD",
+									["abilities"] = {
+										{
+											["id"] = 11,
+											["name"] = "Prayer of Healing",
+											["icon"] = "Interface\\ICONS\\Spell_Holy_PrayerOfHealing02.blp",
+										}, -- [1]
+										{
+											["id"] = 236,
+											["name"] = "Hearthstone Pro",
+											["icon"] = "Interface\\ICONS\\Item_Hearthstone_Card.blp",
+										}, -- [2]
+										{
+											["id"] = 9,
+											["name"] = "Wastelander",
+											["icon"] = "Interface\\ICONS\\Achievement_Zone_Tanaris_01.blp",
+										}, -- [3]
+										{
+											["id"] = 148,
+											["name"] = "Dispel Magic",
+											["icon"] = "Interface\\ICONS\\SPELL_HOLY_DISPELMAGIC.BLP",
+										}, -- [4]
+										{
+											["id"] = 46,
+											["name"] = "Guerilla Fighter",
+											["icon"] = "Interface\\ICONS\\Achievement_Zone_UnGoroCrater_01.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+									["iconId"] = 1066103,
+								}, -- [2]
+								{
+									["name"] = "Maeve Hopwash",
+									["id"] = "0x0000000000428CFB",
+									["abilities"] = {
+										{
+											["id"] = 221,
+											["name"] = "Epic Mount",
+											["icon"] = "Interface\\ICONS\\MountJournalPortrait.blp",
+										}, -- [1]
+										{
+											["id"] = 140,
+											["name"] = "Provoke",
+											["icon"] = "Interface\\ICONS\\Ability_Monk_Provoke.blp",
+										}, -- [2]
+										{
+											["id"] = 44,
+											["name"] = "Naturalist",
+											["icon"] = "Interface\\ICONS\\Achievement_Zone_Silverpine_01.blp",
+										}, -- [3]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+									["iconId"] = 1066526,
+								}, -- [3]
+							},
+							["start"] = 1419764089,
+							["level"] = 99,
+							["timeLeft"] = "1 hr 24 min",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[185] = {
+							["type"] = "Combat",
+							["id"] = 185,
+							["duration"] = 3600,
+							["rewards"] = {
+								[356] = {
+									["title"] = "Currency Reward",
+									["quantity"] = 32,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								},
+							},
+							["missionState"] = 1,
+							["timeLeftCalc"] = 3269,
+							["notification"] = 0,
+							["name"] = "Toxic Bloom",
+							["followers"] = {
+								{
+									["name"] = "Dawnseeker Rukaryx",
+									["id"] = "0x00000000002B95A9",
+									["abilities"] = {
+										{
+											["id"] = 137,
+											["name"] = "Hurricane",
+											["icon"] = "Interface\\ICONS\\Spell_Nature_Cyclone.blp",
+										}, -- [1]
+										{
+											["id"] = 29,
+											["name"] = "Fast Learner",
+											["icon"] = "Interface\\ICONS\\Ability_Mage_StudentOfTheMind.blp",
+										}, -- [2]
+										{
+											["id"] = 79,
+											["name"] = "Scavenger",
+											["icon"] = "Interface\\ICONS\\ACHIEVEMENT_GUILDPERK_BOUNTIFULBAGS.BLP",
+										}, -- [3]
+										{
+											["id"] = 182,
+											["name"] = "Dash",
+											["icon"] = "Interface\\ICONS\\Ability_Druid_Dash.blp",
+										}, -- [4]
+										{
+											["id"] = 39,
+											["name"] = "Primalslayer",
+											["icon"] = "Interface\\ICONS\\Achievement_Boss_YoggSaron_01.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+									["iconId"] = 1080908,
+								}, -- [1]
+							},
+							["start"] = 1419795090,
+							["level"] = 91,
+							["timeLeft"] = "1 hr",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[136] = {
+							["type"] = "Combat",
+							["id"] = 136,
+							["duration"] = 1800,
+							["rewards"] = {
+								[320] = {
+									["title"] = "Bonus Follower XP",
+									["followerXP"] = 100,
+									["tooltip"] = "+100 XP",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+100 XP",
+								},
+							},
+							["missionState"] = 1,
+							["timeLeftCalc"] = 768,
+							["notification"] = 0,
+							["name"] = "Sorcery, Meet Sword",
+							["followers"] = {
+								{
+									["name"] = "Lleanya Mourningsong",
+									["id"] = "0x000000000049486B",
+									["abilities"] = {
+										{
+											["id"] = 64,
+											["name"] = "Humanist",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Human_Female.blp",
+										}, -- [1]
+										{
+											["id"] = 118,
+											["name"] = "Empower Rune Weapon",
+											["icon"] = "Interface\\ICONS\\INV_Sword_62.blp",
+										}, -- [2]
+										{
+											["id"] = 8,
+											["name"] = "Cold-Blooded",
+											["icon"] = "Interface\\ICONS\\Achievement_Zone_StormPeaks_02.blp",
+										}, -- [3]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+									["iconId"] = 1086374,
+								}, -- [1]
+							},
+							["start"] = 1419794389,
+							["level"] = 90,
+							["timeLeft"] = "19 min",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[373] = {
+							["type"] = "Combat",
+							["id"] = 373,
+							["duration"] = 36000,
+							["rewards"] = {
+								[777] = {
+									["title"] = "Bonus Follower XP",
+									["followerXP"] = 1200,
+									["tooltip"] = "+1,200 XP",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+1,200 XP",
+								},
+							},
+							["missionState"] = 1,
+							["timeLeftCalc"] = 6468,
+							["notification"] = 0,
+							["name"] = "Steeltusk Lives",
+							["followers"] = {
+								{
+									["name"] = "Artificer Romuul",
+									["id"] = "0x000000000009E12E",
+									["abilities"] = {
+										{
+											["id"] = 59,
+											["name"] = "Jewelcrafting",
+											["icon"] = "Interface\\ICONS\\INV_Misc_Gem_01.blp",
+										}, -- [1]
+										{
+											["id"] = 126,
+											["name"] = "Rebuke",
+											["icon"] = "Interface\\ICONS\\Spell_Holy_Rebuke.blp",
+										}, -- [2]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+									["iconId"] = 1066098,
+								}, -- [1]
+								{
+									["name"] = "Weldon Barov",
+									["id"] = "0x000000000016A238",
+									["abilities"] = {
+										{
+											["id"] = 160,
+											["name"] = "Sprint",
+											["icon"] = "Interface\\ICONS\\Ability_Rogue_Sprint.blp",
+										}, -- [1]
+										{
+											["id"] = 8,
+											["name"] = "Cold-Blooded",
+											["icon"] = "Interface\\ICONS\\Achievement_Zone_StormPeaks_02.blp",
+										}, -- [2]
+										{
+											["id"] = 80,
+											["name"] = "Extra Training",
+											["icon"] = "Interface\\ICONS\\Garrison_Building_SparringArena.blp",
+										}, -- [3]
+										{
+											["id"] = 105,
+											["name"] = "Kick",
+											["icon"] = "Interface\\ICONS\\Ability_Kick.blp",
+										}, -- [4]
+										{
+											["id"] = 38,
+											["name"] = "Ogreslayer",
+											["icon"] = "Interface\\ICONS\\Achievement_Reputation_Ogre.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+									["iconId"] = 1066004,
+								}, -- [2]
+								{
+									["name"] = "Tessa Wybroff",
+									["id"] = "0x000000000029E86B",
+									["abilities"] = {
+										{
+											["id"] = 221,
+											["name"] = "Epic Mount",
+											["icon"] = "Interface\\ICONS\\MountJournalPortrait.blp",
+										}, -- [1]
+										{
+											["id"] = 172,
+											["name"] = "Polymorph",
+											["icon"] = "Interface\\ICONS\\Spell_Nature_Polymorph.blp",
+										}, -- [2]
+										{
+											["id"] = 42,
+											["name"] = "Voidslayer",
+											["icon"] = "Interface\\ICONS\\Achievement_Boss_Zuramat.blp",
+										}, -- [3]
+										{
+											["id"] = 171,
+											["name"] = "Counterspell",
+											["icon"] = "Interface\\ICONS\\Spell_Frost_IceShock.blp",
+										}, -- [4]
+										{
+											["id"] = 45,
+											["name"] = "Cave Dweller",
+											["icon"] = "Interface\\ICONS\\Achievement_Dungeon_Deepholm.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+									["iconId"] = 1066025,
+								}, -- [3]
+							},
+							["start"] = 1419765889,
+							["level"] = 95,
+							["timeLeft"] = "1 hr 54 min",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+					},
+					["tooltipEnabled"] = true,
+					["currencySealOfTemperedFateAmount"] = 4,
+					["invasion"] = {
+						["available"] = false,
+					},
+					["buildingsExpanded"] = true,
+					["buildings"] = {
+						[24] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["plotSize"] = 3,
+							["id"] = 28,
+							["plotID"] = 24,
+							["follower"] = {
+							},
+							["shipment"] = {
+							},
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["name"] = "Barracks",
+							["timeStart"] = 1417454927,
+							["texPrefix"] = "GarrBuilding_Barracks_3_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Garrison_Building_Barracks.blp",
+							["rank"] = 3,
+						},
+						[63] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["plotSize"] = 2,
+							["id"] = 137,
+							["plotID"] = 63,
+							["follower"] = {
+							},
+							["shipment"] = {
+								["name"] = "Herb Garden",
+								["shipmentCapacity"] = 26,
+								["texture"] = "Interface\\ICONS\\INV_Misc_Herb_SansamRoot.blp",
+							},
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["name"] = "Herb Garden",
+							["timeStart"] = 1418469690,
+							["texPrefix"] = "GarrBuilding_Farm_1_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\INV_Misc_Herb_SansamRoot.blp",
+							["rank"] = 3,
+						},
+						[81] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 167,
+							["plotID"] = 81,
+							["plotSize"] = 2,
+							["shipment"] = {
+							},
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["name"] = "Menagerie",
+							["timeStart"] = 1416931050,
+							["texPrefix"] = "GarrBuilding_PetStable_1_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Garrison_Building_Menagerie.blp",
+							["rank"] = 2,
+						},
+						[67] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["plotSize"] = 2,
+							["id"] = 134,
+							["plotID"] = 67,
+							["follower"] = {
+							},
+							["shipment"] = {
+							},
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["name"] = "Fishing Shack",
+							["timeStart"] = 1417864084,
+							["texPrefix"] = "GarrBuilding_Fishing_2_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Trade_Fishing.blp",
+							["rank"] = 2,
+						},
+						[18] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 141,
+							["plotID"] = 18,
+							["plotSize"] = 1,
+							["shipment"] = {
+							},
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["name"] = "Salvage Yard",
+							["timeStart"] = 1417098675,
+							["texPrefix"] = "GarrBuilding_SalvageYard_1_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Garrison_Building_SalvageYard.blp",
+							["rank"] = 3,
+						},
+						[19] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 142,
+							["plotID"] = 19,
+							["plotSize"] = 1,
+							["shipment"] = {
+							},
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["name"] = "Storehouse",
+							["timeStart"] = 1419699548,
+							["texPrefix"] = "GarrBuilding_Storehouse_1_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Garrison_Building_Storehouse.blp",
+							["rank"] = 2,
+						},
+						[20] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["plotSize"] = 1,
+							["id"] = 124,
+							["plotID"] = 20,
+							["follower"] = {
+							},
+							["shipment"] = {
+								["shipmentsAvailable"] = 0,
+								["itemName"] = "Gearspring Parts",
+								["duration"] = 14400,
+								["shipmentsReadyEstimate"] = 8,
+								["notification"] = 1,
+								["creationTime"] = 1419793340,
+								["shipmentsReady"] = 8,
+								["texture"] = "Interface\\ICONS\\Trade_Engineering.blp",
+								["notificationValue"] = 8,
+								["shipmentsInProgress"] = 18,
+								["notificationDismissed"] = false,
+								["timeleftString"] = "3 hr 25 min",
+								["shipmentsTotal"] = 26,
+								["itemID"] = 111366,
+								["itemQuality"] = 2,
+								["name"] = "Engineering Works",
+								["shipmentCapacity"] = 26,
+							},
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["name"] = "Engineering Works",
+							["timeStart"] = 1417352776,
+							["texPrefix"] = "GarrBuilding_Engineering_3_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Trade_Engineering.blp",
+							["rank"] = 3,
+						},
+						[25] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 145,
+							["plotID"] = 25,
+							["plotSize"] = 2,
+							["shipment"] = {
+								["shipmentsAvailable"] = 0,
+								["itemName"] = "Garrison Resources",
+								["duration"] = 14400,
+								["shipmentsReadyEstimate"] = 14,
+								["notification"] = 1,
+								["creationTime"] = 1419786278,
+								["shipmentsReady"] = 14,
+								["texture"] = "Interface\\ICONS\\Garrison_Building_TradingPost.blp",
+								["notificationValue"] = 14,
+								["shipmentsInProgress"] = 12,
+								["notificationDismissed"] = false,
+								["timeleftString"] = "1 hr 27 min",
+								["shipmentsTotal"] = 26,
+								["itemID"] = 118111,
+								["itemQuality"] = 1,
+								["name"] = "Trading Post",
+								["shipmentCapacity"] = 26,
+							},
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["name"] = "Trading Post",
+							["timeStart"] = 1418469253,
+							["texPrefix"] = "GarrBuilding_TradingPost_3_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Garrison_Building_TradingPost.blp",
+							["rank"] = 3,
+						},
+						[22] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 36,
+							["plotID"] = 22,
+							["plotSize"] = 2,
+							["shipment"] = {
+							},
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["name"] = "Lunarfall Inn",
+							["timeStart"] = 1417801135,
+							["texPrefix"] = "GarrBuilding_Inn_3_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\INV_MISC_RUNE_01.BLP",
+							["rank"] = 3,
+						},
+						[23] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 10,
+							["plotID"] = 23,
+							["plotSize"] = 3,
+							["shipment"] = {
+								["shipmentsAvailable"] = 0,
+								["itemName"] = "Forged Weapons and Armor",
+								["duration"] = 14400,
+								["shipmentsReadyEstimate"] = 2,
+								["notification"] = 1,
+								["creationTime"] = 1419794443,
+								["shipmentsReady"] = 2,
+								["texture"] = "Interface\\ICONS\\Garrison_Building_Armory.blp",
+								["notificationValue"] = 2,
+								["shipmentsInProgress"] = 24,
+								["notificationDismissed"] = false,
+								["timeleftString"] = "3 hr 43 min",
+								["shipmentsTotal"] = 26,
+								["itemID"] = 120204,
+								["itemQuality"] = 1,
+								["name"] = "Dwarven Bunker",
+								["shipmentCapacity"] = 26,
+							},
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["name"] = "Dwarven Bunker",
+							["timeStart"] = 1417802016,
+							["texPrefix"] = "GarrBuilding_Armory_3_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Garrison_Building_Armory.blp",
+							["rank"] = 3,
+						},
+						[59] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["plotSize"] = 2,
+							["id"] = 63,
+							["plotID"] = 59,
+							["follower"] = {
+							},
+							["shipment"] = {
+								["shipmentsAvailable"] = 0,
+								["itemName"] = "Mine",
+								["duration"] = 14400,
+								["shipmentsReadyEstimate"] = 1,
+								["notification"] = 1,
+								["creationTime"] = 1419791683,
+								["shipmentsReady"] = 1,
+								["texture"] = "Interface\\ICONS\\Trade_Mining.blp",
+								["notificationValue"] = 1,
+								["shipmentsInProgress"] = 25,
+								["notificationDismissed"] = false,
+								["timeleftString"] = "2 hr 57 min",
+								["shipmentsTotal"] = 26,
+								["itemID"] = 116055,
+								["itemQuality"] = 1,
+								["name"] = "Lunarfall Excavation",
+								["shipmentCapacity"] = 26,
+							},
+							["canActivate"] = false,
+							["buildTime"] = 3600,
+							["name"] = "Lunarfall Excavation",
+							["timeStart"] = 1417606698,
+							["texPrefix"] = "GarrBuilding_Mine_1_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Trade_Mining.blp",
+							["rank"] = 3,
+						},
+					},
+					["trackWeekly"] = {
+						["WARMILL"] = true,
+					},
+					["currencyApexisAmount"] = 14705,
+					["missionsExpanded"] = true,
+					["info"] = {
+						["playerName"] = "霜梧桐",
+						["playerFaction"] = "Alliance",
+						["realmName"] = "熊猫酒仙",
+						["playerClass"] = "PALADIN",
+					},
+					["trackDaily"] = {
+					},
+					["lootedNextReset"] = 1419879601,
+					["weeklyNextReset"] = 1420052401,
+					["currencyAmount"] = 5904,
+					["notificationEnabled"] = true,
+				},
+			},
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

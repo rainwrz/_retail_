@@ -1,0 +1,20 @@
+
+AtlasLootDB = {
+	["__addonrevision"] = 4313,
+	["profileKeys"] = {
+		["Milyn - 卡扎克"] = "Milyn - 卡扎克",
+	},
+	["profiles"] = {
+		["Milyn - 卡扎克"] = {
+			["MiniMapButton"] = {
+				["point"] = {
+					"CENTER", -- [1]
+					nil, -- [2]
+					"CENTER", -- [3]
+					-65.3499984741211, -- [4]
+					-38.7999992370606, -- [5]
+				},
+			},
+		},
+	},
+}

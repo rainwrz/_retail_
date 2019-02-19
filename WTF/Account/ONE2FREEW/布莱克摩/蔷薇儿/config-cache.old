@@ -1,0 +1,7 @@
+SET cameraSavedDistance "10.548000"
+SET cameraSavedPitch "18.700005"
+SET showKeyring "1"
+SET playerStatLeftDropdown "PLAYERSTAT_BASE_STATS"
+SET playerStatRightDropdown "PLAYERSTAT_RANGED_COMBAT"
+SET showTokenFrame "1"
+SET showTokenFrameHonor "1"

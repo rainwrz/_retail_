@@ -1,0 +1,210 @@
+
+RelicInspectorCharDB = {
+	["profileKeys"] = {
+		["梧桐术 - 熊猫酒仙"] = "梧桐术 - 熊猫酒仙",
+	},
+	["char"] = {
+		["梧桐术 - 熊猫酒仙"] = {
+			["crucibleUsed"] = true,
+			["artifactCache"] = {
+				[128942] = {
+					{
+						["relic"] = {
+							"斥拒碎片", -- [1]
+							135231, -- [2]
+							"Shadow", -- [3]
+							"|cffa335ee|Hitem:137347:::::::::::35:3:3536:1612:3337:::|h[斥拒碎片]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1781,
+								["icon"] = 839910,
+								["isChosen"] = false,
+								["spellID"] = 252922,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1770,
+								["icon"] = 132307,
+								["isChosen"] = true,
+								["spellID"] = 252088,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 923,
+								["icon"] = 136211,
+								["isChosen"] = false,
+								["spellID"] = 199214,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 920,
+								["icon"] = 1044087,
+								["isChosen"] = false,
+								["spellID"] = 199158,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 921,
+								["icon"] = 463569,
+								["isChosen"] = true,
+								["spellID"] = 199163,
+							}, -- [6]
+						},
+					}, -- [1]
+					{
+						["relic"] = {
+							"战败者之血", -- [1]
+							1035041, -- [2]
+							"Blood", -- [3]
+							"|cffa335ee|Hitem:151296:::::::::::35:3:3536:1612:3337:::|h[战败者之血]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1778,
+								["icon"] = 136146,
+								["isChosen"] = true,
+								["spellID"] = 252875,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1770,
+								["icon"] = 132307,
+								["isChosen"] = false,
+								["spellID"] = 252088,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 921,
+								["icon"] = 463569,
+								["isChosen"] = true,
+								["spellID"] = 199163,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 915,
+								["icon"] = 136139,
+								["isChosen"] = false,
+								["spellID"] = 199111,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 922,
+								["icon"] = 644270,
+								["isChosen"] = false,
+								["spellID"] = 199212,
+							}, -- [6]
+						},
+					}, -- [2]
+					{
+						["relic"] = {
+							"伊凡尔的饥渴", -- [1]
+							134102, -- [2]
+							"Shadow", -- [3]
+							"|cffa335ee|Hitem:137399:::::::::::35:3:3536:1612:3337:::|h[伊凡尔的饥渴]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1778,
+								["icon"] = 136146,
+								["isChosen"] = true,
+								["spellID"] = 252875,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1775,
+								["icon"] = 458412,
+								["isChosen"] = false,
+								["spellID"] = 252207,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 916,
+								["icon"] = 136118,
+								["isChosen"] = true,
+								["spellID"] = 199112,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 922,
+								["icon"] = 644270,
+								["isChosen"] = false,
+								["spellID"] = 199212,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 923,
+								["icon"] = 136211,
+								["isChosen"] = false,
+								["spellID"] = 199214,
+							}, -- [6]
+						},
+					}, -- [3]
+					["level"] = 75,
+					["timestamp"] = 438401.099,
+					["crucibled"] = true,
+				},
+			},
+		},
+	},
+}

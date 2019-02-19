@@ -1,0 +1,8 @@
+MACRO 16777217 "三开" INV_Misc_QuestionMark
+/cast Arcane Power
+/cast mirror image
+END
+MACRO 16777218 "穆鲁" INV_Misc_QuestionMark
+/target 影忍怒火法师
+/cast 变形术
+END

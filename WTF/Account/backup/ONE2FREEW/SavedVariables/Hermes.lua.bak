@@ -1,0 +1,1074 @@
+
+HermesDB2 = {
+	["global"] = {
+		["welcome"] = true,
+		["spellmetadata"] = {
+			[80353] = {
+				["duration"] = "40",
+			},
+			[1766] = {
+				["duration"] = "5",
+			},
+			[47528] = {
+				["duration"] = "4",
+			},
+			[48792] = {
+				["duration"] = "12",
+			},
+			[47788] = {
+				["duration"] = "10",
+			},
+			[1038] = {
+				["duration"] = "10",
+			},
+			[97462] = {
+				["duration"] = "10",
+			},
+			[2139] = {
+				["duration"] = "7",
+			},
+			[6940] = {
+				["duration"] = "12",
+			},
+			[498] = {
+				["duration"] = "10",
+			},
+			[33891] = {
+				["duration"] = "25",
+			},
+			[31850] = {
+				["duration"] = "10",
+			},
+			[22842] = {
+				["duration"] = "20",
+			},
+			[33206] = {
+				["duration"] = "8",
+			},
+			[31224] = {
+				["duration"] = "5",
+			},
+			[64901] = {
+				["duration"] = "8",
+			},
+			[45438] = {
+				["duration"] = "10",
+			},
+			[2094] = {
+				["duration"] = "60",
+			},
+			[5211] = {
+				["duration"] = "4",
+			},
+			[96231] = {
+				["duration"] = "4",
+			},
+			[642] = {
+				["duration"] = "8",
+			},
+			[1022] = {
+				["duration"] = "10",
+			},
+			[32182] = {
+				["duration"] = "40",
+			},
+			[12975] = {
+				["duration"] = "20",
+			},
+			[61336] = {
+				["duration"] = "12",
+			},
+			[6552] = {
+				["duration"] = "4",
+			},
+			[1044] = {
+				["duration"] = "6",
+			},
+			[16190] = {
+				["duration"] = "12",
+			},
+			[55233] = {
+				["duration"] = "10",
+			},
+			[853] = {
+				["duration"] = "6",
+			},
+			[47476] = {
+				["duration"] = "5",
+			},
+			[62618] = {
+				["duration"] = "10",
+			},
+			[98008] = {
+				["duration"] = "6",
+			},
+			[51052] = {
+				["duration"] = "10",
+			},
+			[871] = {
+				["duration"] = "12",
+			},
+			[31821] = {
+				["duration"] = "6",
+			},
+			[64382] = {
+				["duration"] = "10",
+			},
+			[48707] = {
+				["duration"] = "5",
+			},
+			[57994] = {
+				["duration"] = "2",
+			},
+			[740] = {
+				["duration"] = "8",
+			},
+			[20594] = {
+				["2ndcooldown"] = "6",
+			},
+			[64843] = {
+				["duration"] = "8",
+			},
+			[29166] = {
+				["duration"] = "10",
+			},
+			[22812] = {
+				["duration"] = "12",
+			},
+		},
+		["requirements"] = {
+			[698] = {
+				{
+					["k"] = 10,
+					["level"] = 42,
+				}, -- [1]
+			},
+			[80353] = {
+				{
+					["k"] = 10,
+					["level"] = 85,
+				}, -- [1]
+			},
+			[47528] = {
+				{
+					["k"] = 10,
+					["level"] = 57,
+				}, -- [1]
+			},
+			[48792] = {
+				{
+					["k"] = 10,
+					["level"] = 62,
+				}, -- [1]
+			},
+			[47788] = {
+			},
+			[73325] = {
+				{
+					["k"] = 10,
+					["level"] = 85,
+				}, -- [1]
+			},
+			[1038] = {
+				{
+					["k"] = 10,
+					["level"] = 66,
+				}, -- [1]
+			},
+			[97462] = {
+				{
+					["k"] = 10,
+					["level"] = 83,
+				}, -- [1]
+			},
+			[2139] = {
+				{
+					["k"] = 10,
+					["level"] = 10,
+				}, -- [1]
+			},
+			[29893] = {
+				{
+					["k"] = 10,
+					["level"] = 68,
+				}, -- [1]
+			},
+			[6940] = {
+				{
+					["k"] = 10,
+					["level"] = 80,
+				}, -- [1]
+			},
+			[498] = {
+				{
+					["k"] = 10,
+					["level"] = 30,
+				}, -- [1]
+			},
+			[33891] = {
+			},
+			[740] = {
+				{
+					["k"] = 10,
+					["level"] = 68,
+				}, -- [1]
+			},
+			[22842] = {
+				{
+					["k"] = 10,
+					["level"] = 52,
+				}, -- [1]
+			},
+			[33206] = {
+			},
+			[31224] = {
+				{
+					["k"] = 10,
+					["level"] = 58,
+				}, -- [1]
+			},
+			[64901] = {
+				{
+					["k"] = 10,
+					["level"] = 64,
+				}, -- [1]
+			},
+			[47476] = {
+				{
+					["k"] = 10,
+					["level"] = 59,
+				}, -- [1]
+			},
+			[45438] = {
+				{
+					["k"] = 10,
+					["level"] = 30,
+				}, -- [1]
+			},
+			[51052] = {
+			},
+			[2094] = {
+				{
+					["k"] = 10,
+					["level"] = 34,
+				}, -- [1]
+			},
+			[5211] = {
+			},
+			[46584] = {
+				{
+					["k"] = 10,
+					["level"] = 56,
+				}, -- [1]
+			},
+			[42650] = {
+				{
+					["k"] = 10,
+					["level"] = 80,
+				}, -- [1]
+			},
+			[642] = {
+				{
+					["k"] = 10,
+					["level"] = 48,
+				}, -- [1]
+			},
+			[1022] = {
+				{
+					["k"] = 10,
+					["level"] = 18,
+				}, -- [1]
+			},
+			[49222] = {
+			},
+			[32182] = {
+				{
+					["k"] = 10,
+					["level"] = 70,
+				}, -- [1]
+			},
+			[12975] = {
+			},
+			[61336] = {
+			},
+			[6552] = {
+				{
+					["k"] = 10,
+					["level"] = 38,
+				}, -- [1]
+			},
+			[1044] = {
+				{
+					["k"] = 10,
+					["level"] = 52,
+				}, -- [1]
+			},
+			[16190] = {
+			},
+			[55233] = {
+			},
+			[61999] = {
+				{
+					["k"] = 10,
+					["level"] = 72,
+				}, -- [1]
+			},
+			[853] = {
+				{
+					["k"] = 10,
+					["level"] = 14,
+				}, -- [1]
+			},
+			[31687] = {
+				{
+					["k"] = 10,
+					["level"] = 10,
+				}, -- [1]
+			},
+			[22812] = {
+				{
+					["k"] = 10,
+					["level"] = 58,
+				}, -- [1]
+			},
+			[49576] = {
+				{
+					["k"] = 10,
+					["level"] = 55,
+				}, -- [1]
+			},
+			[64382] = {
+				{
+					["k"] = 10,
+					["level"] = 74,
+				}, -- [1]
+			},
+			[62618] = {
+			},
+			[98008] = {
+			},
+			[57994] = {
+				{
+					["k"] = 10,
+					["level"] = 16,
+				}, -- [1]
+			},
+			[29166] = {
+				{
+					["k"] = 10,
+					["level"] = 28,
+				}, -- [1]
+			},
+			[31821] = {
+			},
+			[20608] = {
+				{
+					["k"] = 10,
+					["level"] = 30,
+				}, -- [1]
+			},
+			[48707] = {
+				{
+					["k"] = 10,
+					["level"] = 68,
+				}, -- [1]
+			},
+			[20484] = {
+				{
+					["k"] = 10,
+					["level"] = 20,
+				}, -- [1]
+			},
+			[31850] = {
+			},
+			[20066] = {
+			},
+			[34477] = {
+				{
+					["k"] = 10,
+					["level"] = 76,
+				}, -- [1]
+			},
+			[633] = {
+				{
+					["k"] = 10,
+					["level"] = 16,
+				}, -- [1]
+			},
+			[64843] = {
+				{
+					["k"] = 10,
+					["level"] = 78,
+				}, -- [1]
+			},
+		},
+		["durations"] = {
+			[698] = 120,
+			[80353] = 300,
+			[1766] = 10,
+			[47528] = 10,
+			[59752] = 120,
+			[48792] = 180,
+			[47788] = 180,
+			[73325] = 90,
+			[1038] = 120,
+			[97462] = 180,
+			[2139] = 24,
+			[47476] = 120,
+			[51052] = 120,
+			[46584] = 180,
+			[29893] = 300,
+			[6940] = 120,
+			[498] = 60,
+			[33891] = 180,
+			[31850] = 180,
+			[22842] = 180,
+			[64382] = 300,
+			[33206] = 180,
+			[31224] = 90,
+			[49222] = 60,
+			[64901] = 360,
+			[42650] = 600,
+			[45438] = 300,
+			[61999] = 600,
+			[2094] = 180,
+			[5211] = 60,
+			[96231] = 10,
+			[22812] = 60,
+			[642] = 300,
+			[1022] = 300,
+			[49576] = 35,
+			[32182] = 300,
+			[12975] = 180,
+			[61336] = 180,
+			[6552] = 10,
+			[1044] = 25,
+			[16190] = 180,
+			[55233] = 60,
+			[871] = 300,
+			[29166] = 180,
+			[31687] = 180,
+			[20707] = 900,
+			[57994] = 6,
+			[20594] = 120,
+			[62618] = 180,
+			[98008] = 180,
+			[57934] = 30,
+			[740] = 480,
+			[31821] = 120,
+			[20608] = 1800,
+			[48707] = 45,
+			[20484] = 600,
+			[64843] = 480,
+			[853] = 60,
+			[34477] = 30,
+			[633] = 600,
+			[20066] = 60,
+		},
+		["clientTime"] = 84009.019,
+		["serverTime"] = 1364623288,
+		["adjustments"] = {
+			[740] = {
+			},
+			[2094] = {
+			},
+			[5211] = {
+			},
+			[64843] = {
+			},
+			[1022] = {
+			},
+			[57994] = {
+			},
+			[853] = {
+			},
+			[6940] = {
+			},
+			[871] = {
+			},
+			[498] = {
+			},
+			[49576] = {
+			},
+			[1038] = {
+			},
+			[31224] = {
+			},
+			[46584] = {
+			},
+			[47476] = {
+			},
+			[1044] = {
+			},
+			[45438] = {
+			},
+		},
+	},
+	["profileKeys"] = {
+		["梧桐雨 - 伊森利恩"] = "梧桐雨 - 伊森利恩",
+	},
+	["profiles"] = {
+		["梧桐雨 - 伊森利恩"] = {
+			["pluginState"] = {
+				["LegacyUI"] = true,
+			},
+			["spells"] = {
+				{
+					["enabled"] = false,
+					["name"] = "Anti-Magic Shell",
+					["id"] = 48707,
+					["class"] = "DEATHKNIGHT",
+					["icon"] = "Interface\\Icons\\Spell_Shadow_AntiMagicShell",
+				}, -- [1]
+				{
+					["enabled"] = false,
+					["name"] = "Anti-Magic Zone",
+					["id"] = 51052,
+					["class"] = "DEATHKNIGHT",
+					["icon"] = "Interface\\Icons\\Spell_DeathKnight_AntiMagicZone",
+				}, -- [2]
+				{
+					["enabled"] = false,
+					["name"] = "Ardent Defender",
+					["id"] = 31850,
+					["class"] = "PALADIN",
+					["icon"] = "Interface\\Icons\\Spell_Holy_ArdentDefender",
+				}, -- [3]
+				{
+					["enabled"] = false,
+					["name"] = "Army of the Dead",
+					["id"] = 42650,
+					["class"] = "DEATHKNIGHT",
+					["icon"] = "Interface\\Icons\\Spell_DeathKnight_ArmyOfTheDead",
+				}, -- [4]
+				{
+					["enabled"] = false,
+					["name"] = "Barkskin",
+					["id"] = 22812,
+					["class"] = "DRUID",
+					["icon"] = "Interface\\Icons\\Spell_Nature_StoneClawTotem",
+				}, -- [5]
+				{
+					["enabled"] = false,
+					["name"] = "Blind",
+					["id"] = 2094,
+					["class"] = "ROGUE",
+					["icon"] = "Interface\\Icons\\Spell_Shadow_MindSteal",
+				}, -- [6]
+				{
+					["enabled"] = false,
+					["name"] = "Bone Shield",
+					["id"] = 49222,
+					["class"] = "DEATHKNIGHT",
+					["icon"] = "INTERFACE\\ICONS\\ability_deathknight_boneshield",
+				}, -- [7]
+				{
+					["enabled"] = false,
+					["name"] = "Cloak of Shadows",
+					["id"] = 31224,
+					["class"] = "ROGUE",
+					["icon"] = "Interface\\Icons\\Spell_Shadow_NetherCloak",
+				}, -- [8]
+				{
+					["enabled"] = false,
+					["name"] = "Counterspell",
+					["id"] = 2139,
+					["class"] = "MAGE",
+					["icon"] = "Interface\\Icons\\Spell_Frost_IceShock",
+				}, -- [9]
+				{
+					["enabled"] = false,
+					["name"] = "Create Soulwell",
+					["id"] = 29893,
+					["class"] = "WARLOCK",
+					["icon"] = "Interface\\Icons\\Spell_Shadow_Shadesofdarkness",
+				}, -- [10]
+				{
+					["enabled"] = false,
+					["name"] = "Death Grip",
+					["id"] = 49576,
+					["class"] = "DEATHKNIGHT",
+					["icon"] = "Interface\\Icons\\Spell_DeathKnight_Strangulate",
+				}, -- [11]
+				{
+					["enabled"] = false,
+					["name"] = "Devotion Aura",
+					["id"] = 31821,
+					["class"] = "PALADIN",
+					["icon"] = "Interface\\Icons\\Spell_Holy_AuraMastery",
+				}, -- [12]
+				{
+					["enabled"] = false,
+					["name"] = "Divine Hymn",
+					["id"] = 64843,
+					["class"] = "PRIEST",
+					["icon"] = "Interface\\Icons\\Spell_Holy_DivineHymn",
+				}, -- [13]
+				{
+					["enabled"] = false,
+					["name"] = "Divine Protection",
+					["id"] = 498,
+					["class"] = "PALADIN",
+					["icon"] = "Interface\\Icons\\spell_holy_divineprotection",
+				}, -- [14]
+				{
+					["enabled"] = false,
+					["name"] = "Divine Shield",
+					["id"] = 642,
+					["class"] = "PALADIN",
+					["icon"] = "Interface\\Icons\\spell_holy_divineshield",
+				}, -- [15]
+				{
+					["enabled"] = false,
+					["name"] = "Every Man for Himself",
+					["id"] = 59752,
+					["class"] = "ANY",
+					["icon"] = "Interface\\Icons\\Spell_Shadow_Charm",
+				}, -- [16]
+				{
+					["enabled"] = false,
+					["name"] = "Frenzied Regeneration",
+					["id"] = 22842,
+					["class"] = "DRUID",
+					["icon"] = "Interface\\Icons\\Ability_BullRush",
+				}, -- [17]
+				{
+					["enabled"] = false,
+					["name"] = "Guardian Spirit",
+					["id"] = 47788,
+					["class"] = "PRIEST",
+					["icon"] = "Interface\\Icons\\Spell_Holy_GuardianSpirit",
+				}, -- [18]
+				{
+					["enabled"] = false,
+					["name"] = "Hammer of Justice",
+					["id"] = 853,
+					["class"] = "PALADIN",
+					["icon"] = "Interface\\Icons\\Spell_Holy_SealOfMight",
+				}, -- [19]
+				{
+					["enabled"] = false,
+					["name"] = "Hand of Freedom",
+					["id"] = 1044,
+					["class"] = "PALADIN",
+					["icon"] = "Interface\\Icons\\Spell_Holy_SealOfValor",
+				}, -- [20]
+				{
+					["enabled"] = false,
+					["name"] = "Hand of Protection",
+					["id"] = 1022,
+					["class"] = "PALADIN",
+					["icon"] = "Interface\\Icons\\Spell_Holy_SealOfProtection",
+				}, -- [21]
+				{
+					["enabled"] = false,
+					["name"] = "Hand of Sacrifice",
+					["id"] = 6940,
+					["class"] = "PALADIN",
+					["icon"] = "Interface\\Icons\\Spell_Holy_SealOfSacrifice",
+				}, -- [22]
+				{
+					["enabled"] = false,
+					["name"] = "Hand of Salvation",
+					["id"] = 1038,
+					["class"] = "PALADIN",
+					["icon"] = "Interface\\Icons\\Spell_Holy_SealOfSalvation",
+				}, -- [23]
+				{
+					["enabled"] = false,
+					["name"] = "Heroism",
+					["id"] = 32182,
+					["class"] = "SHAMAN",
+					["icon"] = "Interface\\Icons\\Ability_Shaman_Heroism",
+				}, -- [24]
+				{
+					["enabled"] = false,
+					["name"] = "Hymn of Hope",
+					["id"] = 64901,
+					["class"] = "PRIEST",
+					["icon"] = "Interface\\Icons\\Spell_Holy_SymbolOfHope",
+				}, -- [25]
+				{
+					["enabled"] = false,
+					["name"] = "Ice Block",
+					["id"] = 45438,
+					["class"] = "MAGE",
+					["icon"] = "Interface\\Icons\\Spell_Frost_Frost",
+				}, -- [26]
+				{
+					["enabled"] = false,
+					["name"] = "Icebound Fortitude",
+					["id"] = 48792,
+					["class"] = "DEATHKNIGHT",
+					["icon"] = "Interface\\Icons\\Spell_DeathKnight_IceBoundFortitude",
+				}, -- [27]
+				{
+					["enabled"] = false,
+					["name"] = "Incarnation: Tree of Life",
+					["id"] = 33891,
+					["class"] = "DRUID",
+					["icon"] = "Interface\\Icons\\Ability_Druid_ImprovedTreeForm",
+				}, -- [28]
+				{
+					["enabled"] = false,
+					["name"] = "Innervate",
+					["id"] = 29166,
+					["class"] = "DRUID",
+					["icon"] = "Interface\\Icons\\Spell_Nature_Lightning",
+				}, -- [29]
+				{
+					["enabled"] = false,
+					["name"] = "Kick",
+					["id"] = 1766,
+					["class"] = "ROGUE",
+					["icon"] = "Interface\\Icons\\Ability_Kick",
+				}, -- [30]
+				{
+					["enabled"] = false,
+					["name"] = "Last Stand",
+					["id"] = 12975,
+					["class"] = "WARRIOR",
+					["icon"] = "Interface\\Icons\\Spell_Holy_AshesToAshes",
+				}, -- [31]
+				{
+					["enabled"] = false,
+					["name"] = "Lay on Hands",
+					["id"] = 633,
+					["class"] = "PALADIN",
+					["icon"] = "Interface\\Icons\\Spell_Holy_LayOnHands",
+				}, -- [32]
+				{
+					["enabled"] = false,
+					["name"] = "Leap of Faith",
+					["id"] = 73325,
+					["class"] = "PRIEST",
+					["icon"] = "INTERFACE\\ICONS\\priest_spell_leapoffaith_a",
+				}, -- [33]
+				{
+					["enabled"] = false,
+					["name"] = "Mana Tide Totem",
+					["id"] = 16190,
+					["class"] = "SHAMAN",
+					["icon"] = "Interface\\Icons\\Spell_Frost_SummonWaterElemental",
+				}, -- [34]
+				{
+					["enabled"] = false,
+					["name"] = "Mighty Bash",
+					["id"] = 5211,
+					["class"] = "DRUID",
+					["icon"] = "Interface\\Icons\\Ability_Druid_Bash",
+				}, -- [35]
+				{
+					["enabled"] = false,
+					["name"] = "Mind Freeze",
+					["id"] = 47528,
+					["class"] = "DEATHKNIGHT",
+					["icon"] = "Interface\\Icons\\Spell_DeathKnight_MindFreeze",
+				}, -- [36]
+				{
+					["enabled"] = false,
+					["name"] = "Misdirection",
+					["id"] = 34477,
+					["class"] = "HUNTER",
+					["icon"] = "Interface\\Icons\\Ability_Hunter_Misdirection",
+				}, -- [37]
+				{
+					["enabled"] = false,
+					["name"] = "Pain Suppression",
+					["id"] = 33206,
+					["class"] = "PRIEST",
+					["icon"] = "Interface\\Icons\\Spell_Holy_PainSupression",
+				}, -- [38]
+				{
+					["enabled"] = false,
+					["name"] = "Power Word: Barrier",
+					["id"] = 62618,
+					["class"] = "PRIEST",
+					["icon"] = "Interface\\Icons\\spell_holy_powerwordbarrier",
+				}, -- [39]
+				{
+					["enabled"] = false,
+					["name"] = "Pummel",
+					["id"] = 6552,
+					["class"] = "WARRIOR",
+					["icon"] = "Interface\\Icons\\INV_Gauntlets_04",
+				}, -- [40]
+				{
+					["enabled"] = false,
+					["name"] = "Raise Ally",
+					["id"] = 61999,
+					["class"] = "DEATHKNIGHT",
+					["icon"] = "Interface\\Icons\\Spell_Shadow_DeadofNight",
+				}, -- [41]
+				{
+					["enabled"] = false,
+					["name"] = "Raise Dead",
+					["id"] = 46584,
+					["class"] = "DEATHKNIGHT",
+					["icon"] = "Interface\\Icons\\Spell_Shadow_AnimateDead",
+				}, -- [42]
+				{
+					["enabled"] = false,
+					["name"] = "Rallying Cry",
+					["id"] = 97462,
+					["class"] = "WARRIOR",
+					["icon"] = "INTERFACE\\ICONS\\ability_toughness",
+				}, -- [43]
+				{
+					["enabled"] = false,
+					["name"] = "Rebirth",
+					["id"] = 20484,
+					["class"] = "DRUID",
+					["icon"] = "Interface\\Icons\\Spell_Nature_Reincarnation",
+				}, -- [44]
+				{
+					["enabled"] = false,
+					["name"] = "Rebuke",
+					["id"] = 96231,
+					["class"] = "PALADIN",
+					["icon"] = "Interface\\Icons\\spell_holy_rebuke",
+				}, -- [45]
+				{
+					["enabled"] = false,
+					["name"] = "Reincarnation",
+					["id"] = 20608,
+					["class"] = "SHAMAN",
+					["icon"] = "INTERFACE\\ICONS\\spell_shaman_improvedreincarnation",
+				}, -- [46]
+				{
+					["enabled"] = false,
+					["name"] = "Repentance",
+					["id"] = 20066,
+					["class"] = "PALADIN",
+					["icon"] = "Interface\\Icons\\Spell_Holy_PrayerOfHealing",
+				}, -- [47]
+				{
+					["enabled"] = false,
+					["name"] = "Ritual of Summoning",
+					["id"] = 698,
+					["class"] = "WARLOCK",
+					["icon"] = "Interface\\Icons\\Spell_Shadow_Twilight",
+				}, -- [48]
+				{
+					["enabled"] = false,
+					["name"] = "Shattering Throw",
+					["id"] = 64382,
+					["class"] = "WARRIOR",
+					["icon"] = "Interface\\Icons\\Ability_Warrior_ShatteringThrow",
+				}, -- [49]
+				{
+					["enabled"] = false,
+					["name"] = "Shield Wall",
+					["id"] = 871,
+					["class"] = "WARRIOR",
+					["icon"] = "Interface\\Icons\\Ability_Warrior_ShieldWall",
+				}, -- [50]
+				{
+					["enabled"] = false,
+					["name"] = "Soulstone",
+					["id"] = 20707,
+					["class"] = "WARLOCK",
+					["icon"] = "Interface\\Icons\\Spell_Shadow_SoulGem",
+				}, -- [51]
+				{
+					["enabled"] = false,
+					["name"] = "Spirit Link Totem",
+					["id"] = 98008,
+					["class"] = "SHAMAN",
+					["icon"] = "Interface\\Icons\\Spell_Shaman_SpiritLink",
+				}, -- [52]
+				{
+					["enabled"] = false,
+					["name"] = "Stoneform",
+					["id"] = 20594,
+					["class"] = "ANY",
+					["icon"] = "Interface\\Icons\\Spell_Shadow_UnholyStrength",
+				}, -- [53]
+				{
+					["enabled"] = false,
+					["name"] = "Strangulate",
+					["id"] = 47476,
+					["class"] = "DEATHKNIGHT",
+					["icon"] = "Interface\\Icons\\Spell_Shadow_SoulLeech_3",
+				}, -- [54]
+				{
+					["enabled"] = false,
+					["name"] = "Summon Water Elemental",
+					["id"] = 31687,
+					["class"] = "MAGE",
+					["icon"] = "Interface\\Icons\\Spell_Frost_SummonWaterElemental_2",
+				}, -- [55]
+				{
+					["enabled"] = false,
+					["name"] = "Survival Instincts",
+					["id"] = 61336,
+					["class"] = "DRUID",
+					["icon"] = "Interface\\Icons\\Ability_Druid_TigersRoar",
+				}, -- [56]
+				{
+					["enabled"] = false,
+					["name"] = "Time Warp",
+					["id"] = 80353,
+					["class"] = "MAGE",
+					["icon"] = "INTERFACE\\ICONS\\ability_mage_timewarp",
+				}, -- [57]
+				{
+					["enabled"] = false,
+					["name"] = "Tranquility",
+					["id"] = 740,
+					["class"] = "DRUID",
+					["icon"] = "Interface\\Icons\\Spell_Nature_Tranquility",
+				}, -- [58]
+				{
+					["enabled"] = false,
+					["name"] = "Tricks of the Trade",
+					["id"] = 57934,
+					["class"] = "ROGUE",
+					["icon"] = "Interface\\Icons\\Ability_Rogue_TricksOftheTrade",
+				}, -- [59]
+				{
+					["enabled"] = false,
+					["name"] = "Vampiric Blood",
+					["id"] = 55233,
+					["class"] = "DEATHKNIGHT",
+					["icon"] = "Interface\\Icons\\Spell_Shadow_LifeDrain",
+				}, -- [60]
+				{
+					["enabled"] = false,
+					["name"] = "Wind Shear",
+					["id"] = 57994,
+					["class"] = "SHAMAN",
+					["icon"] = "Interface\\Icons\\Spell_Nature_Cyclone",
+				}, -- [61]
+			},
+			["items"] = {
+				{
+					["enabled"] = false,
+					["name"] = "Mirror of Broken Images",
+					["id"] = -62471,
+					["class"] = "ANY",
+					["icon"] = "Interface\\Icons\\INV_Misc_Platnumdisks",
+				}, -- [1]
+			},
+			["welcome"] = true,
+			["plugins"] = {
+				["LegacyUI"] = {
+					["locked"] = false,
+					["containers"] = {
+						{
+							["npCCFont"] = true,
+							["h"] = 150,
+							["btnColor"] = false,
+							["barColorC"] = {
+								["a"] = 0.82,
+								["r"] = 0.55,
+								["g"] = 0.55,
+								["b"] = 0.55,
+							},
+							["cellHideNoAvailSender"] = false,
+							["barCCCFont"] = false,
+							["npW"] = 100,
+							["cellHideNoSender"] = false,
+							["y"] = 614.9999389648438,
+							["cellSide"] = false,
+							["barTexture"] = "Blizzard",
+							["w"] = 250,
+							["barColorU"] = {
+								["a"] = 0.41,
+								["r"] = 0.22,
+								["g"] = 0.22,
+								["b"] = 0.22,
+							},
+							["npBarColor"] = {
+								["a"] = 1,
+								["r"] = 0,
+								["g"] = 1,
+								["b"] = 0,
+							},
+							["x"] = 835,
+							["style"] = "Buttons",
+							["padding"] = 6,
+							["cellBGColor"] = {
+								["a"] = 0,
+								["r"] = 0,
+								["g"] = 0,
+								["b"] = 0,
+							},
+							["barPadding"] = 0,
+							["abilities"] = {
+							},
+							["npUseNameplate"] = true,
+							["npFontColor"] = {
+								["a"] = 1,
+								["r"] = 1,
+								["g"] = 1,
+								["b"] = 1,
+							},
+							["barCCU"] = false,
+							["npFontSize"] = 0.6,
+							["barFont"] = "Friz Quadrata TT",
+							["scale"] = 1,
+							["barBGColorC"] = {
+								["a"] = 0.3,
+								["r"] = 0,
+								["g"] = 0,
+								["b"] = 0,
+							},
+							["npFont"] = "Friz Quadrata TT",
+							["barOutlineFont"] = false,
+							["barCCC"] = false,
+							["barCCUFont"] = false,
+							["barColorCFont"] = {
+								["a"] = 0.77,
+								["r"] = 1,
+								["g"] = 1,
+								["b"] = 1,
+							},
+							["barCCA"] = true,
+							["npTexture"] = "Blizzard",
+							["npOutlineFont"] = false,
+							["barColorAFont"] = {
+								["a"] = 1,
+								["r"] = 0.94,
+								["g"] = 0.94,
+								["b"] = 0.94,
+							},
+							["barH"] = 20,
+							["enableTooltip"] = true,
+							["barGap"] = 0,
+							["npCCBar"] = false,
+							["npH"] = 20,
+							["cellDir"] = false,
+							["npUseIcon"] = true,
+							["barFontSize"] = 0.6,
+							["barBGCCC"] = false,
+							["barCCAFont"] = true,
+							["cellMax"] = 5,
+							["barTextRatio"] = 50,
+							["cellAnchor"] = "TOPLEFT",
+							["barColorUFont"] = {
+								["a"] = 0.77,
+								["r"] = 1,
+								["g"] = 1,
+								["b"] = 1,
+							},
+							["npTexColor"] = {
+								["a"] = 1,
+								["r"] = 0.17,
+								["g"] = 0.17,
+								["b"] = 0.17,
+							},
+							["barColorA"] = {
+								["a"] = 1,
+								["r"] = 0.94,
+								["g"] = 0.94,
+								["b"] = 0.94,
+							},
+							["barW"] = 152,
+						}, -- [1]
+					},
+				},
+			},
+		},
+	},
+}

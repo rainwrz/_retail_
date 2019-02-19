@@ -1,0 +1,43 @@
+MACRO 16777221 "aoe" INV_Misc_QuestionMark
+#showtooltip
+/cast Swipe (Bear)
+/cast Maul
+END
+MACRO 16777220 "charge" INV_Misc_QuestionMark
+#showtooltip
+/cast Feral Charge - Bear
+/cast [mod]Feral Charge - Cat
+END
+MACRO 16777224 "Fire" INV_Misc_QuestionMark
+#showtooltip
+/cast Faerie Fire (Feral)
+/cast Maul
+END
+MACRO 16777223 "La" INV_Misc_QuestionMark
+#showtooltip
+/cast Lacerate
+/cast Maul
+END
+MACRO 16777219 "shield wall" INV_Misc_QuestionMark
+#showtooltip Barkskin
+/cast Barkskin
+/cast Frenzied Regeneration
+/use Fel Healthstone
+/use Satrina's Impeding Scarab
+/use Corroded Skeleton Key
+/use Indestructible Potion
+END
+MACRO 16777222 "survival" INV_Misc_QuestionMark
+#showtooltip Survival Instincts
+/cast Survival Instincts
+/use Satrina's Impeding Scarab
+END
+MACRO 16777217 "刷" INV_Misc_QuestionMark
+/CAST 自然迅捷
+/CAST 治疗之触(等级 13)
+END
+MACRO 16777218 "杀" INV_Misc_QuestionMark
+#showtooltip
+/cast Mangle (Bear)(Rank 5)
+/cast  Maul
+END

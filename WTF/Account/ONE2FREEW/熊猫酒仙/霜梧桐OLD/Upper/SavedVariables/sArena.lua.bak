@@ -1,0 +1,23 @@
+
+sArenaDB = {
+	["flipCastingBar"] = false,
+	["statusTextSize"] = 10,
+	["classcolours"] = {
+		["frame"] = false,
+		["health"] = true,
+		["name"] = true,
+	},
+	["scale"] = 1.2,
+	["growUpwards"] = false,
+	["firstrun"] = false,
+	["position"] = {
+	},
+	["version"] = 10,
+	["Trinkets"] = {
+		["alwaysShow"] = true,
+		["scale"] = 1,
+		["enabled"] = true,
+	},
+	["lock"] = false,
+	["castingBarScale"] = 1.2,
+}

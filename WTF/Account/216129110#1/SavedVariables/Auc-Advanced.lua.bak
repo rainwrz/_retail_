@@ -1,0 +1,35 @@
+
+AucAdvancedConfig = {
+	["users.熊猫酒仙.高坂穗乃果灬"] = "Default",
+	["profile.Default"] = {
+		["stat"] = {
+			["sales"] = {
+				["upgraded32"] = true,
+				["ignoredsigs"] = {
+				},
+			},
+		},
+		["util"] = {
+			["automagic"] = {
+				["uierrormsg"] = 1,
+				["SavedMailButtons"] = {
+				},
+			},
+		},
+	},
+	["version"] = 1,
+}
+AucAdvancedData = {
+	["Stats"] = {
+	},
+}
+AucAdvancedServers = {
+	["Timestamp"] = 1501761698,
+	["KnownRealms"] = {
+		["熊猫酒仙"] = "熊猫酒仙",
+	},
+	["KnownServerKeys"] = {
+		["熊猫酒仙"] = 1501761724,
+	},
+	["Version"] = 1,
+}

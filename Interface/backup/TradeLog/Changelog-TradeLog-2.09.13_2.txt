@@ -1,0 +1,39 @@
+------------------------------------------------------------------------
+r7 | warbaby | 2012-09-13 04:07:40 +0000 (Thu, 13 Sep 2012) | 1 line
+Changed paths:
+   A /tags/2.09.13_2 (from /trunk:6)
+
+Tagging as 2.09.13_2
+------------------------------------------------------------------------
+r6 | warbaby | 2012-09-13 04:07:13 +0000 (Thu, 13 Sep 2012) | 1 line
+Changed paths:
+   M /trunk/RecentTradeFrame.lua
+   M /trunk/RecentTradeFrame.xml
+
+- some minor fix...
+------------------------------------------------------------------------
+r4 | warbaby | 2012-09-13 03:56:49 +0000 (Thu, 13 Sep 2012) | 2 lines
+Changed paths:
+   A /trunk/Libs
+   A /trunk/Libs/CallbackHandler-1.0
+   A /trunk/Libs/CallbackHandler-1.0/CallbackHandler-1.0.lua
+   A /trunk/Libs/LibDBIcon-1.0.lua
+   A /trunk/Libs/LibDBIcon-1.0.xml
+   A /trunk/Libs/LibDataBroker-1.1
+   A /trunk/Libs/LibDataBroker-1.1/LibDataBroker-1.1.lua
+   A /trunk/Libs/LibStub
+   A /trunk/Libs/LibStub/LibStub.lua
+   M /trunk/RecentTradeFrame.lua
+   M /trunk/RecentTradeFrame.xml
+   M /trunk/TradeLog.lua
+   M /trunk/TradeLog.toc
+   M /trunk/TradeLogFrame.lua
+   M /trunk/TradeLogFrame.xml
+   M /trunk/localization-enUS.lua
+   A /trunk/localization-koKR.lua
+   M /trunk/localization-zhCN.lua
+   M /trunk/localization-zhTW.lua
+
+- fix the frames' positions
+- use LibDBIcon for minimap button
+------------------------------------------------------------------------

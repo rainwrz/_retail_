@@ -1,0 +1,38 @@
+
+oRA3DB = {
+	["namespaces"] = {
+		["BattleRes"] = {
+		},
+		["Invite"] = {
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["ReadyCheck"] = {
+		},
+		["Difficulty"] = {
+		},
+		["Loot"] = {
+		},
+		["Promote"] = {
+		},
+		["Cooldowns"] = {
+		},
+		["Tanks"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Crianna - 安东尼达斯"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["positions"] = {
+				["oRA3CooldownFrame"] = {
+					["Height"] = 147.999923706055,
+					["Width"] = 200.000076293945,
+					["PosY"] = 432.099981098909,
+					["PosX"] = 617.666642993536,
+				},
+			},
+		},
+	},
+}

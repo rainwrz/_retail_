@@ -1,0 +1,60 @@
+VER 3 010000000000000C "1" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast Berserk
+/cast Heart of the Wild(Talent)
+END
+VER 3 0100000000000005 "aoe" "INV_Misc_QuestionMark"
+#showtooltip Swipe
+/cast Swipe
+/cast Maul
+/cast Thrash
+END
+VER 3 0100000000000004 "charge" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod:ctrl]Feral Charge(Cat Form)
+/cast Feral Charge(Bear Form)
+END
+VER 3 010000000000000A "e" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Frenzied Regeneration(Bear Form)
+/use Ruthless Gladiator's Emblem of Tenacity
+END
+VER 3 0100000000000008 "Fire" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Faerie Fire 
+/cast Enrage
+END
+VER 3 0100000000000007 "La" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Lacerate
+/cast Enrage
+END
+VER 3 0100000000000003 "shield wall" "INV_Misc_QuestionMark"
+#showtooltip Barkskin
+/cast Barkskin
+/use Stay of Execution
+END
+VER 3 0100000000000006 "survival" "INV_Misc_QuestionMark"
+#showtooltip Might of Ursoc
+/cast Might of Ursoc
+/use healstone
+END
+VER 3 0100000000000001 "刷" "INV_Misc_QuestionMark"
+#showtooltip
+/CAST 自然迅捷
+/CAST 治疗之触(等级 13)
+END
+VER 3 0100000000000009 "收材料" "INV_Misc_QuestionMark"
+/2 大量收 暗色龙磷370/组 原始皮革270 土8/个 火10/个 支持邮寄
+END
+VER 3 0100000000000002 "杀" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Mangle
+/cast Enrage
+/cast [mod:shift]Maul
+END
+VER 3 010000000000000B "狂暴" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast Berserk
+/use Curse of Hubris
+END

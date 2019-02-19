@@ -1,0 +1,82 @@
+mage="Mage_Frost_T19M"
+level=110
+race=troll
+role=spell
+position=back
+talents=3122111
+artifact=53:139259:139269:139259:0:783:1:784:3:785:3:786:5:788:3:789:4:790:3:791:3:792:3:793:1:794:1:795:1:796:1:797:1:798:1:1296:1
+spec=frost
+
+# This default action priority list is automatically created based on your character.
+# It is a attempt to provide you with a action list that is both simple and practicable,
+# while resulting in a meaningful and good simulation. It may not result in the absolutely highest possible dps.
+# Feel free to edit, adapt and improve it to your own needs.
+# SimulationCraft is always looking for updates and improvements to the default action lists.
+
+# Executed before combat begins. Accepts non-harmful actions only.
+actions.precombat=flask,type=flask_of_the_whispered_pact
+actions.precombat+=/food,type=azshari_salad
+actions.precombat+=/augmentation,type=defiled
+actions.precombat+=/water_elemental
+actions.precombat+=/snapshot_stats
+actions.precombat+=/mirror_image
+actions.precombat+=/potion,name=deadly_grace
+actions.precombat+=/frostbolt
+
+# Executed every time the actor is available.
+actions=counterspell,if=target.debuff.casting.react
+actions+=/ice_lance,if=buff.fingers_of_frost.react=0&prev_gcd.flurry
+actions+=/time_warp,if=(time=0&buff.bloodlust.down)|(buff.bloodlust.down&equipped.132410)
+actions+=/call_action_list,name=cooldowns
+actions+=/blizzard,if=buff.potion_of_deadly_grace.up&!prev_off_gcd.water_jet
+actions+=/ice_nova,if=debuff.winters_chill.up
+actions+=/frostbolt,if=prev_off_gcd.water_jet
+actions+=/water_jet,if=prev_gcd.frostbolt&buff.fingers_of_frost.stack<(2+artifact.icy_hand.enabled)&buff.brain_freeze.react=0
+actions+=/ray_of_frost,if=buff.icy_veins.up|(cooldown.icy_veins.remains>action.ray_of_frost.cooldown&buff.rune_of_power.down)
+actions+=/flurry,if=buff.brain_freeze.react&buff.fingers_of_frost.react=0&prev_gcd.frostbolt
+actions+=/glacial_spike
+actions+=/frozen_touch,if=buff.fingers_of_frost.stack<=(0+artifact.icy_hand.enabled)
+actions+=/frost_bomb,if=debuff.frost_bomb.remains<action.ice_lance.travel_time&buff.fingers_of_frost.react>0
+actions+=/ice_lance,if=buff.fingers_of_frost.react>0&cooldown.icy_veins.remains>10|buff.fingers_of_frost.react>2
+actions+=/frozen_orb
+actions+=/ice_nova
+actions+=/comet_storm
+actions+=/blizzard,if=talent.artic_gale.enabled
+actions+=/ebonbolt,if=buff.fingers_of_frost.stack<=(0+artifact.icy_hand.enabled)
+actions+=/frostbolt
+
+actions.cooldowns=rune_of_power,if=cooldown.icy_veins.remains<cast_time|charges_fractional>1.9&cooldown.icy_veins.remains>10|buff.icy_veins.up|target.time_to_die.remains+5<charges_fractional*10
+actions.cooldowns+=/icy_veins,if=buff.icy_veins.down
+actions.cooldowns+=/mirror_image
+actions.cooldowns+=/use_item,slot=neck
+actions.cooldowns+=/use_item,slot=trinket2
+actions.cooldowns+=/blood_fury
+actions.cooldowns+=/berserking
+actions.cooldowns+=/arcane_torrent
+actions.cooldowns+=/potion,name=deadly_grace
+
+head=hood_of_darkened_visions,id=139189,bonus_id=1806
+neck=sorcerous_shadowruby_pendant,id=130233,bonus_id=1758/689/601/669,gem_id=130219,enchant=mark_of_the_hidden_satyr,enchant_id=5439
+shoulders=mantle_of_perpetual_bloom,id=139192,bonus_id=1806
+back=mantle_of_the_victorious_dead,id=142540,bonus_id=1502,enchant=binding_of_intellect
+chest=robes_of_celestial_adornment,id=142410,bonus_id=1502
+wrists=cinch_of_cosmic_insignficance,id=139187,bonus_id=1806
+hands=handwraps_of_delusional_power,id=138212,bonus_id=1806
+waist=pliable_spider_silk_cinch,id=138217,bonus_id=1806
+legs=leggings_of_the_lower_planes,id=142413,bonus_id=1502
+feet=cozy_dryad_hoofsocks,id=139194,bonus_id=1806
+finger1=shard_of_the_exodar,id=132410,enchant=binding_of_haste
+finger2=grubby_silver_ring,id=139236,bonus_id=1806,enchant=binding_of_haste
+trinket1=swarming_plaguehive,id=139321,bonus_id=1806
+trinket2=wriggling_sinew,id=139326,bonus_id=1806
+main_hand=ebonchill,id=128862,ilevel=906
+
+# Gear Summary
+# gear_ilvl=880.73
+# gear_stamina=25820
+# gear_intellect=26532
+# gear_crit_rating=9276
+# gear_haste_rating=7754
+# gear_mastery_rating=2321
+# gear_versatility_rating=1361
+# gear_armor=1810

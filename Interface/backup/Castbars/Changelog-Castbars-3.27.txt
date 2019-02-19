@@ -1,0 +1,19 @@
+------------------------------------------------------------------------
+r188 | xbeeps | 2011-12-03 16:41:03 +0000 (Sat, 03 Dec 2011) | 1 line
+Changed paths:
+   A /tags/3.27 (from /trunk:187)
+
+Tagging as 3.27
+------------------------------------------------------------------------
+r187 | xbeeps | 2011-12-03 16:32:36 +0000 (Sat, 03 Dec 2011) | 1 line
+Changed paths:
+   M /trunk/Castbars.lua
+
+Prevent Blizzard UI from messing with the player and pet castbars.
+------------------------------------------------------------------------
+r185 | xbeeps | 2011-11-30 20:19:38 +0000 (Wed, 30 Nov 2011) | 1 line
+Changed paths:
+   M /trunk/Castbars.toc
+
+Bump TOC
+------------------------------------------------------------------------

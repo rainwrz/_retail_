@@ -1,0 +1,10 @@
+
+GladiatorlosSADB = {
+	["profileKeys"] = {
+		["雾梧桐 - 熊猫酒仙"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

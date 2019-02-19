@@ -1,0 +1,46 @@
+
+DataStore_AgendaDB = {
+	["profileKeys"] = {
+		["霜梧桐 - 熊猫酒仙"] = "霜梧桐 - 熊猫酒仙",
+	},
+	["global"] = {
+		["Options"] = {
+			["WeeklyResetHour"] = 6,
+			["WeeklyResetDay"] = 4,
+			["NextWeeklyReset"] = "2015-03-19",
+		},
+		["Characters"] = {
+			["Default.熊猫酒仙.霜梧桐"] = {
+				["Contacts"] = {
+					["滚犊儿"] = {
+						["note"] = "",
+						["class"] = "Druid",
+						["level"] = 100,
+					},
+					["冰霜柠檬"] = {
+						["note"] = "",
+					},
+					["范饭"] = {
+						["note"] = "",
+					},
+					["逆霜"] = {
+						["note"] = "",
+						["class"] = "Mage",
+						["level"] = 100,
+					},
+					["性感咖啡涩"] = {
+						["note"] = "",
+					},
+					["呆呆幽萨丝"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1426345585,
+				["DungeonIDs"] = {
+					["Blackrock Foundry Heroic|205116509"] = "381210|1426345585|0|1",
+					["Highmaul Mythic|205270013"] = "381210|1426345585|0|1",
+				},
+			},
+		},
+	},
+}

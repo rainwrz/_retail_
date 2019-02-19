@@ -1,0 +1,47 @@
+------------------------------------------------------------------------
+r725 | sfchang | 2011-02-08 15:34:36 +0000 (Tue, 08 Feb 2011) | 2 lines
+Changed paths:
+   M /trunk/ag_Extras/modules/xprepbar/xprepbar.lua
+   M /trunk/ag_GroupClass.lua
+
+* remove agparty* log message
+* fix pet frame xp bar
+------------------------------------------------------------------------
+r724 | sfchang | 2011-02-07 05:26:46 +0000 (Mon, 07 Feb 2011) | 1 line
+Changed paths:
+   M /trunk/ag_Extras/modules/portrait/portrait.lua
+
+* 'this' no longer available.
+------------------------------------------------------------------------
+r723 | sfchang | 2011-02-05 09:08:41 +0000 (Sat, 05 Feb 2011) | 1 line
+Changed paths:
+   M /trunk/ag_GroupClass.lua
+
+* fix group party frame, due to SetupUnitButtonConfiguration() changed.
+------------------------------------------------------------------------
+r722 | sfchang | 2011-02-03 10:57:45 +0000 (Thu, 03 Feb 2011) | 2 lines
+Changed paths:
+   M /trunk/ag_UnitFrames.lua
+
+* Remove UNIT_MANA, UNIT_ENERGY, UNIT_RAGE, UNIT_RUNIC_POWER, UNIT_FOCUS 
+* Add UNIT_POWER
+------------------------------------------------------------------------
+r721 | sfchang | 2011-02-03 10:56:01 +0000 (Thu, 03 Feb 2011) | 2 lines
+Changed paths:
+   M /trunk/modules/powerbar/powerbar.lua
+
+* UNIT_MANA, UNIT_ENERGY, UNIT_RAGE, UNIT_RUNIC_POWER, UNIT_FOCUS and UNIT_HAPPINESS events, as well as their UNIT_MAX* counterparts, no longer fire. UNIT_POWER and UNIT_MAXPOWER may be used instead. 
+
+------------------------------------------------------------------------
+r720 | sfchang | 2011-02-03 10:51:57 +0000 (Thu, 03 Feb 2011) | 1 line
+Changed paths:
+   M /trunk/modules/lfgicon/lfgicon.lua
+
+* Fix LFG icon, due to UnitGroupRolesAssigned() changed.
+------------------------------------------------------------------------
+r719 | andreasg | 2010-12-16 00:34:08 +0000 (Thu, 16 Dec 2010) | 1 line
+Changed paths:
+   M /trunk/ag_UnitClass.lua
+
+fix frame dragging
+------------------------------------------------------------------------

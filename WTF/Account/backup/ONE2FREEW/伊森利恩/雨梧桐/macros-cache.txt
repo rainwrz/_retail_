@@ -1,0 +1,59 @@
+VER 3 0100000000000004 "2" "Ability_Creature_Cursed_04"
+/施放 [mod]准备就绪;!自动射击
+/castsequence reset=6/alt 奥术射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击
+/施放 稳固射击
+/脚本 UIErrorsFrame:Clear()
+END
+VER 3 0100000000000014 "kill shot" "INV_Misc_QuestionMark"
+#showtooltips kill shot
+/cast [target=mouseover,harm,exists][]kill shot
+END
+VER 3 0100000000000013 "shot" "INV_Misc_QuestionMark"
+#showtooltip Arcane Shot
+/cast Kill Command
+/cast Arcane Shot
+END
+VER 3 0100000000000015 "凝神" "INV_Misc_QuestionMark"
+#showtooltips Tranquilizing Shot
+/cast [target=mouseover,harm,exists][]Tranquilizing Shot
+END
+VER 3 0100000000000016 "加血" "INV_MISC_QUESTIONMARK"
+#showtooltip spirit Mend
+/cast [target=雨梧桐]Spirit Mend
+END
+VER 3 0100000000000012 "守护" "INV_Misc_QuestionMark"
+/castsequence Aspect of the Dragonhawk(Rank 2)
+END
+VER 3 010000000000000F "挡" "INV_Misc_QuestionMark"
+#showtooltip 威慑
+/CAST 牺牲咆哮
+/cast 威慑
+END
+VER 3 010000000000000D "沉默" "INV_Misc_QuestionMark"
+#showtooltip 沉默射击
+/cast [modifier:alt] 蝰蛇钉刺
+/cast 沉默射击
+END
+VER 3 0100000000000010 "火力" "INV_Misc_QuestionMark"
+#showtooltip Bestial Wrath
+/cast Rapid Fire
+/cast Bestial Wrath
+/cast A Murder of Crows
+/cast Stampede
+END
+VER 3 010000000000000E "砍" "INV_Misc_QuestionMark"
+/castsequence reset=5 Raptor Strike(Rank 11),Mongoose Bite(Rank 6),Wing Clip
+/cast Wing Clip
+/cast Auto Shot
+/script UIErrorsFrame:Clear() 
+END
+VER 3 0100000000000011 "稳固" "INV_Misc_QuestionMark"
+#showtooltip Steady Shot
+/CAST Kill Command
+/CAST Steady Shot
+END
+VER 3 010000000000000C "钉刺" "INV_Misc_QuestionMark"
+#showtooltip 毒蛇钉刺
+/cast [modifier:shift] 毒蝎钉刺
+/cast 毒蛇钉刺
+END

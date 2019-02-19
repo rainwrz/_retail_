@@ -1,0 +1,16 @@
+
+TidyPlatesOptions = {
+	["PrimaryProfile"] = "Tank",
+	["FriendlyAutomation"] = "No Automation",
+	["EnemyAutomation"] = "No Automation",
+	["primary"] = "Threat Plates",
+	["CompatibilityMode"] = false,
+	["PrimaryTheme"] = "Threat",
+	["SecondaryProfile"] = "Tank",
+	["ActiveThemeName"] = "Threat",
+	["ActiveTheme"] = "Threat",
+	["DisableSoftTransitions"] = false,
+	["SecondaryTheme"] = "Neon",
+	["WelcomeShown"] = true,
+	["secondary"] = "Threat Plates",
+}

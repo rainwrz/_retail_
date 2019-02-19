@@ -1,0 +1,27 @@
+
+XLootADB = {
+	["namespaces"] = {
+		["Group"] = {
+			["profiles"] = {
+				["Default"] = {
+					["alert_anchor"] = {
+						["visible"] = false,
+					},
+				},
+			},
+		},
+		["Frame"] = {
+		},
+		["Monitor"] = {
+		},
+		["Master"] = {
+		},
+	},
+	["profileKeys"] = {
+		["高坂穗乃果灬 - 熊猫酒仙"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

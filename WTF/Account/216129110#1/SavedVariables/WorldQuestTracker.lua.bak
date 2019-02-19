@@ -1,0 +1,21 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["高坂穗乃果灬 - 熊猫酒仙"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["quests_tracked"] = {
+				["Player-838-03B51140"] = {
+				},
+			},
+			["player_names"] = {
+				["Player-838-03B51140"] = {
+					["class"] = "MAGE",
+					["name"] = "高坂穗乃果灬",
+					["realm"] = "熊猫酒仙",
+				},
+			},
+		},
+	},
+}

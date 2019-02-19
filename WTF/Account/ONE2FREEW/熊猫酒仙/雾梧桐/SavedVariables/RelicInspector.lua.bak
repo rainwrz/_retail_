@@ -1,0 +1,202 @@
+
+RelicInspectorCharDB = {
+	["profileKeys"] = {
+		["雾梧桐 - 熊猫酒仙"] = "雾梧桐 - 熊猫酒仙",
+	},
+	["char"] = {
+		["雾梧桐 - 熊猫酒仙"] = {
+			["crucibleUsed"] = true,
+			["artifactCache"] = {
+				[128289] = {
+					{
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["canChoose"] = false,
+								["tier"] = 1,
+								["powerID"] = 1739,
+								["isChosen"] = true,
+								["icon"] = 1033184,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1774,
+								["isChosen"] = false,
+								["icon"] = 136129,
+								["spellID"] = 252191,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1770,
+								["isChosen"] = true,
+								["icon"] = 132307,
+								["spellID"] = 252088,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 101,
+								["isChosen"] = false,
+								["icon"] = 458971,
+								["spellID"] = 203227,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 98,
+								["isChosen"] = true,
+								["icon"] = 135871,
+								["spellID"] = 188683,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 105,
+								["isChosen"] = false,
+								["icon"] = 132351,
+								["spellID"] = 188632,
+							}, -- [6]
+						},
+						["relic"] = {
+							"纪元之石", -- [1]
+							135250, -- [2]
+							"Iron", -- [3]
+							"|cffa335ee|Hitem:137359:::::::::::35:3:3536:1612:3337:::|h[纪元之石]|h|r", -- [4]
+						},
+					}, -- [1]
+					{
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["canChoose"] = false,
+								["tier"] = 1,
+								["powerID"] = 1739,
+								["isChosen"] = true,
+								["icon"] = 1033184,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1774,
+								["isChosen"] = true,
+								["icon"] = 136129,
+								["spellID"] = 252191,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1784,
+								["isChosen"] = false,
+								["icon"] = 236687,
+								["spellID"] = 253111,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 1621,
+								["isChosen"] = true,
+								["icon"] = 236307,
+								["spellID"] = 238077,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 96,
+								["isChosen"] = false,
+								["icon"] = 132353,
+								["spellID"] = 216272,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 95,
+								["isChosen"] = false,
+								["icon"] = 134309,
+								["spellID"] = 188635,
+							}, -- [6]
+						},
+						["relic"] = {
+						},
+					}, -- [2]
+					{
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["canChoose"] = false,
+								["tier"] = 1,
+								["powerID"] = 1739,
+								["isChosen"] = true,
+								["icon"] = 1033184,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 66,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1781,
+								["isChosen"] = false,
+								["icon"] = 839910,
+								["spellID"] = 252922,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 66,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1783,
+								["isChosen"] = true,
+								["icon"] = 876916,
+								["spellID"] = 253093,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 75,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 1621,
+								["isChosen"] = false,
+								["icon"] = 236307,
+								["spellID"] = 238077,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 75,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 105,
+								["isChosen"] = false,
+								["icon"] = 132351,
+								["spellID"] = 188632,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 75,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 102,
+								["isChosen"] = true,
+								["icon"] = 134951,
+								["spellID"] = 188639,
+							}, -- [6]
+						},
+						["relic"] = {
+						},
+					}, -- [3]
+					["crucibled"] = true,
+					["timestamp"] = 190213.034,
+					["level"] = 75,
+				},
+			},
+		},
+	},
+}

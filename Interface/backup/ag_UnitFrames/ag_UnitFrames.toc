@@ -1,0 +1,49 @@
+## Interface: 40000
+## Title: ag_UnitFrames
+## Author: andreasg
+## Version: r716
+## Notes: Unit frame addon using Ace3.
+## Notes-ruRU: Модификация рамок игроков/существ использующая Ace3.
+## Notes-zhTW: 基於Ace3的頭像框架插件。
+## X-Credits: Rabbit, Borke, Miles, Ammo
+## X-Category: UnitFrame
+## X-Curse-Packaged-Version: r716
+## X-Curse-Project-Name: ag_UnitFrames
+## X-Curse-Project-ID: ag_unitframes
+## X-Curse-Repository-ID: wow/ag_unitframes/mainline
+## OptionalDeps: Ace3,LibSharedMedia-3.0
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: aUF2DB
+## X-Curse-Packaged-Version: r725
+## X-Curse-Project-Name: ag_UnitFrames
+## X-Curse-Project-ID: ag_unitframes
+## X-Curse-Repository-ID: wow/ag_unitframes/mainline
+embeds.xml
+locales\ag_UnitFrames-enUS.lua
+locales\ag_UnitFrames-ruRU.lua
+locales\ag_UnitFrames-koKR.lua
+locales\ag_UnitFrames-zhCN.lua
+locales\ag_UnitFrames-zhTW.lua
+ag_UnitFrames.lua
+layouts\ABF.lua
+ag_UnitClass.lua
+ag_GroupClass.lua
+modules\aggroborder\aggroborder.lua
+modules\auras\auras.lua
+modules\combattext\combattext.lua
+modules\combaticon\combaticon.lua
+modules\combopoints\combopoints.lua
+modules\healthbar\healthbar.lua
+modules\hideblizz\hideblizz.lua
+modules\highlight\highlight.lua
+modules\leadericon\leadericon.lua
+modules\masterlootericon\masterlootericon.lua
+modules\powerbar\powerbar.lua
+modules\pvpicon\pvpicon.lua
+modules\raidtargeticon\raidtargeticon.lua
+modules\runebar\runebar.lua
+modules\totembar\totembar.lua
+modules\lfgicon\lfgicon.lua
+ag_Extras\extras.xml
+ag_Options\options.xml

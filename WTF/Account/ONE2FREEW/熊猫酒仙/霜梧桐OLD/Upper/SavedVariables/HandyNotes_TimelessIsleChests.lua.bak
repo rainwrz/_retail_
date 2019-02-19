@@ -1,0 +1,11 @@
+
+TimelessIsleChestsDB = {
+	["profileKeys"] = {
+		["缄默 - 伊森利恩"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["alwaysshow"] = true,
+		},
+	},
+}

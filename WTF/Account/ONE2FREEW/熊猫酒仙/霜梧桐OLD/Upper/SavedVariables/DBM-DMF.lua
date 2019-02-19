@@ -1,0 +1,96 @@
+
+DBMDMF_AllSavedVars = {
+	["霜梧桐-熊猫酒仙"] = {
+		["Gnoll"] = {
+			[2] = {
+				["Enabled"] = true,
+				["warnGnoll"] = false,
+				["specWarnHoggerSWNote"] = true,
+				["Timer101612active"] = true,
+				["Timer101612activeTColor"] = 0,
+				["specWarnHogger"] = true,
+				["warnGameOver"] = true,
+				["HealthFrame"] = false,
+				["specWarnHoggerSWSound"] = 1,
+				["CountdownFades101612"] = true,
+			},
+		},
+		["Rings"] = {
+			[2] = {
+				["Enabled"] = true,
+				["Timer170820active"] = true,
+				["Timer170820activeTColor"] = 0,
+				["HealthFrame"] = false,
+				["announce170823count"] = false,
+				["CountdownFades170820"] = true,
+			},
+		},
+		["Cannon"] = {
+			[2] = {
+				["Enabled"] = true,
+				["CountdownFades102116"] = true,
+				["HealthFrame"] = false,
+				["Timer102116fades"] = true,
+				["Timer102116fadesTColor"] = 0,
+			},
+		},
+		["talent2"] = "防护",
+		["Shot"] = {
+			[2] = {
+				["Enabled"] = true,
+				["CountdownFades101871"] = true,
+				["HealthFrame"] = false,
+				["Timer101871active"] = true,
+				["Timer101871activeTColor"] = 0,
+				["SetBubbles"] = true,
+			},
+		},
+		["Rabbit"] = {
+			[2] = {
+				["Enabled"] = true,
+				["announceother114078target"] = true,
+				["HealthFrame"] = false,
+				["Yell114078"] = true,
+			},
+		},
+		["Moonfang"] = {
+			[2] = {
+				["SpecWarn144702spellSWNote"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn144590you"] = true,
+				["SpecWarn144546youSWNote"] = true,
+				["specWarnCallPack"] = true,
+				["specWarnMoonfangCurseSWNote"] = true,
+				["specWarnMoonfangCurseSWSound"] = 4,
+				["announceother144546target"] = true,
+				["specWarnMoonfangCurse"] = true,
+				["Timer144702next"] = true,
+				["Yell144546"] = true,
+				["Timer144546cd"] = true,
+				["SpecWarn144546youSWSound"] = 1,
+				["specWarnCallPackSWNote"] = true,
+				["SpecWarn144702spellSWSound"] = 2,
+				["Enabled"] = true,
+				["SpecWarn144590youSWSound"] = 1,
+				["specWarnCallPackSWSound"] = 4,
+				["SpecWarn144590youSWNote"] = true,
+				["Timer144546cdTColor"] = 0,
+				["SpecWarn144702spell"] = true,
+				["Timer144702nextTColor"] = 0,
+				["SpecWarn144546you"] = true,
+			},
+		},
+		["Tonks"] = {
+			[2] = {
+				["Timer102178activeTColor"] = 0,
+				["CountdownFades102178"] = true,
+				["SpecWarn102341run2"] = true,
+				["Timer102178active"] = true,
+				["HealthFrame"] = false,
+				["SpecWarn102341run2SWNote"] = true,
+				["SpecWarn102341run2SWSound"] = 4,
+				["Enabled"] = true,
+			},
+		},
+	},
+}

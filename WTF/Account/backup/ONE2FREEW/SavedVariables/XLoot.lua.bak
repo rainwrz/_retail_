@@ -1,0 +1,67 @@
+
+XLootDB = {
+	["namespaces"] = {
+		["XLootMonitorDB"] = {
+			["profiles"] = {
+				["Default"] = {
+					["AnchorsAway"] = {
+						["loot"] = {
+							["threshold"] = 6,
+							["timeout"] = 15,
+							["lock"] = true,
+							["anchor"] = false,
+							["attach"] = {
+								["self"] = "TOPLEFT",
+								["x"] = 0,
+								["y"] = 0,
+								["target"] = "BOTTOMLEFT",
+							},
+							["scale"] = 1,
+							["pos"] = {
+								["y"] = 265.999496806692,
+								["x"] = 1529.000332977469,
+							},
+						},
+					},
+				},
+			},
+		},
+		["XLootGroupDB"] = {
+			["profiles"] = {
+				["Default"] = {
+					["AnchorsAway"] = {
+						["roll"] = {
+							["threshold"] = 10000,
+							["timeout"] = 10000,
+							["lock"] = true,
+							["anchor"] = false,
+							["attach"] = {
+								["self"] = "TOPLEFT",
+								["x"] = 0,
+								["y"] = 0,
+								["target"] = "BOTTOMLEFT",
+							},
+							["scale"] = 1,
+							["pos"] = {
+								["y"] = 224.0002866793078,
+								["x"] = 1285.000194835245,
+							},
+						},
+					},
+				},
+			},
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+			["linkallchannels"] = {
+				["RAID"] = false,
+				["GUILD"] = false,
+				["RAID_WARNING"] = false,
+				["SAY"] = false,
+				["OFFICER"] = false,
+				["PARTY"] = false,
+			},
+		},
+	},
+}

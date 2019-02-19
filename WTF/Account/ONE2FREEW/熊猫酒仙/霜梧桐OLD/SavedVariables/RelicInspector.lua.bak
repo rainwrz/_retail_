@@ -1,0 +1,548 @@
+
+RelicInspectorCharDB = {
+	["profileKeys"] = {
+		["霜梧桐 - 熊猫酒仙"] = "霜梧桐 - 熊猫酒仙",
+	},
+	["char"] = {
+		["霜梧桐 - 熊猫酒仙"] = {
+			["crucibleUsed"] = true,
+			["artifactCache"] = {
+				[120978] = {
+					{
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["canChoose"] = false,
+								["tier"] = 1,
+								["powerID"] = 1739,
+								["isChosen"] = true,
+								["icon"] = 1033184,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1780,
+								["isChosen"] = false,
+								["icon"] = 615101,
+								["spellID"] = 252906,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1784,
+								["isChosen"] = false,
+								["icon"] = 236687,
+								["spellID"] = 253111,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 51,
+								["isChosen"] = false,
+								["icon"] = 135878,
+								["spellID"] = 185368,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 52,
+								["isChosen"] = false,
+								["icon"] = 135964,
+								["spellID"] = 186944,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 42,
+								["isChosen"] = false,
+								["icon"] = 1030100,
+								["spellID"] = 184759,
+							}, -- [6]
+						},
+						["relic"] = {
+							"女巫会祷言珠串", -- [1]
+							1535059, -- [2]
+							"Holy", -- [3]
+							"|cffa335ee|Hitem:152046:::::::::::5:3:3611:1502:3337:::|h[女巫会祷言珠串]|h|r", -- [4]
+						},
+					}, -- [1]
+					{
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["canChoose"] = false,
+								["tier"] = 1,
+								["powerID"] = 1739,
+								["isChosen"] = true,
+								["icon"] = 1033184,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1771,
+								["isChosen"] = false,
+								["icon"] = 136194,
+								["spellID"] = 252091,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1784,
+								["isChosen"] = false,
+								["icon"] = 236687,
+								["spellID"] = 253111,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 53,
+								["isChosen"] = false,
+								["icon"] = 236262,
+								["spellID"] = 186945,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 41,
+								["isChosen"] = false,
+								["icon"] = 135959,
+								["spellID"] = 186941,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 51,
+								["isChosen"] = false,
+								["icon"] = 135878,
+								["spellID"] = 185368,
+							}, -- [6]
+						},
+						["relic"] = {
+							"熔火巨人之眼", -- [1]
+							317244, -- [2]
+							"Fire", -- [3]
+							"|cffa335ee|Hitem:137546:::::::::::35:3:3418:1587:3337:::|h[熔火巨人之眼]|h|r", -- [4]
+						},
+					}, -- [2]
+					{
+						["relic"] = {
+							"重组火花", -- [1]
+							135980, -- [2]
+							"Holy", -- [3]
+							"|cffa335ee|Hitem:155851:::::::::::5:3:3611:1497:3528:::|h[重组火花]|h|r", -- [4]
+						},
+					}, -- [3]
+					["crucibled"] = true,
+					["timestamp"] = 178737.92,
+					["level"] = 59,
+				},
+				[128866] = {
+					{
+						["relic"] = {
+							"圣光护盾强化器", -- [1]
+							135950, -- [2]
+							"Holy", -- [3]
+							"|cffa335ee|Hitem:152043:::::::::::6:3:3612:1502:3528:::|h[圣光护盾强化器]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1778,
+								["icon"] = 136146,
+								["isChosen"] = false,
+								["spellID"] = 252875,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1770,
+								["icon"] = 132307,
+								["isChosen"] = true,
+								["spellID"] = 252088,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1127,
+								["icon"] = 132110,
+								["isChosen"] = false,
+								["spellID"] = 209216,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1123,
+								["icon"] = 135870,
+								["isChosen"] = true,
+								["spellID"] = 209220,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1126,
+								["icon"] = 135926,
+								["isChosen"] = false,
+								["spellID"] = 209218,
+							}, -- [6]
+						},
+					}, -- [1]
+					{
+						["relic"] = {
+							"邪淬锁链", -- [1]
+							133012, -- [2]
+							"Iron", -- [3]
+							"|cffa335ee|Hitem:144462:::::::::::35:3:3536:1627:3337:::|h[邪淬锁链]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1781,
+								["icon"] = 839910,
+								["isChosen"] = false,
+								["spellID"] = 252922,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1783,
+								["icon"] = 876916,
+								["isChosen"] = true,
+								["spellID"] = 253093,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1122,
+								["icon"] = 236258,
+								["isChosen"] = false,
+								["spellID"] = 209217,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1125,
+								["icon"] = 1022948,
+								["isChosen"] = true,
+								["spellID"] = 209223,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1128,
+								["icon"] = 514018,
+								["isChosen"] = false,
+								["spellID"] = 209224,
+							}, -- [6]
+						},
+					}, -- [2]
+					{
+						["relic"] = {
+							"哈布隆的缆绳", -- [1]
+							1041234, -- [2]
+							"Arcane", -- [3]
+							"|cffa335ee|Hitem:133768:::::::::::35:3:3536:1612:3337:::|h[哈布隆的缆绳]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1780,
+								["icon"] = 615101,
+								["isChosen"] = false,
+								["spellID"] = 252906,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1783,
+								["icon"] = 876916,
+								["isChosen"] = true,
+								["spellID"] = 253093,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1125,
+								["icon"] = 1022948,
+								["isChosen"] = false,
+								["spellID"] = 209223,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1128,
+								["icon"] = 514018,
+								["isChosen"] = false,
+								["spellID"] = 209224,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1124,
+								["icon"] = 236265,
+								["isChosen"] = true,
+								["spellID"] = 239293,
+							}, -- [6]
+						},
+					}, -- [3]
+					["level"] = 79,
+					["crucibled"] = true,
+					["timestamp"] = 187727.524,
+				},
+				[128823] = {
+					{
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["canChoose"] = false,
+								["tier"] = 1,
+								["powerID"] = 1739,
+								["isChosen"] = true,
+								["icon"] = 1033184,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1779,
+								["isChosen"] = false,
+								["icon"] = 1394892,
+								["spellID"] = 252888,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1770,
+								["isChosen"] = false,
+								["icon"] = 132307,
+								["spellID"] = 252088,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 971,
+								["isChosen"] = false,
+								["icon"] = 135938,
+								["spellID"] = 200316,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 974,
+								["isChosen"] = false,
+								["icon"] = 135959,
+								["spellID"] = 200302,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 976,
+								["isChosen"] = false,
+								["icon"] = 461859,
+								["spellID"] = 200296,
+							}, -- [6]
+						},
+						["relic"] = {
+							"恩惠碎片", -- [1]
+							134888, -- [2]
+							"Holy", -- [3]
+							"|cffa335ee|Hitem:147098:::::::::::6:3:3563:1512:3528:::|h[恩惠碎片]|h|r", -- [4]
+						},
+					}, -- [1]
+					{
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["canChoose"] = false,
+								["tier"] = 1,
+								["powerID"] = 1739,
+								["isChosen"] = true,
+								["icon"] = 1033184,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1781,
+								["isChosen"] = false,
+								["icon"] = 839910,
+								["spellID"] = 252922,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1783,
+								["isChosen"] = false,
+								["icon"] = 876916,
+								["spellID"] = 253093,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 976,
+								["isChosen"] = false,
+								["icon"] = 461859,
+								["spellID"] = 200296,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 975,
+								["isChosen"] = false,
+								["icon"] = 135964,
+								["spellID"] = 200298,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 972,
+								["isChosen"] = false,
+								["icon"] = 135972,
+								["spellID"] = 200315,
+							}, -- [6]
+						},
+						["relic"] = {
+							"魔鼠的蛋", -- [1]
+							1045946, -- [2]
+							"Life", -- [3]
+							"|cffa335ee|Hitem:151012:::::::::::29:3:3396:3189:3337:::|h[魔鼠的蛋]|h|r", -- [4]
+						},
+					}, -- [2]
+					{
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["canChoose"] = false,
+								["tier"] = 1,
+								["powerID"] = 1739,
+								["isChosen"] = true,
+								["icon"] = 1033184,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 66,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1774,
+								["isChosen"] = false,
+								["icon"] = 136129,
+								["spellID"] = 252191,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 66,
+								["canChoose"] = false,
+								["tier"] = 2,
+								["powerID"] = 1777,
+								["isChosen"] = false,
+								["icon"] = 460953,
+								["spellID"] = 252799,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 75,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 1186,
+								["isChosen"] = false,
+								["icon"] = 461859,
+								["spellID"] = 200482,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 75,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 969,
+								["isChosen"] = false,
+								["icon"] = 135966,
+								["spellID"] = 200327,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 75,
+								["canChoose"] = false,
+								["tier"] = 3,
+								["powerID"] = 1553,
+								["isChosen"] = false,
+								["icon"] = 1122562,
+								["spellID"] = 238060,
+							}, -- [6]
+						},
+						["relic"] = {
+							"永燃圣光火花", -- [1]
+							574795, -- [2]
+							"Holy", -- [3]
+							"|cffa335ee|Hitem:152044:::::::::::6:3:3612:1502:3528:::|h[永燃圣光火花]|h|r", -- [4]
+						},
+					}, -- [3]
+					["level"] = 54,
+					["timestamp"] = 187697.048,
+					["crucibled"] = true,
+				},
+			},
+		},
+	},
+}

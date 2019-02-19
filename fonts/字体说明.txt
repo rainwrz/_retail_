@@ -1,0 +1,25 @@
+2.1.3及以前版本命名规范
+
+ARIALN.TTF   （Arial Narrow）     生命条、经验条上显示的英文和数字
+FRIZQT__.TTF （Friz Quadrata TT） 标点符号和特殊符号
+FZBWJW.TTF   （方正北魏楷书）      任务说明和书信、石碑的正文字体
+FZJZJW.TTF   （方正剪纸）          战斗提示文字
+FZLBJW.TTF   （方正隶变）          登陆画面及人物、物品、装备、技能等标题、按钮上的主要字体
+FZXHJW.TTF   （方正细黑一）        物品、技能的说明字体
+FZXHLJW.TTF  （方正细黑一）        聊天字体
+
+
+2.1.4命名规范
+(这次更新的改动如下：)
+
+FZBWJW.TTF  -> ZYKai_T.TTF
+FZJZJW.TTF  -> ZYKai_C.TTF
+FZLBJW.TTF  -> ZYKai_T.TTF
+FZXHJW.TTF  -> ZYHei.TTF
+FZXHLJW.TTF -> ZYHei.TTF
+
+ARIALN.TTF   （Arial Narrow）               生命条、经验条上显示的英文和数字
+FRIZQT__.TTF （Friz Quadrata TT）           标点符号和特殊符号
+ZYKai_C.TTF  （中易楷体）改（方正艺黑简体） 战斗伤害数值提示
+ZYHei.TTF    （中易黑体）改（微软雅黑）     物品、技能的说明字体、聊天字体
+ZYKai_T.TTF  （中易楷体）改（方正粗圆）     登陆界面字体、游戏界面中的主要字体（除了上面提到的都使用这个字体）

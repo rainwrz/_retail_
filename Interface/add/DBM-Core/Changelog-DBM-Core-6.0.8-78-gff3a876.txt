@@ -1,0 +1,93 @@
+subversion:
+	- Omega via svn r12057: Fix bugs with fixate radar Disable run out warning for tank on trash
+	- Omega via svn r12056: Icon Fixes Fix balls scheduling from firing way too many times
+	- nbluewiz via svn r12055: # Remove Quills CD.
+	- Omega via svn r12054: Putting sorting back, seems it won't work no matter what without it. Reduce spam on kragh in LFR Added another trash warning
+	- Omega via svn r12053: Fix bug
+	- Omega via svn r12052: Fix another error, attempt to disable sorting and hope it doesn't bring lua errors back
+	- TOM_RUS via svn r12051: Fix lua error
+	- Omega via svn r12050: Probably very buggy not at all working infoframe that will generate 100s of lua errors.
+	- Omega via svn r12049: Fix bug where twin ogron would not warn if arcane debuff was reapplied to same person Fixed and re-enabled timers for arcane debuff using a hard coded table using guilds berserk kill log Added slow dispel warning to margok
+	- nbluewiz via svn r12048: # koKR update.
+	- Omega via svn r12047: enable Trash module with some warnings Add balls voice Possibly fix a rare case where fixate warning may fail if applied to same person twice Possibly fix Tectus Mote icon setting.
+	- Omega via svn r12046: Add pre warnings for balls falling (in run i just did they seemed to fall 5 seconds before impact timer Also added audio countdown as well.
+	- Omega via svn r12045: Fix voice bug
+	- Omega via svn r12044: Improve fixate range finder per requests for margok Update balls timers to account for the pause they o on karagh
+	- Omega via svn r12043: Improve kyrak
+	- Omega via svn r12042: CN update
+	- TOM_RUS via svn r12041: ruRU update
+	- ultrashining via svn r12040: zhTW update
+	- TOM_RUS via svn r12039: ruRU update
+	- Omega via svn r12038: Cn update
+	- Omega via svn r12037: 5 man voices
+	- Omega via svn r12036: propper icons for those
+	- Omega via svn r12035: 3 new timer objects, because i think they will be used enough. Fixed brackenspore timer to account for fact his two mythic abilities don't have their own CDs, they are a single shared CD
+	- Omega via svn r12034: Blizz fixed missing UNIT_DIED, so remove cpu waste on brackenspore remove message on 5 man too, IEEU fixed as well. Fix bug in last 5 man commit.
+	- nbluewiz via svn r12033: # another 5 man update.
+	- nbluewiz via svn r12032: # Iron Docks fix.
+	- nbluewiz via svn r12031: # Boss health bar update : 1. Get name automatically for CID or GUID health bar. 2. Boss health shown as unknown if can't detect health.
+	- Omega via svn r12030: drycode more mythic stuff for koragh. need logs for timers.
+	- Omega via svn r12029: Disable gronn smash timer, it's still wrong, and still health based. I suspect it has a MAX timer of 70, with bad dps, but triggers more often with normal dps at health break points.
+	- Omega via svn r12028: Yalnu, since it's basically copy and paste from Tarlna
+	- nbluewiz via svn r12027: # Switch health frame update to C_Timer. # fix health frame bug.
+	- nbluewiz via svn r12026: # koKR update.
+	- Omega via svn r12025: This should fully fix world bosses, because garrisons are 1/party, not 1/none, need to set C_Garrison:IsOnGarrisonMap() to world boss
+	- Omega via svn r12024: Disable voiceExpelMagicFrost. Useless warning. Orb is a one time raidwide aoe/slow. druid roar/ shaman totem dispel it completely. The orb visual persists but it actually doesn't do anything.
+	- Omega via svn r12023: option cleanup and combining.
+	- Omega via svn r12022: Fixes
+	- Omega via svn r12021: Disable CRT in looking for raid
+	- Omega via svn r12020: Add CN Count voice.
+	- Omega via svn r12019: Fix brackenspore errors Add Margok voice work Add add switch warnings to margok while at it.
+	- nbluewiz via svn r12018: # spell id 177776 seems unlocalized for non-english client.
+	- Omega via svn r12017: Bump world boss engage/defeat version, to ignore the bad syncs from older versions without the fix.
+	- nbluewiz via svn r12016: # Fix Branded yell.
+	- Omega via svn r12015: World bosses
+	- Omega via svn r12014: Reset decay counter on death
+	- Omega via svn r12013: Make status bar timers more conforming to rest of mods so it lists more appropriately in addon list.
+	- Omega via svn r12012: Reduce spam
+	- Omega via svn r12011: Fix words off screen on english client by putting slider close to center. should still be fine in other languages (goofy looking maybe, but text won't be off screen in any client now)
+	- Omega via svn r12010: Only warn for FIRST backdraft, only one that matters
+	- Omega via svn r12009: Added global option to disable "run away" sounds. Added Koragh voice work.
+	- Omega via svn r12008: Hide voice options if no voice packs installed
+	- Omega via svn r12007: Fix fix
+	- Omega via svn r12006: Fixes
+	- Omega via svn r12005: add the voice work that uses correct api. Minor tweaks though (brackenspore only uses/needs 2 interruptors in rotation on any difficulty or size, not 4. 2 also works better in lower flexible sizes like 10man) Disable range finder in LFR on Kargath. Fixed bad option default on brackenspore.
+	- Omega via svn r12004: More twin Ogron fixes
+	- Omega via svn r12003: I see no good reason why gron smash or backdraft warnings were removed. not like they are spammed, and both very important. Fixed some bugs
+	- nbluewiz via svn r12002: # Sol : fix Parasitic Growth.
+	- nbluewiz via svn r12001: # Boss health : AddBoss method now not requires name arg. # Fix bug with dead boss health. # Kargath Bladefist : Fix Berserker Rush end warning bug. (lfr only?) # 5 man fix.
+	- Omega via svn r12000: Add brackenspore berserk
+	- Omega via svn r11999: Also add the updated hotfix timers in. Since i killed fight before hotfix this week, I cannot verify them other than just match blizzards notes. Nor can I add first timers (for when phase starts) since my logs clearly do not match the hotfix notes. I'll get the first timers and such next week reset probably
+	- Omega via svn r11998: Margok. Even smarter range finder. Only force the 35 yard range on non tanks if the tank failed to get far enough away, else, show branded even if mark is active.
+	Translation
+	If a tank has mark of chaos and is LESS than 35 yards away from the raid, priority is
+	mark of chaos > branded
+	If tank has mark of chaos and is greater than 35 yards away (ie the tank isn't terrible)
+	branded > mark of chaos
+	If no mark of chaos is out at all, then obviously
+	branded
+	
+	Also, range frame improvements ton twin ogron too for pulverize
+	Disable useless tank warning
+	Add arcane buff the bosses pass back and forth to twin ogron too.
+	Disable arcane volatility CD timer. Too variable, too useless
+	
+	Lastly, added balls timer (when possible) to karogh
+	- Omega via svn r11997: Rangef rame improvements for mythic
+	- Omega via svn r11996: Push two quick fixes
+	- Omega via svn r11995: Increase scan time a LOT more. they spawn REALLY slow. i think combat event happens like 10 seconds before they are actually targetable, which is likely the problem. Support marking up to 8 of them at once, instead of just 4, in case you shatter both at once into 8 motes.
+	- Omega via svn r11994: Add crystal barrage yell for non LFR difficulties
+	- Omega via svn r11993: Follow BW example and include jump distance on top of stack count. May tweak formatting some but we'll see if this is understood enough.
+	- Omega via svn r11992: Drov Fixes Fix sweeper timer on Kargath, it's different on live than it was on beta. Add countdown for transition on Margok.
+	- Omega via svn r11991: Add 3rd countdown for arcane debuff on twin ogron Fixed option default for roar on twin ogron to not announce for those it doesn't impact. Fixed FIRST impale timer on kargath Removed useless filler warning on Kargath
+	- nbluewiz via svn r11990: # Nyami : timer fix. / # Ragewing : add GTFO. / # Terongor : Fixate warning on by default. (on beta realm, this boss has multiple Inferno spawn, so warning spammy. but on live, only one Infernot spawn, no reason to disable warning by default.)
+	- Omega via svn r11989: Fix rangecheck issue
+	- Omega via svn r11988: sizes
+	- Omega via svn r11987: Add option to hide Garrison Toasts in combat
+	- Omega via svn r11986: Fix bug with mark of chaos, fort not having target name in taunt warning Fix a bug where the taunt warning was TOO early and resulted in debuff going on taunting tank. If you taunt the boss early enough in CAST_START he'll put it on you. so 1 sec delay to correct super reactive shira's from taunting TOO early.
+	- Omega via svn r11985: Fix guild messages still not returning correct difficulty
+	- Omega via svn r11984: fix countdown voice to match impale timer change
+	- ultrashining via svn r11983: zhTW update
+	- Omega via svn r11982: mod:SetMinSyncRevision(11969) on world bosses
+	- Omega via svn r11981: Fix trash spam.
+	- Omega via svn r11980: Inc the alpha

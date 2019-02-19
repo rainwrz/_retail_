@@ -1,0 +1,12 @@
+
+Gladius2DB = {
+	["profileKeys"] = {
+		["高坂穗乃果灬 - 熊猫酒仙"] = "高坂穗乃果灬 - 熊猫酒仙",
+	},
+	["profiles"] = {
+		["高坂穗乃果灬 - 熊猫酒仙"] = {
+			["tagsVersion"] = 4,
+			["drTrackerAttachTo"] = "Frame",
+		},
+	},
+}

@@ -1,0 +1,52 @@
+
+BeanCounterDB = {
+	["熊猫酒仙"] = {
+		["高坂穗乃果灬"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
+	},
+}
+BeanCounterDBSettings = {
+	["熊猫酒仙"] = {
+		["高坂穗乃果灬"] = {
+			["tasks.sortArray"] = 1501926812,
+			["version"] = 3.04,
+			["faction"] = "Alliance",
+			["tasks.compactDB"] = 1501926812,
+			["wealth"] = 2681766830,
+			["tasks.prunePostedDB"] = 1501926812,
+			["mailbox"] = {
+			},
+		},
+	},
+	["configator.top"] = 815.769226074219,
+	["configator.left"] = 650.256408691406,
+	["util.beancounter.ButtonuseDateCheck"] = false,
+}
+BeanCounterDBNames = {
+}
+BeanCounterAccountDB = nil
+BeanCounterMailPatch = nil

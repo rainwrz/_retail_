@@ -1,0 +1,109 @@
+VER 3 010000000000000A "1" "INV_MISC_QUESTIONMARK"
+#showtooltip Overpower
+/startattack 
+/castsequence reset=0.6 0,0,0,Slam
+/click MultiBarBottomRightButton1
+/cast !Overpower
+/console Sound_EnableSFX 1 
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000010 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Heroic Throw
+/cast Throw
+END
+VER 3 010000000000000B "2" "INV_MISC_QUESTIONMARK"
+#show Colossus Smash
+/startattack 
+/castsequence reset=0 0,0,Colossus Smash
+/click MultiBarBottomRightButton2
+/cast !Overpower
+/cast Berserker Rage
+/cast Recklessness
+END
+VER 3 0100000000000012 "20%" "INV_MISC_QUESTIONMARK"
+#showtooltip Enraged Regeneration
+/cast Berserker Rage
+/cast Enraged Regeneration
+END
+VER 3 010000000000000C "3" "INV_MISC_QUESTIONMARK"
+#showtooltip Mortal Strike
+/startattack 
+/castsequence reset=0 0,Mortal Strike
+/click MultiBarBottomRightButton1
+/cast !Overpower
+END
+VER 3 010000000000000F "40%" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Shield Wall
+/use Healthstone
+END
+VER 3 010000000000000E "`" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:alt]Disrupting Shout
+/cast Charge
+END
+VER 3 0100000000000005 "Attack" "INV_MISC_QUESTIONMARK"
+#showtooltip Shield Slam
+/castsequence reset=0 0,0,0,0,Commanding Shout
+/castsequence reset=0 0,0,0,Shield Slam,0 
+/castsequence reset=0 0,0,Devastate,0,0 
+/castsequence reset=0 0,Revenge,0,0,0 
+/castsequence reset=0 Shield Slam,0,0,0,0
+END
+VER 3 0100000000000006 "Attackk" "INV_MISC_QUESTIONMARK"
+#showtooltip 盾牌猛击
+/castsequence reset=0 0,0,0,盾牌猛击,0 
+/castsequence reset=0 0,0,毁灭打击,0,0 
+/castsequence reset=0 0,复仇,0,0,0 
+/castsequence reset=0 盾牌猛击,0,0,0,0
+END
+VER 3 0100000000000001 "c" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [modifier:alt]Intervene
+/cast Pummel
+END
+VER 3 0100000000000007 "cc" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:alt]援护
+/cast 拳击
+END
+VER 3 0100000000000008 "CC" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:alt]Intervene
+/cast Pummel
+END
+VER 3 0100000000000003 "F1" "INV_MISC_QUESTIONMARK"
+#showtooltip Shield Block(Defensive Stance)
+/cast Shield Block(Defensive Stance)
+END
+VER 3 0100000000000011 "G" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:alt]Disarm
+/cast Storm Bolt
+END
+VER 3 0100000000000002 "q" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Shield Wall
+END
+VER 3 0100000000000004 "刷人" "INV_MISC_QUESTIONMARK"
+ 姓名 小药哥 职业 法师， 说好做成就龙，结果自己做好了就跑了，DPS全程打个2000，这种说话当放 屁的东西大家以后注意了！ 已经被复苏工会T出。其他工会不要收他。
+END
+VER 3 010000000000000D "斩杀" "INV_MISC_QUESTIONMARK"
+#showtooltip Execute
+/startattack 
+/castsequence reset=0.6 0,0,0,Execute
+/click MultiBarBottomRightButton1 
+/cast !Overpower
+/console Sound_EnableSFX 1 
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000009 "爆发" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Curse of Hubris
+/cast Recklessness
+/cast Avatar
+/cast Skull Banner
+/cast Bloodbath
+/cast Berserker Rage
+END

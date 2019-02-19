@@ -1,0 +1,86 @@
+VER 3 0100000000000013 "1" "INV_MISC_QUESTIONMARK"
+/cast Pillar of Frost
+/use Lessons of the Darkmaster
+END
+VER 3 0100000000000012 "2" "INV_MISC_QUESTIONMARK"
+/use Lessons of the Darkmaster
+/use The Horseman's Horrific Hood
+END
+VER 3 010000000000000E "blood" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast 吸血鬼之血
+/use 恶毒角斗士的顽强纹章
+END
+VER 3 010000000000000A "Blood" "INV_Misc_QuestionMark"
+#showtooltip
+/cast vampiric blood
+/use Fortitude of the Zandalari
+END
+VER 3 0100000000000005 "DS" "INV_Misc_QuestionMark"
+#showtooltip Death Strike
+/cast Death Strike
+/cast Rune Strike
+END
+VER 3 0100000000000014 "E" "INV_MISC_QUESTIONMARK"
+#showtooltip Healthstone
+/use Malevolent Gladiator's Emblem of Tenacity
+/use Healthstone
+END
+VER 3 0100000000000009 "F1-20%" "INV_Misc_QuestionMark"
+#showtooltip rune tap
+/cast rune tap
+END
+VER 3 010000000000000B "F3" "INV_Misc_QuestionMark"
+#showtooltips Death Pact
+/castsequence reset=240 Raise Dead,Death Pact
+END
+VER 3 0100000000000010 "f3" "INV_MISC_QUESTIONMARK"
+#showtooltips 天灾契约
+/castsequence reset=240 亡者复生,天灾契约
+END
+VER 3 010000000000000C "G" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [modifier:alt] Pestilence
+/cast Blood Boil
+END
+VER 3 0100000000000011 "gg" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:alt] 传染
+/cast 血液沸腾
+END
+VER 3 0100000000000002 "hit" "INV_Misc_QuestionMark"
+#showtooltip 冰霜之柱
+/use 13
+/cast 冰霜之柱 
+/cast 亡者复生
+END
+VER 3 0100000000000003 "ic" "INV_Misc_QuestionMark"
+#showtooltip Icy touch
+/cast icy touch
+/cast Rune Strike
+END
+VER 3 0100000000000006 "PS" "INV_Misc_QuestionMark"
+#showtooltip Plague Strike
+/cast Plague Strike
+/cast Rune Strike
+END
+VER 3 0100000000000001 "pull" "INV_Misc_QuestionMark"
+#showtooltip Death Grip
+/cast Death Coil
+/cast Death Grip
+END
+VER 3 0100000000000007 "v" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [modifier:alt] 巫妖之躯
+/cast [target=梧桐雨] 凋零缠绕
+END
+VER 3 010000000000000D "·" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [modifier:alt] Death Grip
+/cast Death Coil
+END
+VER 3 010000000000000F "··" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:alt] 死亡之握
+/cast 凋零缠绕
+END

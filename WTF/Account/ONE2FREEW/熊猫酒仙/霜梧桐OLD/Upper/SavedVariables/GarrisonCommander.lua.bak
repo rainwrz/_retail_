@@ -1,0 +1,14 @@
+
+dbGAC = {
+	["profileKeys"] = {
+		["霜梧桐 - 熊猫酒仙"] = "霜梧桐 - 熊猫酒仙",
+	},
+	["profiles"] = {
+		["霜梧桐 - 熊猫酒仙"] = {
+			["toggles"] = {
+				["MOVEPANEL"] = true,
+				["IGM"] = false,
+			},
+		},
+	},
+}

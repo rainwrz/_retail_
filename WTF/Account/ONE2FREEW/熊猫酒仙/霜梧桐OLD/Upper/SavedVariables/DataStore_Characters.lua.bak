@@ -1,0 +1,33 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["霜梧桐 - 熊猫酒仙"] = "霜梧桐 - 熊猫酒仙",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.熊猫酒仙.霜梧桐"] = {
+				["XPMax"] = 854100,
+				["played"] = 18141745,
+				["guildRankName"] = "会长",
+				["isResting"] = true,
+				["lastUpdate"] = 1426345998,
+				["class"] = "Paladin",
+				["race"] = "Human",
+				["level"] = 100,
+				["XP"] = 17236,
+				["RestXP"] = 0,
+				["money"] = 74340110,
+				["gender"] = 3,
+				["subZone"] = "",
+				["zone"] = "Town Hall",
+				["guildRankIndex"] = 0,
+				["name"] = "霜梧桐",
+				["faction"] = "Alliance",
+				["englishRace"] = "Human",
+				["guildName"] = "月 神 之 怒",
+				["lastLogoutTimestamp"] = 1426345998,
+				["englishClass"] = "PALADIN",
+			},
+		},
+	},
+}

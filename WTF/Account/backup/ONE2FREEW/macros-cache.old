@@ -1,0 +1,24 @@
+MACRO 42 "11" INV_Misc_QuestionMark
+/kiss
+/targetlasttarget
+/kiss
+END
+MACRO 36 "camera" Ability_CheapShot
+/console set CameraDistanceMaxFactor 80
+END
+MACRO 38 "Decursive" INV_Misc_QuestionMark
+/stopcasting
+/cast [target=mouseover,nomod,exists] 宁神射击;  [target=mouseover,exists,mod:ctrl] 宁神射击; [target=mouseover,exists,mod:shift] 宁神射击
+END
+MACRO 40 "ICC" Ability_Creature_Cursed_04
+/2 25ICC 固定G团 要求:DPS烂肠或者小萨 远程至少上7000 近战8000没有把握的就算了  来的带GS 天赋 成就M我  
+END
+MACRO 43 "ICC" INV_Misc_QuestionMark
+周六中午12点25ICC固定G团 招募周末有空的玩家 DPS要求烂肠远程7000+近战8000+ 治疗对本职业了解 本团只为效率进度早日推倒LK 群号104994543 欢迎有共同理想的朋友，不要埋没在工作日里的便当团里。扰屏抱歉~
+END
+MACRO 34 "statement" Ability_Creature_Cursed_01
+/Raid 欢迎来到梧桐团。YY 75774654 进来请改按键发言。
+/RW 欢迎来到梧桐团。YY 75774654 进来请改按键发言。
+END
+MACRO 39 "SW" INV_Misc_QuestionMark
+END

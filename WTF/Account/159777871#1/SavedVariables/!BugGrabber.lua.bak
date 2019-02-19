@@ -1,0 +1,47 @@
+
+BugGrabberDB = {
+	["lastSanitation"] = 3,
+	["session"] = 1,
+	["errors"] = {
+		{
+			["message"] = "ag_UnitFrames\\ag_UnitFrames-r725.lua:326: attempt to call global \"GetNumRaidMembers\" (a nil value)",
+			["time"] = "2013/09/28 03:29:36",
+			["locals"] = "self = <unnamed> {\n 0 = <userdata>\n}\nunitsLoaded = true\naUF = <table> {\n SetDefaultModuleLibraries = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:398\n StartTimer = <func> @..\\ag_UnitFrames.lua:473\n GetCurrentLayout = <func> @..\\ag_UnitFrames.lua:1503\n EnableModule = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:363\n modules = <table> {}\n CancelTimer = <func> @..\\ag_UnitFrames.lua:485\n IterateEmbeds = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:473\n defaultVars = <table> {}\n Borders = <table> {}\n UnitSuffix = <func> @..\\ag_UnitFrames.lua:1050\n LoadUnit = <func> @..\\ag_UnitFrames.lua:59\n GetLocale = <func> @..\\ag_UnitFrames.lua:24\n PLAYER_REGEN_DISABLED = <func> @..\\ag_UnitFrames.lua:363\n OnProfileReset = <func> @..\\ag_UnitFrames.lua:147\n defaultModuleState = true\n IsEnabled = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:482\n DisableModule = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:381\n LoadRaidUnits = <func> @..\\ag_UnitFrames.lua:99\n DisableAllFrames = <func> @..\\ag_UnitFrames.lua:111\n raidUnits = <table> {}\n UtilFactionColors = <func> @..\\ag_UnitFrames.lua:1061\n eventFrame = <unnamed> {}\n LoadPartyUnits = <func> @..\\ag_UnitFrames.lua:91\n SetEnabledState = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:455\n enabledState = true\n SetRaidset = <func> @..\\ag_UnitFrames.lua:417\n units = <table> {}\n OnEnable = <func> @..\\ag_UnitFrames.lua:38\n LoadSoloUnits = <func> @..\\ag_UnitFrames.lua:69\n frame = <unnamed> {}\n subgroups = <table> {}\n baseName = \"ag_UnitFrames\"\n unitid = <table> {}\n db = <table> {}\n OnInitialize = <func> @..\\ag_UnitFrames.lua:28\n PLAYER_ENTERING_WORLD = <func> @..\\ag_UnitFrames.lua:391\n del = <func> @..\\ag_UnitFrames.lua:1126\n groupid = <table> {}\n CallMethodOnUnit = <func> @..\\ag_UnitFrames.lua:197\n GetModule = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:241\n NewClass = <func> @..\\ag_UnitClass.lua:17\n GetBarTypes = <func> @..\\ag_UnitFrames.lua:1530\n RAID_ROSTER_UPDATE = <func> @..\\ag_UnitFrames.lua:324\n IterateUnitObjectsByUnit = <func> @..\\ag_UnitFrames.lua:219\n UnregisterAllEvents = <func> @..\\ag_UnitFrames.lua:1033\n RegisterBarType = <func> @..\\ag_UnitFrames.lua:1510\n GetBarTexture = <func> @..\\ag_UnitFrames.lua:1493\n UpdateMedia = <func> @..\\ag_UnitFrames.lua:1472\n GetOverrideFont = <func> @..\\ag_UnitFrames.lua:1487\n partyUnits = <table> {}\n PLAYER_REGEN_ENABLED = <func> @..\\ag_UnitFrames.lua:377\n CreateOptionsPanel = <func> @..\\ag_UnitFrames.lua:909\n GetName = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:310\n newFrame = <func> @AddOn",
+			["stack"] = "ag_UnitFrames\\ag_UnitFrames-r725.lua:326: in function \"RAID_ROSTER_UPDATE\"\nag_UnitFrames\\ag_UnitFrames-r725.lua:395: in function \"?\"\nag_UnitFrames\\ag_UnitFrames-r725.lua:962: in function <ag_UnitFrames\\ag_UnitFrames.lua:959>",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [1]
+		{
+			["message"] = "ag_UnitFrames-r725\\modules\\leadericon\\leadericon.lua:86: attempt to call global \"IsPartyLeader\" (a nil value)",
+			["time"] = "2013/09/28 03:29:36",
+			["locals"] = "self = <table> {\n SetDefaultModuleLibraries = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:398\n OnUpdateSetupMode = <func> @ag_UnitFrames\\modules\\..\\leadericon.lua:66\n Enable = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:325\n NewModule = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:266\n OnRegister = <func> @ag_UnitFrames\\modules\\..\\leadericon.lua:5\n EnableModule = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:363\n OnObjectDisable = <func> @ag_UnitFrames\\modules\\..\\leadericon.lua:51\n GetModule = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:241\n IterateEmbeds = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:473\n OnRegisterEvents = <func> @ag_UnitFrames\\modules\\..\\leadericon.lua:15\n OnUpdateAll = <func> @ag_UnitFrames\\modules\\..\\leadericon.lua:25\n SetDefaultModulePrototype = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:440\n name = \"ag_UnitFrames_Leadericon\"\n IsEnabled = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:482\n orderedModules = <table> {}\n DisableModule = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:381\n OnObjectEnable = <func> @ag_UnitFrames\\modules\\..\\leadericon.lua:58\n IsModule = <func> @ag_UnitFrames\\libs\\..\\AceAddon-3.0.lua:238\n db = <table> {}\n SetDefaultModuleState = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:418\n SetEnabledState = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:455\n enabledState = true\n baseName = \"ag_UnitFrames\"\n UpdateLeaderIcon = <func> @ag_UnitFrames\\modules\\..\\leadericon.lua:71\n modules = <table> {}\n defaultModuleLibraries = <table> {}\n OnDisable = <func> @ag_UnitFrames\\modules\\..\\leadericon.lua:44\n IterateModules = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:468\n OnEnable = <func> @ag_UnitFrames\\modules\\..\\leadericon.lua:33\n OnMetroUpdate = <func> @ag_UnitFrames\\modules\\..\\leadericon.lua:29\n GetName = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:310\n moduleName = \"Leadericon\"\n defaultModuleState = true\n Disable = <func> @AtlasLoot_Loader\\Libs\\..\\AceAddon-3.0.lua:345\n}\nobject = <table> {\n database = <table> {}\n highlight = aUFTexture9 {}\n shown = true\n eventsRegistered = true\n unit = \"player\"\n AggroBorder = <unnamed> {}\n statusText = aUFFontString10 {}\n middle = aUFFrame2 {}\n enabled = true\n type = \"player\"\n powertype = 6\n DebuffHighlight = aUFTexture3 {}\n icons = <table> {}\n lastName = \"我是会长吗\"\n top = aUFFrame1 {}\n onUpdate = <table> {}\n name = \"aUFplayer\"\n buffFrame = <unnamed> {}\n FiveSecondRuleBar = aUFFrame3 {}\n frame = aUFplayer {}\n bars = <table> {}\n strings = <table> {}\n}\n",
+			["stack"] = "ag_UnitFrames-r725\\modules\\leadericon\\leadericon.lua:86: in function \"UpdateLeaderIcon\"\nag_UnitFrames-r725\\modules\\leadericon\\leadericon.lua:26: in function \"?\"\nag_UnitFrames-r725\\ag_UnitClass.lua:121: in function \"ExecModuleMethods\"\nag_UnitFrames-r725\\ag_UnitClass.lua:505: in function \"UpdateAll\"\nag_UnitFrames-r725\\ag_UnitClass.lua:159: in function <ag_UnitFrames\\ag_UnitClass.lua:151>\n<in C code>\nFrameXML\\SecureStateDriver.lua:83: in function <FrameXML\\SecureStateDriver.lua:73>\nFrameXML\\SecureStateDriver.lua:137: in function <FrameXML\\SecureStateDriver.lua:119>",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [2]
+		{
+			["message"] = "RaidAchievement_AchieveReminder.lua:38: attempt to call global \"GetInstanceDifficulty\" (a nil value)",
+			["time"] = "2013/09/28 03:29:36",
+			["locals"] = "self = RaidAchievement_reminder {\n 0 = <userdata>\n}\nelapsed = 0.65500003099442\n",
+			["stack"] = "RaidAchievement_AchieveReminder.lua:38: in function \"icll_OnUpdate\"\n<string>:\"*:OnUpdate\":1: in function <string>:\"*:OnUpdate\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [3]
+		{
+			["message"] = "RaidAchievement_AchieveReminder.lua:76: attempt to call global \"GetInstanceDifficulty\" (a nil value)",
+			["time"] = "2013/09/28 03:29:39",
+			["locals"] = "self = RaidAchievement_reminder {\n 0 = <userdata>\n}\nelapsed = 2.4760000705719\n",
+			["stack"] = "RaidAchievement_AchieveReminder.lua:76: in function \"icll_OnUpdate\"\n<string>:\"*:OnUpdate\":1: in function <string>:\"*:OnUpdate\":1",
+			["session"] = 1,
+			["counter"] = 2,
+		}, -- [4]
+		{
+			["message"] = "RaidAchievement\\RaidAchievement-1.111.lua:1110: attempt to call global \"GetInstanceDifficulty\" (a nil value)",
+			["time"] = "2013/09/28 03:29:50",
+			["locals"] = "racurrenttime = 30330.24\n",
+			["stack"] = "RaidAchievement\\RaidAchievement-1.111.lua:1110: in function \"chechtekzoneea\"\nRaidAchievement\\RaidAchievement-1.111.lua:111: in function \"ramain_OnUpdate\"\n<string>:\"*:OnUpdate\":1: in function <string>:\"*:OnUpdate\":1",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [5]
+	},
+}

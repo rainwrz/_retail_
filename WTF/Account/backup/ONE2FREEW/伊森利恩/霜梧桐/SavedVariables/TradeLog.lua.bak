@@ -1,0 +1,32 @@
+
+TradeLog_TradesHistory = {
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 1,
+		["playerItems"] = {
+			{
+				["name"] = "Lazahk's Lost Shadowrap",
+				["numItems"] = 1,
+				["itemLink"] = "|cffa335ee|Hitem:103835:0:0:0:0:0:0:1270918016:90:0:496|h[Lazahk's Lost Shadowrap]|h|r",
+				["texture"] = "Interface\\Icons\\INV_CHEST_LEATHER_RAIDROGUE_N_01",
+			}, -- [1]
+		},
+		["targetItems"] = {
+		},
+		["player"] = "霜梧桐",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "容止",
+		["when"] = "2013-09-30 01:20:25",
+		["where"] = "Shrine of Seven Stars",
+		["result"] = "complete",
+	}, -- [1]
+	["minimapPos"] = 150,
+}
+TRADE_LOG_BUTTON_POS = nil
+TradeLog_Announce_Checked = nil
+TradeLog_AnnounceChannel = "WHISPER"

@@ -1,0 +1,21 @@
+
+SIL_Settings = {
+	["global"] = {
+		["version"] = 3,
+	},
+	["profileKeys"] = {
+		["又娇小又可爱 - 伊森利恩"] = "Default",
+	},
+}
+SIL_CacheGUID = {
+	["0x0580000001C8FF99"] = {
+		["items"] = false,
+		["time"] = false,
+		["name"] = "又娇小又可爱",
+		["score"] = false,
+		["target"] = "player",
+		["class"] = "SHAMAN",
+		["level"] = 80,
+		["realm"] = "伊森利恩",
+	},
+}

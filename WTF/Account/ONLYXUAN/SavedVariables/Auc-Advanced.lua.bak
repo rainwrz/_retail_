@@ -1,0 +1,36 @@
+
+AucAdvancedConfig = {
+	["users.熊猫酒仙.筱萱儿"] = "Default",
+	["profile.Default"] = {
+		["stat"] = {
+			["sales"] = {
+				["upgraded32"] = true,
+				["ignoredsigs"] = {
+				},
+			},
+		},
+		["util"] = {
+			["automagic"] = {
+				["ammailguix"] = 160,
+				["uierrormsg"] = 1,
+				["SavedMailButtons"] = {
+				},
+			},
+		},
+	},
+	["version"] = 1,
+}
+AucAdvancedData = {
+	["Stats"] = {
+	},
+}
+AucAdvancedServers = {
+	["KnownRealms"] = {
+		["熊猫酒仙"] = "熊猫酒仙",
+	},
+	["Timestamp"] = 1507185630,
+	["Version"] = 1,
+	["KnownServerKeys"] = {
+		["熊猫酒仙"] = 1507300076,
+	},
+}

@@ -1,0 +1,210 @@
+
+RelicInspectorCharDB = {
+	["profileKeys"] = {
+		["筱萱儿 - 熊猫酒仙"] = "筱萱儿 - 熊猫酒仙",
+	},
+	["char"] = {
+		["筱萱儿 - 熊猫酒仙"] = {
+			["crucibleUsed"] = true,
+			["artifactCache"] = {
+				[128942] = {
+					{
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["isChosen"] = true,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["tier"] = 1,
+								["icon"] = 1033184,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["isChosen"] = true,
+								["canChoose"] = false,
+								["powerID"] = 1780,
+								["tier"] = 2,
+								["icon"] = 615101,
+								["spellID"] = 252906,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["isChosen"] = false,
+								["canChoose"] = false,
+								["powerID"] = 1784,
+								["tier"] = 2,
+								["icon"] = 236687,
+								["spellID"] = 253111,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["isChosen"] = false,
+								["canChoose"] = false,
+								["powerID"] = 919,
+								["tier"] = 3,
+								["icon"] = 136193,
+								["spellID"] = 199153,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["isChosen"] = false,
+								["canChoose"] = false,
+								["powerID"] = 921,
+								["tier"] = 3,
+								["icon"] = 463569,
+								["spellID"] = 199163,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["isChosen"] = false,
+								["canChoose"] = false,
+								["powerID"] = 922,
+								["tier"] = 3,
+								["icon"] = 644270,
+								["spellID"] = 199212,
+							}, -- [6]
+						},
+						["relic"] = {
+							"轻蔑的映像", -- [1]
+							651083, -- [2]
+							"Shadow", -- [3]
+							"|cffa335ee|Hitem:147111:::::::::::6:3:3563:1522:3528:::|h[轻蔑的映像]|h|r", -- [4]
+						},
+					}, -- [1]
+					{
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["isChosen"] = true,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["tier"] = 1,
+								["icon"] = 1033184,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["isChosen"] = false,
+								["canChoose"] = false,
+								["powerID"] = 1771,
+								["tier"] = 2,
+								["icon"] = 136194,
+								["spellID"] = 252091,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["isChosen"] = true,
+								["canChoose"] = false,
+								["powerID"] = 1777,
+								["tier"] = 2,
+								["icon"] = 460953,
+								["spellID"] = 252799,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["isChosen"] = false,
+								["canChoose"] = false,
+								["powerID"] = 923,
+								["tier"] = 3,
+								["icon"] = 136211,
+								["spellID"] = 199214,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["isChosen"] = false,
+								["canChoose"] = false,
+								["powerID"] = 919,
+								["tier"] = 3,
+								["icon"] = 136193,
+								["spellID"] = 199153,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["isChosen"] = false,
+								["canChoose"] = false,
+								["powerID"] = 916,
+								["tier"] = 3,
+								["icon"] = 136118,
+								["spellID"] = 199112,
+							}, -- [6]
+						},
+						["relic"] = {
+							"堕落者血契", -- [1]
+							441148, -- [2]
+							"Blood", -- [3]
+							"|cffa335ee|Hitem:147082:::::::::::5:3:3562:1522:3337:::|h[堕落者血契]|h|r", -- [4]
+						},
+					}, -- [2]
+					{
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["isChosen"] = true,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["tier"] = 1,
+								["icon"] = 1033184,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 66,
+								["isChosen"] = true,
+								["canChoose"] = false,
+								["powerID"] = 1771,
+								["tier"] = 2,
+								["icon"] = 136194,
+								["spellID"] = 252091,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 66,
+								["isChosen"] = false,
+								["canChoose"] = false,
+								["powerID"] = 1775,
+								["tier"] = 2,
+								["icon"] = 458412,
+								["spellID"] = 252207,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 75,
+								["isChosen"] = false,
+								["canChoose"] = false,
+								["powerID"] = 917,
+								["tier"] = 3,
+								["icon"] = 136169,
+								["spellID"] = 199120,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 75,
+								["isChosen"] = false,
+								["canChoose"] = false,
+								["powerID"] = 1601,
+								["tier"] = 3,
+								["icon"] = 1357800,
+								["spellID"] = 238072,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 75,
+								["isChosen"] = false,
+								["canChoose"] = false,
+								["powerID"] = 922,
+								["tier"] = 3,
+								["icon"] = 644270,
+								["spellID"] = 199212,
+							}, -- [6]
+						},
+						["relic"] = {
+							"瑟芬崔斯克的诡计", -- [1]
+							236302, -- [2]
+							"Shadow", -- [3]
+							"|cffa335ee|Hitem:137377:::::::::::35:3:3418:1592:3337:::|h[瑟芬崔斯克的诡计]|h|r", -- [4]
+						},
+					}, -- [3]
+					["level"] = 68,
+					["timestamp"] = 673059.409,
+					["crucibled"] = true,
+				},
+			},
+		},
+	},
+}

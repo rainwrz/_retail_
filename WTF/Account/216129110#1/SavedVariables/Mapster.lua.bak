@@ -1,0 +1,25 @@
+
+MapsterDB = {
+	["namespaces"] = {
+		["GroupIcons"] = {
+		},
+		["Coords"] = {
+		},
+		["FogClear"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 2,
+				},
+			},
+		},
+		["BattleMap"] = {
+		},
+	},
+	["profileKeys"] = {
+		["高坂穗乃果灬 - 熊猫酒仙"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

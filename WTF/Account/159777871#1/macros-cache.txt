@@ -1,0 +1,15 @@
+VER 3 0000000000000003 " BT" "Ability_Creature_Cursed_02"
+/2 梧桐BT  效率红手团  散件100 T6 300 DD和JP另算 打工4t6+带装备职业M 蛋刀已包  来的速度 只要2治疗 位置不多 
+/3 梧桐BT  效率红手团  散件100 T6 300 DD和JP另算  打工4t6+带装备职业M 蛋刀已包   来的速度 只要2治疗 位置不多 
+END
+VER 3 0000000000000001 "HS" "Ability_Creature_Cursed_01"
+/2 梧桐HS 效率红手团 散件100 T6 300 AK武器500 消费大爷随便M 欢迎绿巨人 便宜 安全 效率  老4了打工只要 1DPS
+/3 HS 效率红手团 散件100 T6 300 AK武器也500 消费大爷随便M 欢迎绿巨人 便宜 安全 效率 老4了打工只要1DPS
+END
+VER 3 0000000000000005 "YY" "INV_Misc_QuestionMark"
+/raid YY75774654
+END
+VER 3 0000000000000004 "喊消费" "INV_Misc_QuestionMark"
+/2 BT G团 马上开打  来ZLS ZFD QSM消费 和各种消费 散件100 武器100 T6300
+/4 BT G团 马上开打   来ZLS ZFD QSM消费 和各种消费 散件100 武器100 T6300
+END

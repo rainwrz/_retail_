@@ -1,0 +1,86 @@
+VER 3 0100000000000007 "CS" "SPELL_HOLY_EXCORCISM"
+#showtooltip 防护恐惧结界
+/cast [target=mouseover,help] 防护恐惧结界
+/cast 防护恐惧结界
+END
+VER 3 0100000000000011 "FF" "Ability_Mount_Gryphon_01"
+/userandom [nomounted] 飞毯
+/userandom [nomounted] 斑点霜刃豹
+/dismount [mounted]
+/script UIErrorsFrame:Clear()
+END
+VER 3 0100000000000003 "TT" "SPELL_HOLY_POWERWORDSHIELD"
+#showtooltip 真言术：盾
+/cast [target=mouseover,help] 真言术：盾
+/cast 真言术：盾
+END
+VER 3 0100000000000004 "压制" "SPELL_HOLY_PAINSUPRESSION"
+#showtooltip 痛苦压制
+/cast [target=mouseover,help] 痛苦压制
+/cast 痛苦压制
+END
+VER 3 0100000000000009 "复活" "SPELL_HOLY_RESURRECTION"
+#showtooltip 复活术
+/cast [target=mouseover,help] 复活术
+/cast 复活术
+END
+VER 3 010000000000000A "强效" "SPELL_HOLY_GREATERHEAL"
+#showtooltip 强效治疗术
+/cast [target=mouseover,help] 强效治疗术
+/cast 强效治疗术
+END
+VER 3 010000000000000B "快速" "SPELL_HOLY_FLASHHEAL"
+#showtooltip 快速治疗
+/cast [target=mouseover,help] 快速治疗
+/cast 快速治疗
+END
+VER 3 0100000000000002 "恢复" "SPELL_HOLY_RENEW"
+#showtooltip 恢复
+/cast [target=mouseover,help] 恢复
+/cast 恢复
+END
+VER 3 010000000000000C "愈合" "SPELL_HOLY_PRAYEROFMENDINGTGA"
+#showtooltip 愈合祷言
+/cast [target=mouseover,help] 愈合祷言
+/cast 愈合祷言
+END
+VER 3 010000000000000D "治疗术" "SPELL_HOLY_LESSERHEAL"
+#showtooltip 治疗术
+/cast [target=mouseover,help] 治疗术
+/cast 治疗术
+END
+VER 3 010000000000000E "治疗祷言" "SPELL_HOLY_PRAYEROFHEALING02"
+#showtooltip 治疗祷言
+/cast [target=mouseover,help] 治疗祷言
+/cast 治疗祷言
+END
+VER 3 0100000000000001 "漂浮" "SPELL_HOLY_LAYONHANDS"
+#showtooltip 漂浮术
+/cast [target=mouseover,help] 漂浮术
+/cast 漂浮术
+END
+VER 3 0100000000000005 "灌注" "SPELL_HOLY_POWERINFUSION"
+#showtooltip 能量灌注
+/cast [target=mouseover,help] 能量灌注
+/cast 能量灌注
+END
+VER 3 0100000000000010 "疾病" "SPELL_HOLY_NULLIFYDISEASE"
+#showtooltip 祛病术
+/cast [target=mouseover,help] 祛病术
+/cast 祛病术
+END
+VER 3 010000000000000F "联结" "SPELL_HOLY_BLINDINGHEAL"
+#showtooltip 联结治疗
+/cast [target=mouseover,help] 联结治疗
+/cast 联结治疗
+END
+VER 3 0100000000000006 "苦修" "SPELL_HOLY_PENANCE"
+#showtooltip 苦修
+/cast [target=mouseover,help] 苦修
+/cast 苦修
+END
+VER 3 0100000000000008 "驱散" "SPELL_HOLY_DISPELMAGIC"
+#showtooltip 驱散魔法
+/cast [target=mouseover,help] 驱散魔法
+/cast 驱散魔法
+END

@@ -1,0 +1,80 @@
+
+HPetSaves = {
+	["OnlyInPetInfo"] = false,
+	["FastForfeit"] = false,
+	["ShowBandageButton"] = true,
+	["ShowGrowInfo"] = true,
+	["ShowBreedID"] = false,
+	["ShowMsg"] = true,
+	["Sound"] = true,
+	["god"] = false,
+	["AbScale"] = 0.7999999523162842,
+	["OtherAbility"] = false,
+	["ShowAbilitysName"] = false,
+	["PetGreedInfo"] = false,
+	["AllyAbility"] = false,
+	["Tooltip"] = true,
+	["BreedIDStyle"] = false,
+	["AbPoint"] = {
+		["Enemy2"] = {
+			"RIGHT", -- [1]
+			"HAbiFrameActiveEnemy", -- [2]
+			"LEFT", -- [3]
+			400, -- [4]
+			0, -- [5]
+		},
+		["Enemy3"] = {
+			"LEFT", -- [1]
+			"HAbiFrameActiveEnemy", -- [2]
+			"RIGHT", -- [3]
+			-400, -- [4]
+			0, -- [5]
+		},
+		["ActiveEnemy"] = {
+			nil, -- [1]
+			nil, -- [2]
+			nil, -- [3]
+			nil, -- [4]
+			640, -- [5]
+		},
+	},
+	["Ver"] = "1.92b",
+	["PetAbilitys"] = {
+		["0x0000000000F58794"] = "406",
+		["0x000000000157EB79"] = "426",
+		["0x0000000000FB6D3D"] = "156",
+		["0x000000000157770A"] = "400",
+		["0x000000000153299C"] = "406",
+		["0x0000000000F73550"] = "423",
+		["0x000000000157C149"] = "400",
+		["0x0000000000F616E0"] = "156",
+		["0x0000000000F3B9CC"] = "156",
+		["0x00000000015820F2"] = "056",
+		["0x00000000015329A1"] = "126",
+		["0x00000000010241E2"] = "453",
+		["0x000000000157C0D5"] = "423",
+		["0x0000000000F5ACF3"] = "156",
+		["0x000000000107F3C0"] = "400",
+		["0x0000000000F578AB"] = "450",
+		["0x00000000002A5C0A"] = "426",
+		["0x0000000000F587FD"] = "123",
+		["0x0000000001581985"] = "006",
+		["0x0000000000F60043"] = "006",
+		["0x00000000002A5C14"] = "426",
+		["0x000000000092319F"] = "050",
+		["0x000000000129EC43"] = "123",
+		["0x0000000001018E3F"] = "126",
+		["0x00000000002A5C11"] = "106",
+		["0x00000000011B35C6"] = "456",
+		["0x000000000115E1AE"] = "456",
+		["0x0000000000F58793"] = "123",
+		["0x0000000000FE510B"] = "156",
+		["0x00000000015777F6"] = "423",
+	},
+	["HighGlow"] = true,
+	["LockAbilitys"] = true,
+	["AutoSaveAbility"] = true,
+	["EnemyAbility"] = false,
+	["ShowHideID"] = false,
+	["PetBreedInfo"] = true,
+}

@@ -1,0 +1,34 @@
+VER 3 010000000000000A "123" "ABILITY_SHOOTWAND"
+/3 《月神之怒》14H全通团，为储备人才备战6.0，诚招各路爱好PVE人士，要求有H经验，熟悉自身职业，时间稳定，6.0能够稳定出勤开荒的玩家，感兴趣的M~
+END
+VER 3 010000000000000B "12313213" "ACHIEVEMENT_GUILD_DOCTORISIN"
+/target 亵渎武器
+/cast 痛
+/targetlasttarget 
+END
+VER 3 0100000000000008 "ZD" "ABILITY_MELEEDAMAGE"
+/目标 亵渎武器
+/cast 心灵尖刺
+END
+VER 3 0100000000000005 "信大叔！roll套装饰品！！！" "Ability_Mage_LivingBomb"
+/s 信大叔！roll套装武器饰品！！！
+/y 信大叔！roll套装武器饰品！！！
+/团队 信大叔！roll套装武器饰品！！！
+END
+VER 3 0100000000000006 "大驱" "SPELL_ARCANE_MASSDISPEL"
+/y 我已驱散 22222
+/CAST 群体驱散
+END
+VER 3 0100000000000009 "实名密语组人" "INV_ENCHANT_SHARDBRILLIANTSMALL"
+/run FB=FB or CreateFrame("Frame")FB:RegisterEvent("CHAT_MSG_BN_WHISPER")if B then print("关")B=nil else print("开")B=function(_,_,m,_,_,_,_,_,_,_,_,_,_,_,p)if m=="1"then _,n,_,s=BNGetToonInfo(p)InviteUnit(n.."-"..s)end end end FB:SetScript("OnEvent",B)
+END
+VER 3 0100000000000007 "瀑流" "ABILITY_PRIEST_CASCADE"
+#showtooltip  瀑流
+/cast [target=mouseover,help] 瀑流
+/cast 瀑流
+END
+VER 3 0100000000000004 "祷言" "INV_Misc_QuestionMark"
+#showtooltip  治疗祷言
+/cast [target=mouseover,help] 治疗祷言
+/cast 治疗祷言
+END

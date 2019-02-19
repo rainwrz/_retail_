@@ -1,0 +1,14 @@
+﻿## Interface: 70200
+## Title: |cffEE3A8CLg|rPanda for Maiden of Vigilance
+## Title-zhCN: |cffEE3A8C戒卫侍女助手 Lg|rPanda
+## Version: 0.2
+## Author: Paopao001
+## SavedVariablesPerCharacter: LgPandaDB
+
+libs\load_libs.xml
+init.lua
+locals\english.lua
+locals\zhCN.lua
+locals\zhTW.lua
+config.lua
+Lgpanda.lua

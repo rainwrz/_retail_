@@ -1,0 +1,1444 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 164,
+		["interrupts"] = 0,
+		["ovaleMax"] = 0,
+		["damage"] = 941,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "PALADIN",
+				["damaged"] = {
+				},
+				["auras"] = {
+				},
+				["role"] = "NONE",
+				["time"] = 138,
+				["interrupts"] = 0,
+				["ovaleMax"] = 0,
+				["ovale"] = 0,
+				["damage"] = 941,
+				["damagespells"] = {
+					["Attack"] = {
+						["hitmin"] = 9,
+						["criticalamount"] = 33,
+						["max"] = 33,
+						["criticalmin"] = 33,
+						["critical"] = 1,
+						["min"] = 9,
+						["criticalmax"] = 33,
+						["hitmax"] = 17,
+						["hit"] = 39,
+						["totalhits"] = 40,
+						["hitamount"] = 582,
+						["id"] = 6603,
+						["damage"] = 615,
+					},
+					["Crusader Strike"] = {
+						["hitmin"] = 13,
+						["max"] = 15,
+						["min"] = 13,
+						["hitmax"] = 15,
+						["hit"] = 23,
+						["totalhits"] = 23,
+						["hitamount"] = 326,
+						["id"] = 35395,
+						["damage"] = 326,
+					},
+				},
+				["power"] = {
+				},
+				["damagetaken"] = 302,
+				["deathlog"] = {
+					{
+						["ts"] = 1479543888.708,
+						["amount"] = -4,
+						["hp"] = 140,
+						["spellid"] = 88163,
+						["srcname"] = "Blackrock Spy",
+					}, -- [1]
+					{
+						["ts"] = 1479543890.709,
+						["amount"] = -5,
+						["hp"] = 136,
+						["spellid"] = 88163,
+						["srcname"] = "Blackrock Spy",
+					}, -- [2]
+					{
+						["ts"] = 1479543891.708,
+						["amount"] = -2,
+						["hp"] = 131,
+						["spellid"] = 88163,
+						["srcname"] = "Blackrock Spy",
+					}, -- [3]
+					{
+						["ts"] = 1479543911.96,
+						["amount"] = -5,
+						["hp"] = 163,
+						["srcname"] = "Blackrock Worg",
+						["spellid"] = 88163,
+					}, -- [4]
+					{
+						["ts"] = 1479543916.076,
+						["amount"] = -4,
+						["hp"] = 155,
+						["srcname"] = "Blackrock Worg",
+						["spellid"] = 88163,
+					}, -- [5]
+					{
+						["ts"] = 1479543918.093,
+						["amount"] = -4,
+						["hp"] = 150,
+						["srcname"] = "Blackrock Worg",
+						["spellid"] = 88163,
+					}, -- [6]
+					{
+						["ts"] = 1479543920.093,
+						["amount"] = -5,
+						["hp"] = 146,
+						["srcname"] = "Blackrock Worg",
+						["spellid"] = 88163,
+					}, -- [7]
+					{
+						["ts"] = 1479543922.093,
+						["amount"] = -4,
+						["hp"] = 146,
+						["srcname"] = "Blackrock Worg",
+						["spellid"] = 88163,
+					}, -- [8]
+					{
+						["ts"] = 1479543930.243,
+						["amount"] = -5,
+						["hp"] = 163,
+						["srcname"] = "Blackrock Worg",
+						["spellid"] = 88163,
+					}, -- [9]
+					{
+						["ts"] = 1479543932.243,
+						["amount"] = -5,
+						["hp"] = 158,
+						["srcname"] = "Blackrock Worg",
+						["spellid"] = 88163,
+					}, -- [10]
+					{
+						["ts"] = 1479543934.243,
+						["amount"] = -4,
+						["hp"] = 150,
+						["srcname"] = "Blackrock Worg",
+						["spellid"] = 88163,
+					}, -- [11]
+					{
+						["ts"] = 1479543936.26,
+						["amount"] = -4,
+						["hp"] = 146,
+						["srcname"] = "Blackrock Worg",
+						["spellid"] = 88163,
+					}, -- [12]
+					{
+						["ts"] = 1479543938.273,
+						["amount"] = -4,
+						["hp"] = 142,
+						["srcname"] = "Blackrock Worg",
+						["spellid"] = 88163,
+					}, -- [13]
+					{
+						["ts"] = 1479543940.268,
+						["amount"] = -4,
+						["hp"] = 142,
+						["srcname"] = "Blackrock Worg",
+						["spellid"] = 88163,
+					}, -- [14]
+					{
+						["ts"] = 1479543886.709,
+						["amount"] = -5,
+						["hp"] = 145,
+						["spellid"] = 88163,
+						["srcname"] = "Blackrock Spy",
+					}, -- [15]
+					["pos"] = 15,
+				},
+				["id"] = "Player-838-0396DD87",
+				["overhealing"] = 0,
+				["damagetakenspells"] = {
+					["Attack"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 2,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "Attack",
+						["blocked"] = 0,
+						["totalhits"] = 74,
+						["resisted"] = 0,
+						["max"] = 6,
+						["damage"] = 302,
+					},
+				},
+				["healingspells"] = {
+				},
+				["shielding"] = 0,
+				["name"] = "不朽的梧桐",
+				["healing"] = 0,
+				["healed"] = {
+				},
+				["dispells"] = 0,
+				["ccbreaks"] = 0,
+				["maxhp"] = 154,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Blackrock Worg"] = {
+				["players"] = {
+					["不朽的梧桐"] = {
+						["taken"] = 713,
+						["done"] = 219,
+						["role"] = "NONE",
+						["class"] = "PALADIN",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 713,
+				["done"] = 219,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Blackrock Spy"] = {
+				["players"] = {
+					["不朽的梧桐"] = {
+						["taken"] = 228,
+						["done"] = 83,
+						["role"] = "NONE",
+						["class"] = "PALADIN",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 228,
+				["done"] = 83,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["凉席仔-山丘之王"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Swift Hand of Justice"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 22,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Swift Hand of Justice"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 22,
+						["hits"] = 2,
+					},
+				},
+			},
+		},
+		["mobtaken"] = 941,
+		["ovale"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["overhealing"] = 0,
+		["shielding"] = 0,
+		["name"] = "Total",
+		["starttime"] = 1479543211,
+		["damagetaken"] = 302,
+		["mobhdone"] = 0,
+		["last_action"] = 1479543211,
+		["mobdone"] = 302,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 12,
+			["interrupts"] = 0,
+			["ovaleMax"] = 0,
+			["endtime"] = 1479543941,
+			["damage"] = 81,
+			["players"] = {
+				{
+					["last"] = 1479543940,
+					["healingabsorbed"] = 0,
+					["class"] = "PALADIN",
+					["damaged"] = {
+						["Blackrock Worg"] = 81,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 9,
+					["interrupts"] = 0,
+					["ovaleMax"] = 0,
+					["damage"] = 81,
+					["damagespells"] = {
+						["Attack"] = {
+							["hitmin"] = 16,
+							["criticalamount"] = 33,
+							["max"] = 33,
+							["criticalmin"] = 33,
+							["critical"] = 1,
+							["min"] = 16,
+							["criticalmax"] = 33,
+							["hitmax"] = 16,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["hitamount"] = 48,
+							["id"] = 6603,
+							["damage"] = 81,
+						},
+					},
+					["ovale"] = 0,
+					["damagetaken"] = 26,
+					["shielding"] = 0,
+					["id"] = "Player-838-0396DD87",
+					["first"] = 1479543931,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 4,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 6,
+							["resisted"] = 0,
+							["max"] = 5,
+							["damage"] = 26,
+						},
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "不朽的梧桐",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 168,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Blackrock Worg"] = {
+					["players"] = {
+						["不朽的梧桐"] = {
+							["taken"] = 81,
+							["done"] = 26,
+							["role"] = "NONE",
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 81,
+					["done"] = 26,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["凉席仔-山丘之王"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Swift Hand of Justice"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 22,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Swift Hand of Justice"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 22,
+							["hits"] = 2,
+						},
+					},
+				},
+			},
+			["mobtaken"] = 81,
+			["ovale"] = 0,
+			["healing"] = 0,
+			["starttime"] = 1479543929,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Blackrock Worg (11)",
+			["mobname"] = "Blackrock Worg",
+			["damagetaken"] = 26,
+			["mobhdone"] = 0,
+			["last_action"] = 1479543929,
+			["mobdone"] = 26,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 16,
+			["interrupts"] = 0,
+			["ovaleMax"] = 0,
+			["endtime"] = 1479543925,
+			["damage"] = 65,
+			["players"] = {
+				{
+					["last"] = 1479543921,
+					["healingabsorbed"] = 0,
+					["class"] = "PALADIN",
+					["damaged"] = {
+						["Blackrock Worg"] = 65,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 10,
+					["interrupts"] = 0,
+					["ovaleMax"] = 0,
+					["damage"] = 65,
+					["damagespells"] = {
+						["Attack"] = {
+							["hitmin"] = 16,
+							["max"] = 17,
+							["min"] = 16,
+							["hitmax"] = 17,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["hitamount"] = 65,
+							["id"] = 6603,
+							["damage"] = 65,
+						},
+					},
+					["ovale"] = 0,
+					["damagetaken"] = 22,
+					["shielding"] = 0,
+					["id"] = "Player-838-0396DD87",
+					["first"] = 1479543911,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 4,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 5,
+							["resisted"] = 0,
+							["max"] = 5,
+							["damage"] = 22,
+						},
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "不朽的梧桐",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 168,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Blackrock Worg"] = {
+					["players"] = {
+						["不朽的梧桐"] = {
+							["taken"] = 65,
+							["done"] = 22,
+							["role"] = "NONE",
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 65,
+					["done"] = 22,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 65,
+			["ovale"] = 0,
+			["healing"] = 0,
+			["starttime"] = 1479543909,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Blackrock Worg (10)",
+			["mobname"] = "Blackrock Worg",
+			["damagetaken"] = 22,
+			["mobhdone"] = 0,
+			["last_action"] = 1479543909,
+			["mobdone"] = 22,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 16,
+			["interrupts"] = 0,
+			["ovaleMax"] = 0,
+			["endtime"] = 1479543894,
+			["damage"] = 67,
+			["players"] = {
+				{
+					["last"] = 1479543892,
+					["healingabsorbed"] = 0,
+					["class"] = "PALADIN",
+					["damaged"] = {
+						["Blackrock Spy"] = 67,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 13,
+					["interrupts"] = 0,
+					["ovaleMax"] = 0,
+					["damage"] = 67,
+					["damagespells"] = {
+						["Attack"] = {
+							["hitmin"] = 16,
+							["max"] = 17,
+							["min"] = 16,
+							["hitmax"] = 17,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["hitamount"] = 67,
+							["id"] = 6603,
+							["damage"] = 67,
+						},
+					},
+					["ovale"] = 0,
+					["damagetaken"] = 34,
+					["shielding"] = 0,
+					["id"] = "Player-838-0396DD87",
+					["first"] = 1479543879,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 2,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 10,
+							["resisted"] = 0,
+							["max"] = 5,
+							["damage"] = 34,
+						},
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "不朽的梧桐",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 168,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Blackrock Spy"] = {
+					["players"] = {
+						["不朽的梧桐"] = {
+							["taken"] = 67,
+							["done"] = 34,
+							["role"] = "NONE",
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 67,
+					["done"] = 34,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 67,
+			["ovale"] = 0,
+			["healing"] = 0,
+			["starttime"] = 1479543878,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Blackrock Spy (3)",
+			["mobname"] = "Blackrock Spy",
+			["damagetaken"] = 34,
+			["mobhdone"] = 0,
+			["last_action"] = 1479543878,
+			["mobdone"] = 34,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 16,
+			["interrupts"] = 0,
+			["ovaleMax"] = 0,
+			["endtime"] = 1479543873,
+			["damage"] = 64,
+			["players"] = {
+				{
+					["last"] = 1479543872,
+					["healingabsorbed"] = 0,
+					["class"] = "PALADIN",
+					["damaged"] = {
+						["Blackrock Worg"] = 64,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 15,
+					["interrupts"] = 0,
+					["ovaleMax"] = 0,
+					["damage"] = 64,
+					["damagespells"] = {
+						["Attack"] = {
+							["hitmin"] = 15,
+							["max"] = 17,
+							["min"] = 15,
+							["hitmax"] = 17,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["hitamount"] = 64,
+							["id"] = 6603,
+							["damage"] = 64,
+						},
+					},
+					["ovale"] = 0,
+					["damagetaken"] = 26,
+					["shielding"] = 0,
+					["id"] = "Player-838-0396DD87",
+					["first"] = 1479543857,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 4,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 6,
+							["resisted"] = 0,
+							["max"] = 5,
+							["damage"] = 26,
+						},
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "不朽的梧桐",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 168,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Blackrock Worg"] = {
+					["players"] = {
+						["不朽的梧桐"] = {
+							["taken"] = 64,
+							["done"] = 26,
+							["role"] = "NONE",
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 64,
+					["done"] = 26,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 64,
+			["ovale"] = 0,
+			["healing"] = 0,
+			["starttime"] = 1479543857,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Blackrock Worg (9)",
+			["mobname"] = "Blackrock Worg",
+			["damagetaken"] = 26,
+			["mobhdone"] = 0,
+			["last_action"] = 1479543857,
+			["mobdone"] = 26,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 16,
+			["interrupts"] = 0,
+			["ovaleMax"] = 0,
+			["endtime"] = 1479543850,
+			["damage"] = 65,
+			["players"] = {
+				{
+					["last"] = 1479543849,
+					["healingabsorbed"] = 0,
+					["class"] = "PALADIN",
+					["damaged"] = {
+						["Blackrock Worg"] = 65,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 14,
+					["interrupts"] = 0,
+					["ovaleMax"] = 0,
+					["damage"] = 65,
+					["damagespells"] = {
+						["Attack"] = {
+							["hitmin"] = 16,
+							["max"] = 17,
+							["min"] = 16,
+							["hitmax"] = 17,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["hitamount"] = 65,
+							["id"] = 6603,
+							["damage"] = 65,
+						},
+					},
+					["ovale"] = 0,
+					["damagetaken"] = 32,
+					["shielding"] = 0,
+					["id"] = "Player-838-0396DD87",
+					["first"] = 1479543835,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 4,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 7,
+							["resisted"] = 0,
+							["max"] = 6,
+							["damage"] = 32,
+						},
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "不朽的梧桐",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 168,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Blackrock Worg"] = {
+					["players"] = {
+						["不朽的梧桐"] = {
+							["taken"] = 65,
+							["done"] = 32,
+							["role"] = "NONE",
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 65,
+					["done"] = 32,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 65,
+			["ovale"] = 0,
+			["healing"] = 0,
+			["starttime"] = 1479543834,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Blackrock Worg (8)",
+			["mobname"] = "Blackrock Worg",
+			["damagetaken"] = 32,
+			["mobhdone"] = 0,
+			["last_action"] = 1479543834,
+			["mobdone"] = 32,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 8,
+			["interrupts"] = 0,
+			["ovaleMax"] = 0,
+			["endtime"] = 1479543465,
+			["damage"] = 57,
+			["players"] = {
+				{
+					["last"] = 1479543464,
+					["healingabsorbed"] = 0,
+					["class"] = "PALADIN",
+					["damaged"] = {
+						["Blackrock Worg"] = 57,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 7,
+					["interrupts"] = 0,
+					["ovaleMax"] = 0,
+					["damage"] = 57,
+					["damagespells"] = {
+						["Attack"] = {
+							["hitmin"] = 14,
+							["max"] = 15,
+							["min"] = 14,
+							["hitmax"] = 15,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 29,
+							["id"] = 6603,
+							["damage"] = 29,
+						},
+						["Crusader Strike"] = {
+							["hitmin"] = 13,
+							["max"] = 15,
+							["min"] = 13,
+							["hitmax"] = 15,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 28,
+							["id"] = 35395,
+							["damage"] = 28,
+						},
+					},
+					["ovale"] = 0,
+					["damagetaken"] = 13,
+					["shielding"] = 0,
+					["id"] = "Player-838-0396DD87",
+					["first"] = 1479543457,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 4,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 5,
+							["damage"] = 13,
+						},
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "不朽的梧桐",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 154,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Blackrock Worg"] = {
+					["players"] = {
+						["不朽的梧桐"] = {
+							["taken"] = 57,
+							["done"] = 13,
+							["role"] = "NONE",
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 57,
+					["done"] = 13,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 57,
+			["ovale"] = 0,
+			["healing"] = 0,
+			["starttime"] = 1479543457,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Blackrock Worg (7)",
+			["mobname"] = "Blackrock Worg",
+			["damagetaken"] = 13,
+			["mobhdone"] = 0,
+			["last_action"] = 1479543457,
+			["mobdone"] = 13,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 8,
+			["interrupts"] = 0,
+			["ovaleMax"] = 0,
+			["endtime"] = 1479543452,
+			["damage"] = 55,
+			["players"] = {
+				{
+					["last"] = 1479543452,
+					["healingabsorbed"] = 0,
+					["class"] = "PALADIN",
+					["damaged"] = {
+						["Blackrock Worg"] = 55,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 7,
+					["interrupts"] = 0,
+					["ovaleMax"] = 0,
+					["damage"] = 55,
+					["damagespells"] = {
+						["Attack"] = {
+							["hitmin"] = 13,
+							["max"] = 14,
+							["min"] = 13,
+							["hitmax"] = 14,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 27,
+							["id"] = 6603,
+							["damage"] = 27,
+						},
+						["Crusader Strike"] = {
+							["hitmin"] = 13,
+							["max"] = 15,
+							["min"] = 13,
+							["hitmax"] = 15,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 28,
+							["id"] = 35395,
+							["damage"] = 28,
+						},
+					},
+					["ovale"] = 0,
+					["damagetaken"] = 18,
+					["shielding"] = 0,
+					["id"] = "Player-838-0396DD87",
+					["first"] = 1479543445,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 4,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 4,
+							["resisted"] = 0,
+							["max"] = 5,
+							["damage"] = 18,
+						},
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "不朽的梧桐",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 154,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Blackrock Worg"] = {
+					["players"] = {
+						["不朽的梧桐"] = {
+							["taken"] = 55,
+							["done"] = 18,
+							["role"] = "NONE",
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 55,
+					["done"] = 18,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 55,
+			["ovale"] = 0,
+			["healing"] = 0,
+			["starttime"] = 1479543444,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Blackrock Worg (6)",
+			["mobname"] = "Blackrock Worg",
+			["damagetaken"] = 18,
+			["mobhdone"] = 0,
+			["last_action"] = 1479543444,
+			["mobdone"] = 18,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["ovaleMax"] = 0,
+			["endtime"] = 1479543440,
+			["damage"] = 67,
+			["players"] = {
+				{
+					["last"] = 1479543440,
+					["healingabsorbed"] = 0,
+					["class"] = "PALADIN",
+					["damaged"] = {
+						["Blackrock Spy"] = 67,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 9,
+					["interrupts"] = 0,
+					["ovaleMax"] = 0,
+					["damage"] = 67,
+					["damagespells"] = {
+						["Attack"] = {
+							["hitmin"] = 9,
+							["max"] = 15,
+							["min"] = 9,
+							["hitmax"] = 15,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 24,
+							["id"] = 6603,
+							["damage"] = 24,
+						},
+						["Crusader Strike"] = {
+							["hitmin"] = 14,
+							["max"] = 15,
+							["min"] = 14,
+							["hitmax"] = 15,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["hitamount"] = 43,
+							["id"] = 35395,
+							["damage"] = 43,
+						},
+					},
+					["ovale"] = 0,
+					["damagetaken"] = 12,
+					["shielding"] = 0,
+					["id"] = "Player-838-0396DD87",
+					["first"] = 1479543431,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 2,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 4,
+							["resisted"] = 0,
+							["max"] = 4,
+							["damage"] = 12,
+						},
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "不朽的梧桐",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 154,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Blackrock Spy"] = {
+					["players"] = {
+						["不朽的梧桐"] = {
+							["taken"] = 67,
+							["done"] = 12,
+							["role"] = "NONE",
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 67,
+					["done"] = 12,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 67,
+			["ovale"] = 0,
+			["healing"] = 0,
+			["starttime"] = 1479543430,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Blackrock Spy (2)",
+			["mobname"] = "Blackrock Spy",
+			["damagetaken"] = 12,
+			["mobhdone"] = 0,
+			["last_action"] = 1479543430,
+			["mobdone"] = 12,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 8,
+			["interrupts"] = 0,
+			["ovaleMax"] = 0,
+			["endtime"] = 1479543420,
+			["damage"] = 57,
+			["players"] = {
+				{
+					["last"] = 1479543419,
+					["healingabsorbed"] = 0,
+					["class"] = "PALADIN",
+					["damaged"] = {
+						["Blackrock Worg"] = 57,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 7,
+					["interrupts"] = 0,
+					["ovaleMax"] = 0,
+					["damage"] = 57,
+					["damagespells"] = {
+						["Attack"] = {
+							["hitmin"] = 14,
+							["max"] = 15,
+							["min"] = 14,
+							["hitmax"] = 15,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 29,
+							["id"] = 6603,
+							["damage"] = 29,
+						},
+						["Crusader Strike"] = {
+							["hitmin"] = 14,
+							["max"] = 14,
+							["min"] = 14,
+							["hitmax"] = 14,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 28,
+							["id"] = 35395,
+							["damage"] = 28,
+						},
+					},
+					["ovale"] = 0,
+					["damagetaken"] = 12,
+					["shielding"] = 0,
+					["id"] = "Player-838-0396DD87",
+					["first"] = 1479543412,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 4,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 4,
+							["damage"] = 12,
+						},
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "不朽的梧桐",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 154,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Blackrock Worg"] = {
+					["players"] = {
+						["不朽的梧桐"] = {
+							["taken"] = 57,
+							["done"] = 12,
+							["role"] = "NONE",
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 57,
+					["done"] = 12,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 57,
+			["ovale"] = 0,
+			["healing"] = 0,
+			["starttime"] = 1479543412,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Blackrock Worg (5)",
+			["mobname"] = "Blackrock Worg",
+			["damagetaken"] = 12,
+			["mobhdone"] = 0,
+			["last_action"] = 1479543412,
+			["mobdone"] = 12,
+		}, -- [9]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 8,
+			["interrupts"] = 0,
+			["ovaleMax"] = 0,
+			["endtime"] = 1479543342,
+			["damage"] = 55,
+			["players"] = {
+				{
+					["last"] = 1479543341,
+					["healingabsorbed"] = 0,
+					["class"] = "PALADIN",
+					["damaged"] = {
+						["Blackrock Worg"] = 55,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 7,
+					["interrupts"] = 0,
+					["ovaleMax"] = 0,
+					["damage"] = 55,
+					["damagespells"] = {
+						["Attack"] = {
+							["hitmin"] = 13,
+							["max"] = 15,
+							["min"] = 13,
+							["hitmax"] = 15,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 28,
+							["id"] = 6603,
+							["damage"] = 28,
+						},
+						["Crusader Strike"] = {
+							["hitmin"] = 13,
+							["max"] = 14,
+							["min"] = 13,
+							["hitmax"] = 14,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 27,
+							["id"] = 35395,
+							["damage"] = 27,
+						},
+					},
+					["ovale"] = 0,
+					["damagetaken"] = 17,
+					["shielding"] = 0,
+					["id"] = "Player-838-0396DD87",
+					["first"] = 1479543334,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 3,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attack",
+							["blocked"] = 0,
+							["totalhits"] = 4,
+							["resisted"] = 0,
+							["max"] = 5,
+							["damage"] = 17,
+						},
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "不朽的梧桐",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 154,
+					["dispells"] = 0,
+					["ccbreaks"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Blackrock Worg"] = {
+					["players"] = {
+						["不朽的梧桐"] = {
+							["taken"] = 55,
+							["done"] = 17,
+							["role"] = "NONE",
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 55,
+					["done"] = 17,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 55,
+			["ovale"] = 0,
+			["healing"] = 0,
+			["starttime"] = 1479543334,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Blackrock Worg (4)",
+			["mobname"] = "Blackrock Worg",
+			["damagetaken"] = 17,
+			["mobhdone"] = 0,
+			["last_action"] = 1479543334,
+			["mobdone"] = 17,
+		}, -- [10]
+	},
+}

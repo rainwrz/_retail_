@@ -1,0 +1,61 @@
+### Begin GUI options ###
+item_db_source=local/bcpapi/wowhead
+target_error=0
+iterations=10000
+default_world_lag=0.1
+max_time=300
+vary_combat_length=0.2
+fight_style=Patchwerk
+tmi_window_global=6
+target_level+=3
+target_race=Humanoid
+default_skill=1.0
+optimal_raid=0
+override.bloodlust=0
+override.bleeding=1
+override.mortal_wounds=0
+threads=4
+process_priority=Low
+calculate_scale_factors=1
+scale_only=str,agi,sta,crit,haste,mastery,vers,armor
+statistics_level=1
+### End GUI options ###
+### Begin simulateText ###
+paladin="霜梧桐"
+level=110
+race=human
+region=cn
+server=
+role=tank
+professions=blacksmithing=773/engineering=703
+talents=2131112
+spec=protection
+artifact=49:0:0:0:0:1120:1:1121:3:1122:1:1123:3:1124:3:1125:3:1126:3:1127:3:1128:3:1129:3:1130:1:1131:1:1132:1:1133:1:1134:1:1135:1:1343:1
+
+head=,id=139229,bonus_id=1806/1507/3336
+neck=,id=139332,enchant_id=5890,bonus_id=1805/1492/3336
+shoulder=,id=139232,enchant_id=5883,bonus_id=1805/1507/3337
+back=,id=133771,enchant_id=5311,bonus_id=3416/1522/3336
+chest=,id=138216,bonus_id=1806/1808/1502,gem_id=130220
+shirt=,id=98543
+tabard=,id=52252
+wrist=,id=139235,bonus_id=1806/1507/3336
+hands=,id=139225,bonus_id=1805/1492/3336
+waist=,id=137086,bonus_id=1811/3458
+legs=,id=134271,bonus_id=3415/1542/3337
+feet=,id=134141,bonus_id=3418/1542/3337
+finger1=,id=137438,enchant_id=5428,bonus_id=3510/1537/3337
+finger2=,id=132452,enchant_id=5428,bonus_id=1811,gem_id=130246
+trinket1=,id=139320,bonus_id=1806/1507/3336
+trinket2=,id=139324,bonus_id=1805/1507/3337
+main_hand=,id=128867,relic_id=0/0,gem_id=0/0/0/0
+off_hand=,id=128866,bonus_id=736,relic_id=1806:1517:3337/1806:1502/1806:1502,gem_id=139252/139261/138227/0
+
+### End simulateText ###
+### Begin overrides ###
+# User-specified persistent global and player parameters will be set here.
+
+### End overrides ###
+### Begin final options ###
+### End final options ###
+### END ###

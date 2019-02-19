@@ -1,0 +1,40 @@
+# T19H
+# Tier 19 Heroic
+# * Ilvl Cap: 865
+# * Artifact Rank Cap: 26
+# * 3 Relics with max ilevel of 865
+# * Mythic+ gear is permitted up to the item level cap.
+# * No items from Violet Hold (unless 840 ilevel)
+# * No items from World Bosses / World Quests / BoEs
+# * No items from Nighthold (including set bonuses)
+# * No Legendaries
+# * No Random Gems (ie. Bonus RNG Gem Slots)
+# * No Tertiary Stats
+# * No Ranked Gear (ie. Warforged/Titanforged)
+# * No Hardcoded Stats (generally if an item gives wrong stats: either bonus_id is wrong, either the item no longer exists in-game)
+# * It is recommended to use enchant name (ex : ",enchant=binding_of_mastery") rather than id/hardcoded stats.
+
+monk="Monk_Windwalker_T19H"
+specialization=windwalker
+race=blood_elf
+level=110
+talents=3010033
+artifact=50:0:0:0:0:800:3:801:3:820:3:821:3:822:3:824:2:825:3:827:1:828:1:830:1:831:1:832:1:833:1:1341:1
+
+head=veil_of_unseen_strikes,id=134447,bonus_id=1727/1517
+neck=strand_of_the_stars,id=137487,bonus_id=1727/1517,enchant=mark_of_the_trained_soldier
+shoulders=spaulders_of_aberrant_inhibition,id=134453,bonus_id=1727/1517
+back=cape_of_valarjar_courage,id=133765,bonus_id=1727/1517,enchant=binding_of_agility
+chest=tunic_of_the_pitiless_monstrosity,id=134438,bonus_id=1727/1517
+wrists=wristwraps_of_broken_trust,id=139209,bonus_id=1805
+hands=guileful_intruder_handguards,id=137480,bonus_id=1727/1517
+waist=lifeless_buckled_girdle,id=139197,bonus_id=1805
+legs=wardens_martial_greaves,id=137515,bonus_id=1727/1517
+feet=tunnel_trudger_footguards,id=137397,bonus_id=1727/1517
+finger1=braided_silver_ring,id=134539,bonus_id=1727/1517,enchant=binding_of_mastery
+finger2=ring_of_minute_mirrors,id=137533,bonus_id=1727/1517,enchant=binding_of_mastery
+trinket1=bloodthirsty_instinct,id=139329,bonus_id=1805
+trinket2=tirathons_betrayal,id=137537,bonus_id=1727/1517
+main_hand=fists_of_the_heavens,id=128940,bonus_id=734,gem_id=137313/137543/137313,relic_id=1517:1727/1517:1727/1517:1727
+off_hand=fists_of_the_heavens,id=133948
+save=Monk_Windwalker_T19H.simc

@@ -1,0 +1,21 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["霜梧桐 - 伊森利恩"] = "霜梧桐 - 伊森利恩",
+	},
+	["profiles"] = {
+		["霜梧桐 - 伊森利恩"] = {
+			["PositionW"] = 200.0000027354896,
+			["PositionH"] = 93.99998290319013,
+			["PositionY"] = 905.0000233200486,
+			["Locked"] = true,
+			["Background"] = {
+				["Texture"] = "Blizzard Dialog Background",
+			},
+			["PositionX"] = 258.4999486069896,
+			["GrowUp"] = true,
+			["CollapseHide"] = true,
+			["Autocollapse"] = true,
+		},
+	},
+}

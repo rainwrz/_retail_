@@ -1,0 +1,32 @@
+VER 3 0100000000000003 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/casT Invoke Xuen, the White Tiger
+END
+VER 3 0100000000000004 "`" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt]清创生血
+/casT 活血酒
+END
+VER 3 0100000000000006 "F2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/USE 13
+END
+VER 3 0100000000000007 "F3" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/USE 14
+END
+VER 3 0100000000000005 "g" "INV_MISC_QUESTIONMARK"
+/tar 玄牛雕像 
+/cast 嚎镇八方 
+/targetlasttarget
+END
+VER 3 0100000000000002 "z" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:ctrl]Roll
+/casT Elusive Brew(Active Mitigation)
+END
+VER 3 0100000000000001 "·" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt]Nimble Brew
+/casT Purifying Brew
+END

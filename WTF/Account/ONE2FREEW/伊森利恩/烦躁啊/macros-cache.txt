@@ -1,0 +1,76 @@
+VER 3 010000000000000F "1" "INV_MISC_QUESTIONMARK"
+/tar 快乌龟
+/cast 嫁祸诀窍
+END
+VER 3 010000000000000E "乱舞" "INV_Misc_QuestionMark"
+#showtooltip Blade Flurry
+/cast Berserker's Call
+/cast Blade Flurry
+END
+VER 3 0100000000000002 "伏击" "Ability_Rogue_Ambush"
+/equipslot 16 锯刃
+/cast 伏击
+END
+VER 3 010000000000000D "冲动" "INV_Misc_QuestionMark"
+#showtooltip Adrenaline Rush
+/cast Adrenaline Rush
+END
+VER 3 0100000000000004 "出血" "Ability_Mage_FireStarter"
+#showtooltip 出血
+/equipslot 16 瓦尼尔的残忍右拳套
+/cast 出血
+/startattack
+END
+VER 3 0100000000000006 "刷新" "Spell_Holy_PrayerofShadowProtection"
+#showtooltip 伺机待发 
+/cast [nostealth] 闪避 
+/stopcasting 
+/cast 疾跑 
+/stopcasting 
+/cast 伺机待发
+END
+VER 3 010000000000000B "强盲" "INV_Misc_QuestionMark"
+/CAST 联盟徽记
+/CAST 致盲
+END
+VER 3 0100000000000009 "捅" "INV_Misc_QuestionMark"
+#showtooltip 影袭
+/equipslot 16 瓦尼尔的残忍右拳套
+/equipslot 17 迅钢锤
+/cast 影袭
+/startattack
+END
+VER 3 010000000000000A "杀" "Ability_Rogue_ShadowStrikes"
+#showtooltip 毁伤
+/equipslot 16 锯刃
+/equipslot 17 无常
+/cast 毁伤
+/startattack
+END
+VER 3 010000000000000C "杀戮" "INV_Misc_QuestionMark"
+#showtooltip 杀戮盛筵
+/equipslot 16 瓦尼尔的残忍右拳套
+/equipslot 17 太阳之王的权杖
+/cast 杀戮盛筵
+END
+VER 3 0100000000000007 "消失" "Ability_Vanish"
+#showtooltip Vanish
+/stopattack 
+/cast Vanish
+END
+VER 3 0100000000000005 "菊花" "Ability_BackStab"
+#showtooltip 背刺
+/equipslot 16 锯刃
+/cast 背刺
+END
+VER 3 0100000000000008 "隐身" "Ability_Ambush"
+/CAST 潜行(等级 4)
+/CAST 影遁(种族特长)
+/CAST 潜行(等级 4)
+END
+VER 3 0100000000000003 "鬼魅" "Ability_Rogue_ShadowStrikes"
+#showtooltip 鬼魅攻击
+/equipslot 16 锯刃
+/cast 鬼魅攻击
+/startattack
+END

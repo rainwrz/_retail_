@@ -1,0 +1,8 @@
+﻿## Interface: 50300
+## Title: |cffA6FFFFGaran|r 药水检查模块
+## Version: 5.00
+## SavedVariables: PCDB
+## Author: Blue
+
+gui.lua
+core.lua

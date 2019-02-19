@@ -1,0 +1,12 @@
+AtlasLoot_Loader: enabled
+NugComboBar: disabled
+Bartender4: enabled
+RangeDisplay_Options: enabled
+RangeDisplay: enabled
+Prat-3.0: enabled
+Prat-3.0_Libraries: enabled
+Prat-3.0_HighCPUUsageModules: enabled
+PowerAuras: enabled
+AtlasLoot: enabled
+oUF_Karma: enabled
+AtlasLoot_Crafting: enabled

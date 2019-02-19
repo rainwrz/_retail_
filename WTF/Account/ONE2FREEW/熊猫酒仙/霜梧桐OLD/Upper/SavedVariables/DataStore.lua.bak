@@ -1,0 +1,14 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["霜梧桐 - 熊猫酒仙"] = "霜梧桐 - 熊猫酒仙",
+	},
+	["global"] = {
+		["Version"] = 1,
+		["Characters"] = {
+			["Default.熊猫酒仙.霜梧桐"] = {
+				["faction"] = "Alliance",
+			},
+		},
+	},
+}

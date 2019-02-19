@@ -1,0 +1,30 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["霜梧桐 - 伊森利恩"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["set"] = "1363276068",
+					["hidden"] = true,
+					["y"] = 87.0001220703125,
+					["barfont"] = "Arial Narrow",
+					["mode"] = "Damage",
+					["point"] = "BOTTOMRIGHT",
+					["x"] = 0,
+				}, -- [1]
+			},
+			["setstokeep"] = 30,
+			["onlykeepbosses"] = true,
+			["reset"] = {
+				["join"] = 1,
+			},
+		},
+	},
+}

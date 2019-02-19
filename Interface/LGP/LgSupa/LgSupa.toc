@@ -1,0 +1,14 @@
+﻿## Interface: 70200
+## Title: |cffEE3A8CLg|rSupa for Fallen Avatar
+## Title-zhCN: |cffEE3A8C黑暗化身助手 Lg|rSupa
+## Version: 0.3
+## Author: Paopao001
+## Credits: Pattisaurus
+## SavedVariablesPerCharacter: LgSupaDB
+
+init.lua
+locals\english.lua
+locals\zhCN.lua
+locals\zhTW.lua
+config.lua
+LgSupa.lua

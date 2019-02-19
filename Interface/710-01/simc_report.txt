@@ -1,0 +1,153 @@
+
+DPS Ranking:
+ 210988 100.0%  Raid
+ 210988  100.0%  霜梧桐
+
+HPS Ranking:
+  68915 100.0%  Raid
+  68926  100.0%  霜梧桐
+
+Player: 霜梧桐 human paladin protection 110
+  DPS: 210987.5  DPS-Error=106.8/0.051%  DPS-Range=22086/10.5%  DPS-Convergence=70.5%
+  HPS: 47453.5 HPS-Error=67.8/0.1%
+  DPR=1013.0  RPS-Out=208.0 RPS-In=208.0  Resource=(mana) Waiting=10.7 ApM=53.3
+  DTPS: 51274.4  DTPS-error=63.9/0.1% 
+  TMI: 62495.9  TMI-error=12.4/0.0%  TMI-min=59701.5  TMI-max=64848.3 
+  Talents: 2131112
+  Artifact: 49:0:0:0:0:1120:1:1121:3:1122:1:1123:3:1124:3:1125:3:1126:3:1127:3:1128:3:1129:3:1130:1:1131:1:1132:1:1133:1:1134:1:1135:1:1343:1
+  Core Stats:    strength=26791|26791(26791)  agility=3200|3200(3200)  stamina=60841|57420(33050)  intellect=7328|7328(7328)  spirit=0|0(0)  health=3759974|3548556  mana=220000|220000
+  Generic Stats: mastery=18.01%|18.01%(3502)  versatility=1.87%|0.92%(367)  leech=0.00%|0.00%(0)  runspeed=7.14%|7.14%(0)
+  Spell Stats:   power=31616|31616(0)  hit=18.00%|18.00%(0)  crit=26.16%|26.16%(7406)  haste=29.10%|29.10%(9458)  speed=29.10%|29.10%  manareg=0|0(0)
+  Attack Stats:  power=31616|31616(0)  hit=7.50%|7.50%(0)  crit=26.16%|26.16%(7406)  expertise=10.50%|10.50%(0)  haste=29.10%|29.10%(9458)  speed=29.10%|29.10%
+  Defense Stats: armor=4353|4353(4353) miss=3.00%|3.00%  dodge=3.00%|3.00%(0)  parry=23.83%|23.83%(0)  block=21.97%|21.97%(0) crit=-6.00%|-6.00%  versatility=0.94%|0.46%(367)
+  Priorities (actions.precombat):
+    flask,type=flask_of_ten_thousand_scars
+    flask,type=flask_of_the_countless_armies,if=role.attack|using_apl.max_dps
+    food,type=seedbattered_fish_plate
+    food,type=azshari_salad,if=role.attack|using_apl.max_dps/snapshot_stats
+    potion,name=unbending_potion
+  Priorities:
+    auto_attack/use_item,name=ravaged_seed_pod/blood_fury/berserking/arcane_torrent
+    blood_fury/berserking/arcane_torrent/call_action_list,name=prot
+  Priorities (actions.prot):
+    seraphim,if=talent.seraphim.enabled&action.shield_of_the_righteous.charges>=2
+    shield_of_the_righteous,if=(!talent.seraphim.enabled|action.shield_of_the_righteous.charges>2)&!(debuff.eye_of_tyr.up&buff.aegis_of_light.up&buff.ardent_defender.up&buff.guardian_of_ancient_kings.up&buff.divine_shield.up&buff.potion.up)
+    bastion_of_light,if=talent.bastion_of_light.enabled&action.shield_of_the_righteous.charges<1
+    light_of_the_protector,if=(health.pct<40)
+    hand_of_the_protector,if=(health.pct<40)
+    light_of_the_protector,if=(incoming_damage_10000ms<health.max*1.25)&health.pct<55&talent.righteous_protector.enabled
+    light_of_the_protector,if=(incoming_damage_13000ms<health.max*1.6)&health.pct<55
+    hand_of_the_protector,if=(incoming_damage_6000ms<health.max*0.7)&health.pct<65&talent.righteous_protector.enabled
+    hand_of_the_protector,if=(incoming_damage_9000ms<health.max*1.2)&health.pct<55
+    divine_steed,if=talent.knight_templar.enabled&incoming_damage_2500ms>health.max*0.4&!(debuff.eye_of_tyr.up|buff.aegis_of_light.up|buff.ardent_defender.up|buff.guardian_of_ancient_kings.up|buff.divine_shield.up|buff.potion.up)
+    eye_of_tyr,if=incoming_damage_2500ms>health.max*0.4&!(debuff.eye_of_tyr.up|buff.aegis_of_light.up|buff.ardent_defender.up|buff.guardian_of_ancient_kings.up|buff.divine_shield.up|buff.potion.up)
+    aegis_of_light,if=incoming_damage_2500ms>health.max*0.4&!(debuff.eye_of_tyr.up|buff.aegis_of_light.up|buff.ardent_defender.up|buff.guardian_of_ancient_kings.up|buff.divine_shield.up|buff.potion.up)
+    guardian_of_ancient_kings,if=incoming_damage_2500ms>health.max*0.4&!(debuff.eye_of_tyr.up|buff.aegis_of_light.up|buff.ardent_defender.up|buff.guardian_of_ancient_kings.up|buff.divine_shield.up|buff.potion.up)
+    divine_shield,if=talent.final_stand.enabled&incoming_damage_2500ms>health.max*0.4&!(debuff.eye_of_tyr.up|buff.aegis_of_light.up|buff.ardent_defender.up|buff.guardian_of_ancient_kings.up|buff.divine_shield.up|buff.potion.up)
+    ardent_defender,if=incoming_damage_2500ms>health.max*0.4&!(debuff.eye_of_tyr.up|buff.aegis_of_light.up|buff.ardent_defender.up|buff.guardian_of_ancient_kings.up|buff.divine_shield.up|buff.potion.up)
+    lay_on_hands,if=health.pct<15/potion,name=unbending_potion
+    potion,name=draenic_strength,if=incoming_damage_2500ms>health.max*0.4&&!(debuff.eye_of_tyr.up|buff.aegis_of_light.up|buff.ardent_defender.up|buff.guardian_of_ancient_kings.up|buff.divine_shield.up|buff.potion.up)|target.time_to_die<=25
+    stoneform,if=incoming_damage_2500ms>health.max*0.4&!(debuff.eye_of_tyr.up|buff.aegis_of_light.up|buff.ardent_defender.up|buff.guardian_of_ancient_kings.up|buff.divine_shield.up|buff.potion.up)
+    avenging_wrath,if=!talent.seraphim.enabled
+    avenging_wrath,if=talent.seraphim.enabled&buff.seraphim.up/judgment/blessed_hammer
+    avengers_shield/consecration/blinding_light/hammer_of_the_righteous
+  Actions:
+    avengers_shield        Count= 33.5|  8.93sec  DPE=393700|21%  DPET=359538  DPR=0.0  pDPS=43971  Miss=0.00%  Hit=286751|236342|401190  Crit=598622|472685|802380|34.3%
+    avenging_wrath         Count=  3.0|121.44sec  DPE=     0| 0%  DPET=     0  DPR=0.0  pDPS=    0
+    blessed_hammer         Count= 93.6|  3.22sec  DPE=115039| 0%  DPET=105240  DPR=0.0  pDPS=    0
+    blessed_hammer_tick    Count=  0.0|  0.00sec  DPE=     0|17%  DPET=     0  DPR=0.0  pDPS=35841  MissTick=0.0%  Tick=28050|23101|39213  CritTick=58749|46201|78426|34.2%
+    blinding_light         Count=  3.6| 93.29sec  DPE=     0| 0%  DPET=     0  DPR=0.0  pDPS=    0
+    blinding_light_effect  Count=  3.6| 93.29sec  DPE=141383| 1%  DPET=     0  DPR=0.0  pDPS= 1675  Miss=0.00%  Hit=141381|108663|184454
+    consecration           Count= 38.3|  7.69sec  DPE=327972| 0%  DPET=299615  DPR=0.0  pDPS=    0
+    consecration_tick      Count=  0.0|  0.00sec  DPE=     0|20%  DPET=     0  DPR=0.0  pDPS=41704  MissTick=0.0%  Tick=14394|12075|20497  CritTick=30032|24150|40993|33.9%
+    hand_of_the_protector  Count= 10.2| 26.18sec  DPE=870977|43%  DPET=     0  DPR=0.0  pDPS=29439  Miss=0.00%  Hit=870973|641293|1362742
+    infested_ground        Count=  5.5| 60.33sec  DPE=497938| 4%  DPET=     0  DPR=0.0  pDPS= 9199  Miss=0.00%  Hit=36241|27752|42043  Crit=73358|55505|84086|39.3%
+    judgment               Count= 67.1|  4.53sec  DPE=237564|25%  DPET=217095  DPR=0.0  pDPS=53102  Miss=0.00%  Hit=165128|135827|230566  Crit=344090|271654|461131|40.5%
+    leech                  Count=256.1|  1.14sec  DPE=  7225| 9%  DPET=     0  DPR=0.0  pDPS= 6187  Miss=0.00%  Hit=7225|   0|114898
+    light_of_the_titans    Count= 10.2| 26.18sec  DPE=349768|17%  DPET=     0  DPR=0.0  pDPS=11827  Miss=0.00%  TickCount=71  MissTick=0.0%  Tick=36322|0|54674  CritTick=75787|0|109349|34.7%  UpTime=48.9%
+    melee                  Count=165.8|  1.82sec  DPE= 41676|11%  DPET= 22880  DPR=0.0  pDPS=22993  Miss=0.00%  Hit=30429|18311|43164  Crit=63325|36621|86327|34.2%
+    potion                 Count=  2.0|  0.00sec  DPE=     0| 0%  DPET=     0  DPR=0.0  pDPS=    0
+    seraphim               Count= 10.4| 30.46sec  DPE=     0| 0%  DPET=     0  DPR=0.0  pDPS=    0
+    tyrs_enforcer          Count= 33.3|  8.93sec  DPE= 22587| 1%  DPET=     0  DPR=0.0  pDPS= 2504  Miss=0.00%  Hit=16436|13563|23022  Crit=34333|27125|46045|34.4%
+  Constant Buffs: flask_of_ten_thousand_scars/seedbattered_fish_plate
+  Dynamic Buffs:
+    avenging_wrath      : start= 3.0 refresh=  0.0 interval=121.5 trigger=121.5 uptime=19.30%  benefit=18%
+    bulwark_of_order    : start=29.4 refresh=  4.1 interval= 10.2 trigger=  8.9 uptime=32.47%  benefit=73%
+    grand_crusader      : start= 1.0 refresh= 19.7 interval=  0.0 trigger= 14.1 uptime=96.52%  benefit=97%
+    leeching_pestilence : start= 5.5 refresh=  0.0 interval= 60.3 trigger= 60.3 uptime=18.10%  benefit=18%
+    seraphim            : start=10.4 refresh=  0.0 interval= 30.5 trigger= 30.5 uptime=53.81%  benefit=54%
+    unbending_potion    : start= 2.0 refresh=  0.0 interval= 58.2 trigger=  0.0 uptime=16.21%  benefit=16%
+  Procs:
+     22.8 |  12.62sec : parry_haste
+  Gains:
+    1850503.1 : leech                 (health)  (overflow=8.8%)
+    6443200.3 : bulwark_of_order      (health)
+    3570097.1 : light_of_the_titans   (health)
+    8890057.3 : hand_of_the_protector (health)
+  Scale Factors:
+    Weights :  Str=-1.04(0.08)  Sta=0.01(0.08)  AP=0.00(0.00)  Crit=-0.82(0.08)  Haste=-0.47(0.08)  Mastery=-0.77(0.08)  Vers=-1.42(0.08)  Leech=0.00(0.00)  Armor=-3.88(0.08)  BonusArmor=0.00(0.00)  Wdps=0.00(0.00)
+    Wowhead : 
+  Waiting: 10.71%
+
+ *** Targets *** 
+
+
+Target: Fluffy_Pillow humanoid enemy unknown 113
+  DPS: 51274.4  DPS-Error=63.9/0.125%  DPS-Range=13372/26.1%  DPS-Convergence=72.8%
+  HPS: 0.0 HPS-Error=0.0/0.0%
+
+  Talents: 0000000
+  Core Stats:    strength=0|0(0)  agility=0|0(0)  stamina=0|0(0)  intellect=0|0(0)  spirit=0|0(0)  health=0|75817889  mana=0|0
+  Generic Stats: mastery=0.00%|0.00%(0)  versatility=0.00%|0.00%(0)  leech=0.00%|0.00%(0)  runspeed=0.00%|7.00%(0)
+  Spell Stats:   power=0|0(0)  hit=0.00%|0.00%(0)  crit=0.00%|0.00%(0)  haste=INF%|0.00%(0)  speed=INF%|0.00%  manareg=0|0(0)
+  Attack Stats:  power=0|0(0)  hit=0.00%|0.00%(0)  crit=0.00%|5.00%(0)  expertise=0.00%|0.00%(0)  haste=INF%|0.00%(0)  speed=INF%|0.00%
+  Defense Stats: armor=0|3474(3474) miss=0.00%|3.00%  dodge=0.00%|3.00%(0)  parry=0.00%|3.00%(0)  block=0.00%|3.00%(0) crit=0.00%|0.00%  versatility=0.00%|0.00%(0)
+  Priorities (actions.precombat):
+    snapshot_stats
+  Priorities:
+    auto_attack,damage=264759.004,attack_speed=2,aoe_tanks=1
+    spell_dot,damage=60172.501,tick_time=2,dot_duration=20,cooldown=40,aoe_tanks=1,if=!ticking
+    spell_nuke,damage=132379.502,cooldown=35,attack_speed=2,aoe_tanks=1
+    melee_nuke,damage=312897.004,cooldown=27,attack_speed=2,aoe_tanks=1
+  Actions:
+    melee_main_hand_霜梧桐  Count=148.9|  2.00sec  DPE= 67017|65%  DPET= 33509  DPR=0.0  pDPS=33125  Miss=0.00%  Hit=111086|   0|186913  Parry=25.9%
+    melee_nuke_霜梧桐       Count= 10.6| 29.01sec  DPE=137753| 9%  DPET= 68723  DPR=0.0  pDPS= 4854  Miss=0.00%  Hit=157401|   2|222384
+    spell_dot_霜梧桐        Count=  7.8| 41.02sec  DPE=404288|20%  DPET=402513  DPR=0.0  pDPS=10412  TickCount=75  MissTick=0.0%  Tick=55380|5|59609  UpTime=49.8%
+    spell_nuke_霜梧桐       Count=  8.5| 37.15sec  DPE=102671| 6%  DPET= 51222  DPR=0.0  pDPS= 2883  Miss=0.00%  Hit=116283|  23|144251
+  Constant Buffs: bleeding
+  Dynamic Buffs:
+    Health Decade (0 - 10)   : start= 1.0 refresh=  0.0 interval=  0.0 trigger=  0.0 uptime=10.15%  benefit=10%
+    Health Decade (10 - 20)  : start= 1.0 refresh=  0.0 interval=  0.0 trigger=  0.0 uptime=10.07%  benefit=10%
+    Health Decade (20 - 30)  : start= 1.0 refresh=  0.0 interval=  0.0 trigger=  0.0 uptime= 9.96%  benefit=10%
+    Health Decade (30 - 40)  : start= 1.0 refresh=  0.0 interval=  0.0 trigger=  0.0 uptime=10.75%  benefit=11%
+    Health Decade (40 - 50)  : start= 1.0 refresh=  0.0 interval=  0.0 trigger=  0.0 uptime=10.17%  benefit=10%
+    Health Decade (50 - 60)  : start= 1.0 refresh=  0.0 interval=  0.0 trigger=  0.0 uptime= 9.24%  benefit= 9%
+    Health Decade (60 - 70)  : start= 1.0 refresh=  0.0 interval=  0.0 trigger=  0.0 uptime=10.37%  benefit=10%
+    Health Decade (70 - 80)  : start= 1.0 refresh=  0.0 interval=  0.0 trigger=  0.0 uptime=10.64%  benefit=11%
+    Health Decade (80 - 90)  : start= 1.0 refresh=  0.0 interval=  0.0 trigger=  0.0 uptime=11.09%  benefit=11%
+    Health Decade (90 - 100) : start= 1.0 refresh=  0.0 interval=  0.0 trigger=  0.0 uptime= 7.58%  benefit= 8%
+    blessed_hammer           : start=118.3 refresh=161.0 interval=  2.5 trigger=  1.1 uptime=71.93%  benefit=79%
+    judgment                 : start= 1.0 refresh= 66.1 interval=  0.1 trigger=  4.5 uptime=99.97%  benefit=100%
+  Scale Factors:
+    Weights :
+    Wowhead : 
+  Waiting: 84.13%
+Waiting:
+    10.7% : 霜梧桐
+
+Baseline Performance:
+  RNG Engine    = sse2-sfmt
+  Iterations    = 10003
+  TotalEvents   = 77523326
+  MaxEventQueue = 38
+  TargetHealth  = 75817889
+  SimSeconds    = 3008958
+  CpuSeconds    = 45.188
+  WallSeconds   = 18.067
+  SpeedUp       = 66588
+  EndTime       = 2016-11-17 23:04:58+0800 (1479395098)
+
+
+Scale Factors:
+  霜梧桐  Str=-1.04(0.08)  Sta=0.01(0.08)  AP=0.00(0.00)  Crit=-0.82(0.08)  Haste=-0.47(0.08)  Mastery=-0.77(0.08)  Vers=-1.42(0.08)  Leech=0.00(0.00)  Armor=-3.88(0.08)  BonusArmor=0.00(0.00)  Wdps=0.00(0.00)
+

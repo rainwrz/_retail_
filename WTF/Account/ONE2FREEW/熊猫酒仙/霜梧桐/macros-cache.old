@@ -1,0 +1,98 @@
+VER 3 0100000000000035 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/use Drums of the Mountain
+/cast Avenging Wrath
+/cast Seraphim
+/use Potion of the Old War
+END
+VER 3 0100000000000030 "`" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt]自利(种族特长)
+/cast [mod:shift]荣誉勋章(荣誉天赋)
+/cast 清毒术
+END
+VER 3 0100000000000014 "`" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt]Every Man for Himself(Racial)
+/cast [mod:shift]Gladiator's Medallion
+/cast [mod:shift]Shield of Virtue
+/cast Cleanse Toxins
+END
+VER 3 0100000000000032 "AOE装备" "ABILITY_PALADIN_BLINDINGLIGHT"
+/e MULTISTRIKESET
+/equipslot 13 Ravaged Seed Pod
+/equipslot 14 Terrorbound Nexus
+END
+VER 3 0100000000000034 "BA!" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast 复仇之怒
+/cast 炽天使
+/use 活性血瓶
+/use 悚然角斗士的徽章
+END
+VER 3 010000000000001E "Ba!" "INV_MISC_QUESTIONMARK"
+#showtooltip Avenging Wrath
+/cast Avenging Wrath
+/cast Seraphim
+/use Tabard of the Lightbringer
+END
+VER 3 0100000000000033 "F1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/施放 提尔之眼(神器)
+/use 蒂玛的冰河护盾
+/use 阴影月刃
+END
+VER 3 0100000000000026 "F2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+END
+VER 3 010000000000002D "G" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [mod:alt]15
+/cast Hammer of Justice
+END
+VER 3 0100000000000036 "G" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [mod:alt]15
+/cast 制裁之锤
+END
+VER 3 010000000000002C "z" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/USE [mod:ctrl]6
+/cast Divine Steed
+END
+VER 3 0100000000000037 "z" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/USE [mod:ctrl]6
+/cast 神圣马驹
+END
+VER 3 0100000000000023 "打断" "INV_MISC_QUESTIONMARK"
+#showtooltip Rebuke
+/cast [target=focus] Rebuke
+END
+VER 3 0100000000000017 "无敌" "INV_MISC_QUESTIONMARK"
+#showtooltip  Divine Shield
+/cancelaura Divine Shield
+/cancelaura Blessing of Protection
+/cast  Divine Shield
+END
+VER 3 010000000000002F "无敌" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura 圣盾术
+/cancelaura 保护祝福
+/cast 圣盾术
+END
+VER 3 0100000000000038 "自疗" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=霜梧桐]守护之光
+/cast [target=霜梧桐]守护者之手
+END
+VER 3 0100000000000028 "自疗" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=霜梧桐]Light of the Protector
+END
+VER 3 010000000000001F "飞" "INV_MISC_QUESTIONMARK"
+#showtooltip  复仇者之盾
+/cast 美德之盾
+/施放 复仇者之盾
+END

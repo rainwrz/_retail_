@@ -1,0 +1,17 @@
+
+TipTac_Config = {
+	["nameType"] = "normal",
+	["if_showItemLevelAndId"] = true,
+	["classification_rareelite"] = "+%s|r (Rare) ",
+	["classification_elite"] = "+%s ",
+	["left"] = 1172.999920192092,
+	["showGuildRank"] = true,
+	["top"] = 554.9997252884591,
+	["showUnitTip"] = true,
+	["classification_rare"] = "%s|r (Rare) ",
+	["classification_trivial"] = "~%s ",
+	["classification_worldboss"] = "%s|r (Boss) ",
+	["mouseOffsetX"] = 0,
+	["classification_normal"] = "%s ",
+	["targetYouText"] = "<<YOU>>",
+}

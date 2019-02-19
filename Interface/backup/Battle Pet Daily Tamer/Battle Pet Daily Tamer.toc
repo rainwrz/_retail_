@@ -1,0 +1,10 @@
+## Interface: 50200
+## Title: Battle Pet Daily Tamer
+## Notes: Notes on map where battle pet dailies are that you have not done today.
+## Author: Gello
+## Version: 1.1.8
+## SavedVariables: BattlePetDailyTamerSettings
+Battle Pet Daily Tamer.lua
+Battle Pet Daily Tamer Coordinates.lua
+
+

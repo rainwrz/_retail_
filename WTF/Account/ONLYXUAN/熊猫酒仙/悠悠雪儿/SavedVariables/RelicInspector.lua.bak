@@ -1,0 +1,22 @@
+
+RelicInspectorCharDB = {
+	["profileKeys"] = {
+		["悠悠雪儿 - 熊猫酒仙"] = "悠悠雪儿 - 熊猫酒仙",
+	},
+	["char"] = {
+		["悠悠雪儿 - 熊猫酒仙"] = {
+			["artifactCache"] = {
+				[128825] = {
+					["timestamp"] = 676024.354,
+					["crucibled"] = false,
+					["level"] = 66,
+				},
+				[128827] = {
+					["timestamp"] = 676037.814,
+					["crucibled"] = false,
+					["level"] = 52,
+				},
+			},
+		},
+	},
+}

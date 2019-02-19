@@ -1,0 +1,11 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["烦躁啊 - 伊森利恩"] = "烦躁啊 - 伊森利恩",
+	},
+	["profiles"] = {
+		["烦躁啊 - 伊森利恩"] = {
+			["version"] = "80000.05",
+		},
+	},
+}

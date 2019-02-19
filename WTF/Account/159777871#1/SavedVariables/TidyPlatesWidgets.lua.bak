@@ -1,0 +1,15 @@
+
+TidyPlatesWidgetData = {
+	["UnitClass"] = {
+		["又娇小又可爱"] = "SHAMAN",
+		["免罪获取权"] = "WARRIOR",
+	},
+	["CachedAuraDurations"] = {
+	},
+	["UnitDescriptions"] = {
+	},
+	["UnitGuild"] = {
+		["又娇小又可爱"] = "网瘾戒除中心",
+		["免罪获取权"] = "车臣共和国",
+	},
+}

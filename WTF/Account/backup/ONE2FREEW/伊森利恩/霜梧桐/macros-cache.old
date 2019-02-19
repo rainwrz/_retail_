@@ -1,0 +1,72 @@
+MACRO 16777231 "11000mx" INV_Misc_QuestionMark
+/use Satrina's Impeding Scarab
+/use Corroded Skeleton Key
+END
+MACRO 16777233 "ATTACK" INV_Misc_QuestionMark
+#showtooltip
+/castsequence reset=10/combat/alt /click ActionButton2
+END
+MACRO 16777235 "boom" INV_Misc_QuestionMark
+/cast Avenging Wrath
+/use Victor's Call
+END
+MACRO 16777223 "lay on hands" INV_Misc_QuestionMark
+/cast [target:霜梧桐] Lay on Hands
+END
+MACRO 16777228 "loop" INV_Misc_QuestionMark
+/castsequence reset=8 Holy Shield,Shield of Righteousness,Judgement of Light,Hammer of the Righteous,Consecration,Shield of Righteousness,Holy Shield,Hammer of the Righteous,Judgement of Light,Shield of Righteousness,Consecration,Hammer of the Righteous
+END
+MACRO 16777234 "S" INV_Misc_QuestionMark
+#showtooltip Divine Storm
+/startattack
+/cast Divine Storm
+/swapactionbar 1 2 
+/script UIErrorsFrame:Clear() 
+/script UIErrorsFrame:Show() 
+END
+MACRO 16777232 "sacrifice" INV_Misc_QuestionMark
+#showtooltip Divine Sacrifice
+/cancelaura Divine Sacrifice
+/use Divine Sacrifice
+END
+MACRO 16777224 "salvation" INV_Misc_QuestionMark
+/cast Hand of Salvation
+END
+MACRO 16777229 "save" INV_Misc_QuestionMark
+/cast [target:云再] Hand of Salvation
+END
+MACRO 16777226 "scroll" INV_Misc_QuestionMark
+#showtooltip Sacred Shield
+/cast [target:霜梧桐] Sacred Shield
+END
+MACRO 16777227 "shield" INV_Misc_QuestionMark
+#showtooltip#showtooltip
+/cast Holy Shield
+END
+MACRO 16777230 "shieldwall" INV_Misc_QuestionMark
+#showtooltip Divine Protection
+/cast Divine Protection
+/use Corroded Skeleton Key
+END
+MACRO 16777220 "啊" INV_Misc_QuestionMark
+/cast [mod:shift]Seal of Light
+/cast Seal of Vengeance
+END
+MACRO 16777222 "救场" INV_Misc_QuestionMark
+/cast [mod:alt]Divine Sacrifice
+/casT Holy Wrath(Rank 4)
+END
+MACRO 16777217 "无敌" INV_Misc_QuestionMark
+#showtooltip Divine Shield
+/cancelaura Divine Shield
+/cast Divine Shield
+END
+MACRO 16777218 "殉难" INV_Misc_QuestionMark
+#showtooltip Seal of Command
+/cancelaura Righteous Fury
+/cast Seal of Command
+END
+MACRO 16777219 "烦躁" INV_Misc_QuestionMark
+/cast [mod:alt]Every Man for Himself(Racial)
+/casT Cleanse
+END

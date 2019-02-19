@@ -1,0 +1,57 @@
+
+Prat3HighCPUPerCharDB = {
+	["time"] = 1416244836,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[01:19:11]|r|c00000000|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:1|h[1. General - Dun Morogh]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[01:19:11]|r|c00000000|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:3|h[3. LocalDefense - Dun Morogh]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				71, -- [5]
+			}, -- [2]
+			{
+				"|cff979797[01:19:58]|r|c00000000|r |cffd8d8d8[|r|Hplayer:Inspiring-埃基尔松:267|h|cffa5a5a5Inspiring|r-|cff84d0bc埃基尔|r|h|cffd8d8d8]|r has invited you to join a group.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [3]
+			{
+				"|cff979797[01:20:03]|r|c00000000|r Dungeon Difficulty set to Normal.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [4]
+			{
+				"|cff979797[01:20:03]|r|c00000000|r Looting changed to Group Loot.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [5]
+			{
+				"|cff979797[01:20:03]|r|c00000000|r Loot threshold set to Uncommon.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [6]
+			{
+				"|cff979797[01:20:36]|r|c00000000|r You have been removed from the group.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [7]
+		},
+	},
+}

@@ -1,0 +1,128 @@
+
+DataStore_TalentsDB = {
+	["profileKeys"] = {
+		["霜梧桐 - 熊猫酒仙"] = "霜梧桐 - 熊猫酒仙",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.熊猫酒仙.霜梧桐"] = {
+				["Class"] = "PALADIN",
+				["lastUpdate"] = 1426345584,
+				["GlyphList"] = {
+					11, -- [1]
+					18314, -- [2]
+					3018, -- [3]
+					15946, -- [4]
+					3210, -- [5]
+					3082, -- [6]
+					3034, -- [7]
+					18330, -- [8]
+					8970, -- [9]
+					8954, -- [10]
+					2954, -- [11]
+					2986, -- [12]
+					11258, -- [13]
+					2938, -- [14]
+					3114, -- [15]
+					7290, -- [16]
+					3066, -- [17]
+					17098, -- [18]
+					3162, -- [19]
+					11306, -- [20]
+					2970, -- [21]
+					8986, -- [22]
+					18394, -- [23]
+					3194, -- [24]
+					16154, -- [25]
+					19258, -- [26]
+					3002, -- [27]
+					3130, -- [28]
+					11218, -- [29]
+					19330, -- [30]
+					17074, -- [31]
+					18338, -- [32]
+					3170, -- [33]
+					18370, -- [34]
+					18354, -- [35]
+					14882, -- [36]
+					13, -- [37]
+					15836, -- [38]
+					7244, -- [39]
+					15788, -- [40]
+					3052, -- [41]
+					15820, -- [42]
+					7308, -- [43]
+					7260, -- [44]
+					7276, -- [45]
+					17316, -- [46]
+					15796, -- [47]
+					7316, -- [48]
+					17332, -- [49]
+				},
+				["ActiveTalents"] = 1,
+			},
+		},
+		["Reference"] = {
+			["GlyphNames"] = {
+				[1203] = "Merciful Wrath",
+				[706] = "Holy Shock",
+				[1148] = "Hand of Freedom",
+				[183] = "Double Jeopardy",
+				[184] = "Devotion Aura",
+				[185] = "Holy Wrath",
+				[186] = "Divine Protection",
+				[187] = "Templar's Verdict",
+				[986] = "Focused Wrath",
+				[188] = "Avenging Wrath",
+				[1145] = "Consecrator",
+				[189] = "Consecration",
+				[996] = "Battle Healer",
+				[191] = "Focused Shield",
+				[561] = "Immediate Truth",
+				[192] = "Burden of Guilt",
+				[194] = "Final Wrath",
+				[1067] = "Divine Shield",
+				[195] = "Word of Glory",
+				[703] = "Divine Storm",
+				[1146] = "Divine Wrath",
+				[197] = "Harsh Words",
+				[454] = "Winged Vengeance",
+				[455] = "Flash of Light",
+				[456] = "Seal of Blood",
+				[199] = "Light of Dawn",
+				[200] = "Blessed Life",
+				[1083] = "Pillar of Light",
+				[457] = "Fire From the Heavens",
+				[988] = "Righteous Retreat",
+				[1082] = "Exorcist",
+				[1068] = "Hand of Sacrifice",
+				[453] = "The Mounted King",
+				[987] = "Falling Avenger",
+				[989] = "Bladed Judgment",
+				[1147] = "Liberator",
+				[930] = "Protector of the Innocent",
+				[190] = "Luminous Charger",
+				[452] = "Contemplation",
+				[701] = "Beacon of Light",
+				[560] = "Dazing Shield",
+				[1208] = "Cleanse",
+				[1144] = "Ardent Defender",
+				[198] = "Divinity",
+				[1009] = "Mass Exorcism",
+				[559] = "Denounce",
+				[1149] = "Judgment",
+			},
+		},
+	},
+}
+DataStore_TalentsRefDB = {
+	["profileKeys"] = {
+		["霜梧桐 - 熊猫酒仙"] = "霜梧桐 - 熊猫酒仙",
+	},
+	["global"] = {
+		["PALADIN"] = {
+			["Locale"] = "enUS",
+			["Version"] = 19702,
+		},
+	},
+}

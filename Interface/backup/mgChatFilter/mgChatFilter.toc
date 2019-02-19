@@ -1,0 +1,12 @@
+﻿## Interface: 50100
+## Title:mgChatFilter
+## Title-zhCN:1级小号说话屏蔽
+## Notes:|cffbc8f8fHide chat messages with some specific words.|r
+## Notes-zhCN:|cff00ff00ChannelFilter|r   
+## Title-zhTW:1級小號說話屏蔽
+## SavedVariables:ChatFilterDB
+## X-Mush-Project-Name: mgChatFilter
+## X-Mush-Packaged-Version: 3
+## X-Mush-UpdateVer: 3
+
+mgChatFilter.lua

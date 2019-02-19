@@ -1,0 +1,35 @@
+
+DataStore_InventoryDB = {
+	["profileKeys"] = {
+		["霜梧桐 - 熊猫酒仙"] = "霜梧桐 - 熊猫酒仙",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.熊猫酒仙.霜梧桐"] = {
+				["Inventory"] = {
+					"|cffa335ee|Hitem:115568:0:0:0:0:0:0:0:100:0:5:1:566|h[Helmet of Guiding Light]|h|r", -- [1]
+					"|cffffffff|Hitem:113858:5318:0:0:0:0:0:0:100:0:5:1:566|h[]|h|r", -- [2]
+					"|cffa335ee|Hitem:115565:0:0:0:0:0:0:0:100:0:5:1:566|h[Pauldrons of Guiding Light]|h|r", -- [3]
+					98543, -- [4]
+					"|cffa335ee|Hitem:115566:0:0:0:0:0:0:0:100:0:5:1:566|h[Battleplate of Guiding Light]|h|r", -- [5]
+					"|cffffffff|Hitem:113659:0:0:0:0:0:0:0:100:0:6:1:567|h[]|h|r", -- [6]
+					"|cffffffff|Hitem:113648:0:0:0:0:0:0:0:100:0:6:1:567|h[]|h|r", -- [7]
+					"|cffffffff|Hitem:113633:0:0:0:0:0:0:0:100:0:6:1:567|h[]|h|r", -- [8]
+					"|cffffffff|Hitem:119331:0:5347:0:0:0:0:0:100:0:5:2:564:566|h[]|h|r", -- [9]
+					"|cffa335ee|Hitem:115567:0:0:0:0:0:0:0:100:0:5:1:566|h[Gauntlets of Guiding Light]|h|r", -- [10]
+					"|cffffffff|Hitem:113908:5325:0:0:0:0:0:0:100:0:6:1:567|h[]|h|r", -- [11]
+					"|cffffffff|Hitem:118308:5325:0:0:0:0:0:0:100:0:11:0|h[]|h|r", -- [12]
+					"|cffa335ee|Hitem:113861:0:0:0:0:0:0:0:100:0:5:1:566|h[Evergaze Arcane Eidolon]|h|r", -- [13]
+					"|cffa335ee|Hitem:113893:0:0:0:0:0:0:0:100:0:5:1:566|h[Blast Furnace Door]|h|r", -- [14]
+					"|cffffffff|Hitem:113605:5298:0:0:0:0:0:0:100:0:6:2:42:567|h[]|h|r", -- [15]
+					"|cffffffff|Hitem:113927:5330:0:0:0:0:0:0:100:0:5:2:561:566|h[]|h|r", -- [16]
+					"|cffffffff|Hitem:113666:0:0:0:0:0:0:0:100:0:6:2:562:567|h[]|h|r", -- [17]
+					[19] = 52252,
+				},
+				["averageItemLvl"] = 683.875,
+				["overallAIL"] = 687.6875,
+				["lastUpdate"] = 1426345585,
+			},
+		},
+	},
+}

@@ -1,0 +1,25 @@
+** v1.3		humfras
+
+Update for 5.3
+- fixed bar's mouse interference while locked
+
+** v1.2        humfras
+Fixed bugs reported by Dridzt:
+ - embeds.xml now embedded correctly
+ - changed CLEU handler
+ - fixed npcid func
+
+** v1.1		humfras
+
+Added configuration:
+- dependancies (only show if in combat and/or tank spec)
+- visuals (width, height, scale, texture...)
+- positioning / lock
+
+** v1.01	Iroared
+
+- Determines unit attack speed better
+
+** v1.00	Iroared
+
+- Initial release

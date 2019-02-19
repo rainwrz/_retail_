@@ -1,0 +1,8 @@
+subversion:
+	- Omega via svn r13443: better wording
+	- Omega via svn r13442: *Fix lua error if world boss is engaged that doesn?\226?\128?\153t have a numeric modId, by a battle.net friend. i fixed this a while back for guild but forgot to do it on battle.net syncs. *Readd ability to disable update popup but with a catch. Ever time you wipe to a boss (that isn?\226?\128?\153t raid finder), DBM will remind you that you are out of date and could improve your chances of downing fight if you?\226?\128?\153re mod was up to date.
+	- Omega via svn r13441: Fix in last
+	- Omega via svn r13440: Fix a bug where blackhand mod turned yell options back on every single pull. Dummy yells must be used as changing main yell mid pull results in option default being reset every pull. Remove useless code on blast furnace. No reason to nil out a dummy yell that never changes. Also make dummy yells still honor main yell option, so if a user turns them off, they are actually off.
+	- Omega via svn r13439: Fix rapid fire warning showing ?\226?\128?\156unknown unknown?\226?\128?\157
+	- Omega via svn r13438: Add conflag marking option to darmac, increase wait time on warning because sometimes it goes a little over 2 seconds before all 3 targets applied.
+	- tandanu via svn r13437: increment alpha version

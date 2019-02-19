@@ -1,0 +1,13 @@
+﻿## Interface: 60000
+## Title: |cffA6FFFFGaran|r RaidCooldown
+## Title-zhCN:|cffA6FFFFGaran|r 团队冷却监视模块
+## Version: 1.20
+## Notes: Visual Raid Cooldowns
+## SavedVariables: RDCDDB
+## Author: Blue
+
+libs\load_libs.xml
+init.lua
+load.xml
+
+

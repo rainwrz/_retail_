@@ -1,0 +1,88 @@
+VER 3 010000000000000D "6" "ABILITY_PRIEST_HALO"
+#showtooltip 
+/cast 光晕 
+/cast 瀑流 
+/cast 神圣之星 
+/run SetMacroSpell("第六层", GetSpellInfo"光晕" or GetSpellInfo"瀑流" or "神圣之星") 
+END
+VER 3 010000000000000F "SOS" "SPELL_HOLY_TESTOFFAITH"
+#showtooltip 
+/cast 绝望祷言
+/cast 幽灵伪装
+/run SetMacroSpell("第三层", GetSpellInfo"绝望祷" or GetSpellInfo"幽灵伪装" ) 
+END
+VER 3 0100000000000005 "信大叔！roll套装饰品！！！" "Ability_Mage_LivingBomb"
+/s 信大叔！roll套装武器饰品！！！
+/y 信大叔！roll套装武器饰品！！！
+/团队 信大叔！roll套装武器饰品！！！
+END
+VER 3 0100000000000010 "压制" "SPELL_HOLY_PAINSUPRESSION"
+#showtooltip  痛苦压制
+/cast [target=mouseover,help] 痛苦压制
+/cast 痛苦压制
+END
+VER 3 0100000000000006 "大驱" "SPELL_ARCANE_MASSDISPEL"
+/y 我已驱散 22222
+/CAST 群体驱散
+END
+VER 3 0100000000000015 "姿态" "SPELL_HOLY_INNERFIRE"
+#showtooltip 
+/cast [button:1]心灵之火;[button:2]心灵意志
+END
+VER 3 0100000000000009 "实名密语组人" "INV_ENCHANT_SHARDBRILLIANTSMALL"
+/run FB=FB or CreateFrame("Frame")FB:RegisterEvent("CHAT_MSG_BN_WHISPER")if B then print("关")B=nil else print("开")B=function(_,_,m,_,_,_,_,_,_,_,_,_,_,_,p)if m=="1"then _,n,_,s=BNGetToonInfo(p)InviteUnit(n.."-"..s)end end end FB:SetScript("OnEvent",B)
+END
+VER 3 0100000000000011 "强效" "SPELL_HOLY_GREATERHEAL"
+#showtooltip  强效治疗术
+/cast [target=mouseover,help] 强效治疗术
+/cast 强效治疗术
+END
+VER 3 0100000000000012 "快速" "SPELL_HOLY_FLASHHEAL"
+#showtooltip 快速治疗
+/cast [target=mouseover,help] 快速治疗
+/cast 快速治疗
+END
+VER 3 0100000000000013 "恢复" "SPELL_HOLY_RENEW"
+#showtooltip  恢复
+/cast [target=mouseover,help] 恢复
+/cast 恢复
+END
+VER 3 0100000000000016 "换血" "SPELL_PRIEST_VOIDSHIFT"
+#showtooltip  虚空转移
+/cast [target=mouseover,help] 虚空转移
+/cast 虚空转移
+END
+VER 3 0100000000000007 "瀑流" "ABILITY_PRIEST_CASCADE"
+#showtooltip  瀑流
+/cast [target=mouseover,help] 瀑流
+/cast 瀑流
+END
+VER 3 010000000000000E "盾" "SPELL_HOLY_POWERWORDSHIELD"
+#showtooltip  真言术：盾
+/cast [target=mouseover,help] 真言术：盾
+/cast 真言术：盾
+END
+VER 3 0100000000000004 "祷言" "INV_Misc_QuestionMark"
+#showtooltip  治疗祷言
+/cast [target=mouseover,help] 治疗祷言
+/cast 治疗祷言
+END
+VER 3 0100000000000018 "联结" "SPELL_HOLY_BLINDINGHEAL"
+#showtooltip  联结治疗
+/cast [target=mouseover,help] 联结治疗
+/cast 联结治疗
+END
+VER 3 0100000000000019 "苦修" "SPELL_HOLY_PENANCE"
+#showtooltip  苦修
+/cast [target=mouseover,help] 苦修
+/cast 苦修
+END
+VER 3 010000000000000C "飞跃" "PRIEST_SPELL_LEAPOFFAITH_A"
+#showtooltip  信仰飞跃
+/cast [target=mouseover,help] 信仰飞跃
+/cast 信仰飞跃
+END
+VER 3 0100000000000017 "驱散" "SPELL_NATURE_NULLIFYDISEASE"
+#showtooltip
+/cast [mod:shift,@player][@mouseover,help,nodead]纯净术;[@mouseover,harm,nodead][harm,nodead]驱散魔法;纯净术
+END

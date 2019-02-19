@@ -1,0 +1,36 @@
+subversion:
+	- nbluewiz via svn r12262: # add Noxious Spit for tarlna.
+	- nbluewiz via svn r12261: # ragewing cd.
+	- nbluewiz via svn r12260: # koKR update.
+	- Omega via svn r12259: Absorb too
+	- nbluewiz via svn r12258: # gtfo warn.
+	- Omega via svn r12257: even though it's 51 to 51.5 MOST of time, it can still be 50, so use 50.5 as a middle ground.
+	- nbluewiz via svn r12256: # add null barrier health bar for koragh.
+	- nbluewiz via svn r12255: # ubrs fix.
+	- nbluewiz via svn r12254: # smash default changes
+	- nbluewiz via svn r12253: # fix tarlna
+	- nbluewiz via svn r12252: # timer recovery fix.
+	- Omega via svn r12251: More debug for good measure
+	- nbluewiz via svn r12250: # sorry. correct fix.
+	- nbluewiz via svn r12249: # better fix.
+	- Omega via svn r12248: Get time always returns 0 0 on count timers, so revert making it a count timer should fix balls
+	- Omega via svn r12247: I didn't think that was intended :)
+	- Omega via svn r12246: CN update (was removing DBM_CORE_AUTO_ARROW_OPTION_TEXT3 intended?)
+	- Omega via svn r12245: Create a temp medal timer during boss fights when hiding ojbectives frame in challenge modes
+	- Omega via svn r12244: Fix bad
+	- Omega via svn r12243: revert last. checkbox can be disabled easily if feature is undesired, but feature shouldn't be broken for everyone else who still appreciates seeing boss timers instead of a huge wall of wasted space during boss fights
+	- nbluewiz via svn r12242: # do not hide objective track frame on challenge mode.
+	- nbluewiz via svn r12241: # DarkCommunionCD fix.
+	- ultrashining via svn r12240: zhTW update
+	- Omega via svn r12239: adjust timer to 51
+	- Omega via svn r12238: fix mark of chaos target timer not showing up for 3/4. pull duration from debuff itself. Start it on applied, not cast start.
+	- nbluewiz via svn r12237: # fix bad tectus health report on wipe.
+	- Omega via svn r12236: Another tweak
+	- Omega via svn r12235: Some tweaks. timers are really fucked. trying to see why
+	- Omega via svn r12234: New general message option for versions
+	- Omega via svn r12233: Now, can get list of out of date in one line at bottom, not have to scroll entire list. Next feature up. an option in spam options to not print list at all, just show counts and out of date names.
+	- Omega via svn r12232: Add protection for invalid args, to at least prevent this mistake causing lua errors in future.
+	- Omega via svn r12231: Fix lua errors on viryx. Unfortunately it's on by default, so this means this mod is busted in release and spamming lua errors for all in group, twice over.
+	- TOM_RUS via svn r12230: Added Smash spec warning for Araknath
+	- nbluewiz via svn r12229: # delay voice pack version check.
+	- tandanu via svn r12228: increment alpha version number

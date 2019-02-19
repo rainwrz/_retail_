@@ -1,0 +1,15 @@
+Version: 1
+Frame: CompactRaidMainFrame
+FrameLevel: 1
+Anchor: LEFT
+X: 52
+Y: 38
+W: 64
+H: 36
+Frame: DBMMinimapButton
+FrameLevel: 8
+Anchor: TOPRIGHT
+X: -140
+Y: -117
+W: 32
+H: 32

@@ -1,0 +1,14 @@
+
+BigDebuffsDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["霜梧桐 - 熊猫酒仙"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

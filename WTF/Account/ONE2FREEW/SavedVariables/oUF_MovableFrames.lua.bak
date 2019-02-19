@@ -1,0 +1,21 @@
+
+bb08df87101dd7f2161e5b77cf750f753c58ef1b = {
+	["__INITIAL"] = {
+		["karma"] = {
+			["oUF_karmaFocusTarget"] = "TOPLEFTUIParent372-251.000",
+			["oUF_karmaPet"] = "TOPLEFTUIParent224-1211.000",
+			["oUF_karmaPlayer"] = "BOTTOMUIParent03451.000",
+			["oUF_karmaFocus"] = "LEFTUIParent301031.000",
+			["oUF_karmaTarget"] = "CENTERUIParent279-801.000",
+			["oUF_karmaTargetTarget"] = "TOPLEFTUIParent502-251.000",
+		},
+	},
+	["karma"] = {
+		["oUF_karmaFocusTarget"] = "LEFTUIParent1612021.000",
+		["oUF_karmaPet"] = "TOPLEFTUIParent46-1381.000",
+		["oUF_karmaPlayer"] = "TOPLEFTUIParent47-431.000",
+		["oUF_karmaFocus"] = "LEFTUIParent392461.000",
+		["oUF_karmaTarget"] = "TOPLEFTUIParent375-411.000",
+		["oUF_karmaTargetTarget"] = "TOPUIParent-244-1111.000",
+	},
+}

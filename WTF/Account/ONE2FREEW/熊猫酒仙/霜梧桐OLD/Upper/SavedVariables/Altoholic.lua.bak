@@ -1,0 +1,13 @@
+
+AltoholicDB = {
+	["profileKeys"] = {
+		["霜梧桐 - 熊猫酒仙"] = "霜梧桐 - 熊猫酒仙",
+	},
+	["global"] = {
+		["options"] = {
+			["UI.Tabs.Summary.CurrentRealms"] = 4,
+			["Tabs.Grids.Default.熊猫酒仙.Column1"] = "Default.熊猫酒仙.霜梧桐",
+			["Tabs.Achievements.Default.熊猫酒仙.Column1"] = "Default.熊猫酒仙.霜梧桐",
+		},
+	},
+}

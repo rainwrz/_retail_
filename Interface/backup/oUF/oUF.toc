@@ -1,0 +1,9 @@
+## Interface: 50000## Title: oUF
+ **edited for oUF_Karma**## Author: Haste
+## Version: 1.6.0
+ edited by Unkn## OptionalDeps: !ClassColors, Clique
+## X-eMail: troeks@gmail.com
+## X-oUF: oUF
+## Notes: Unit frame framework. Does nothing by itself.
+
+oUF.xml

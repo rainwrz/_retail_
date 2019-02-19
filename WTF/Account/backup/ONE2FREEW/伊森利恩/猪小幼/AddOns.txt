@@ -1,0 +1,11 @@
+Recount: disabled
+Bartender4: enabled
+Prat-3.0_HighCPUUsageModules: enabled
+AtlasLoot_Loader: disabled
+NugComboBar: disabled
+RangeDisplay_Options: disabled
+RangeDisplay: disabled
+Prat-3.0: enabled
+Prat-3.0_Libraries: enabled
+PowerAuras: enabled
+AtlasLoot: disabled

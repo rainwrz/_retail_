@@ -1,0 +1,17 @@
+
+TidyPlatesOptions = {
+	["PrimaryProfile"] = "Damage",
+	["FriendlyAutomation"] = "No Automation",
+	["EnemyAutomation"] = "No Automation",
+	["primary"] = "Neon/|cFFFF4400Damage",
+	["CompatibilityMode"] = false,
+	["PrimaryTheme"] = "Neon",
+	["ActiveThemeName"] = "Threat",
+	["ShowIconButton"] = false,
+	["SecondaryProfile"] = "Damage",
+	["DisableSoftTransitions"] = false,
+	["ActiveTheme"] = "Threat",
+	["SecondaryTheme"] = "Neon",
+	["WelcomeShown"] = true,
+	["secondary"] = "Neon/|cFFFF4400Damage",
+}

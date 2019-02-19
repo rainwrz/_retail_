@@ -1,0 +1,13 @@
+VER 3 0100000000000002 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast Nemesis
+/cast Chaos Blades
+END
+VER 3 0100000000000003 "F2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/USE 14
+END
+VER 3 0100000000000001 "Q" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:2/2]Felblade;Demon's Bite
+END

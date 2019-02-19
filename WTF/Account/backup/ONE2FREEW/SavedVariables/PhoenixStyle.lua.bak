@@ -1,0 +1,291 @@
+
+pslocationnames = {
+	"Baradin Hold", -- [1]
+	"Blackwing Descent", -- [2]
+	"The Bastion of Twilight", -- [3]
+	"Throne of the Four Winds", -- [4]
+	"Firelands", -- [5]
+	"The Dragon Wastes", -- [6]
+}
+psbossnames = {
+	{
+		"Argaloth", -- [1]
+		"Occu'thar", -- [2]
+		"Alizabal, Mistress of Hate", -- [3]
+	}, -- [1]
+	{
+		"Magmaw", -- [1]
+		"Omnitron Defense System", -- [2]
+		"Maloriak", -- [3]
+		"Atramedes", -- [4]
+		"Chimaeron", -- [5]
+		"Nefarian", -- [6]
+	}, -- [2]
+	{
+		"Halfus Wyrmbreaker", -- [1]
+		"Valiona & Theralion", -- [2]
+		"Twilight Ascendant Council", -- [3]
+		"Cho'gall", -- [4]
+		"Sinestra", -- [5]
+	}, -- [3]
+	{
+		"Conclave of Wind", -- [1]
+		"Al'Akir", -- [2]
+	}, -- [4]
+	{
+		"Beth'tilac", -- [1]
+		"Lord Rhyolith", -- [2]
+		"Alysrazor", -- [3]
+		"Shannox", -- [4]
+		"Baleroc", -- [5]
+		"Majordomo Staghelm", -- [6]
+		"Ragnaros", -- [7]
+	}, -- [5]
+	{
+		"Morchok", -- [1]
+		"Warlord Zon'ozz", -- [2]
+		"Yor'sahj the Unsleeping", -- [3]
+		"Hagara the Stormbinder", -- [4]
+		"Ultraxion", -- [5]
+		"Warmaster Blackhorn", -- [6]
+		"Spine of Deathwing", -- [7]
+		"Madness of Deathwing", -- [8]
+	}, -- [6]
+}
+pssisavedbossinfo = {
+}
+pssisavedfailaftercombat = {
+}
+pssisavedfailsplayern = {
+	{
+	}, -- [1]
+	{
+	}, -- [2]
+}
+psfontsset = {
+	12, -- [1]
+	13, -- [2]
+}
+psaddoninstalledsins = "8/2/2012"
+psfchatadd = {
+}
+PS_Settings = {
+	["PSMinimapPos"] = -16,
+}
+psminibutenabl = true
+psoldvern = 0
+psraidchats3 = {
+	"raid", -- [1]
+	"sebe", -- [2]
+	"sebe", -- [3]
+}
+psraidoptionsnumers = {
+	2, -- [1]
+	0, -- [2]
+	4, -- [3]
+	8, -- [4]
+	5, -- [5]
+	7, -- [6]
+	10, -- [7]
+	20, -- [8]
+}
+pssidamageinf_title2 = {
+}
+pssidamageinf_indexboss = {
+}
+pssidamageinf_additioninfo = {
+}
+pssidamageinf_damageinfo = {
+}
+pssidamageinf_switchinfo = {
+}
+pssidamageinf_classcolor = {
+}
+pssicombatin_indexboss = {
+}
+pssicombatin_title2 = {
+}
+pssicombatin_damageinfo = {
+}
+psrscafterfightrep = {
+	0, -- [1]
+	0, -- [2]
+}
+pssaaddon_12 = {
+	1, -- [1]
+	1, -- [2]
+	1, -- [3]
+}
+ps_saoptions = {
+	{
+	}, -- [1]
+	{
+		{
+		}, -- [1]
+		{
+			1, -- [1]
+			1, -- [2]
+			1, -- [3]
+			1, -- [4]
+		}, -- [2]
+		{
+		}, -- [3]
+		{
+			1, -- [1]
+			1, -- [2]
+		}, -- [4]
+		{
+		}, -- [5]
+		{
+			1, -- [1]
+		}, -- [6]
+	}, -- [2]
+	{
+		{
+		}, -- [1]
+		{
+			1, -- [1]
+			1, -- [2]
+			0, -- [3]
+		}, -- [2]
+		{
+			1, -- [1]
+			0, -- [2]
+		}, -- [3]
+		{
+			1, -- [1]
+		}, -- [4]
+	}, -- [3]
+	{
+		{
+		}, -- [1]
+		{
+			1, -- [1]
+		}, -- [2]
+	}, -- [4]
+	{
+		{
+		}, -- [1]
+		{
+		}, -- [2]
+		{
+		}, -- [3]
+		{
+			1, -- [1]
+			1, -- [2]
+		}, -- [4]
+		{
+			1, -- [1]
+		}, -- [5]
+		{
+			1, -- [1]
+		}, -- [6]
+		{
+			1, -- [1]
+		}, -- [7]
+	}, -- [5]
+	{
+		{
+		}, -- [1]
+		{
+			1, -- [1]
+		}, -- [2]
+		{
+		}, -- [3]
+		{
+			1, -- [1]
+			1, -- [2]
+		}, -- [4]
+		{
+		}, -- [5]
+		{
+			1, -- [1]
+		}, -- [6]
+		{
+		}, -- [7]
+		{
+		}, -- [8]
+	}, -- [6]
+}
+psbosssmodchosesort = 1
+psbossmodelshow = 1
+psdeathrepsavemain = {
+	0, -- [1]
+	1, -- [2]
+	0, -- [3]
+	1, -- [4]
+	0, -- [5]
+	0, -- [6]
+	0, -- [7]
+	1, -- [8]
+	0, -- [9]
+	"raid", -- [10]
+	1, -- [11]
+	3, -- [12]
+	6, -- [13]
+	1, -- [14]
+	"party", -- [15]
+	2, -- [16]
+}
+psautoinvsave = {
+	1, -- [1]
+	1, -- [2]
+	1, -- [3]
+	0, -- [4]
+	3, -- [5]
+	{
+		"inv", -- [1]
+		"invite", -- [2]
+		"!inv", -- [3]
+		"inv me", -- [4]
+	}, -- [6]
+	{
+	}, -- [7]
+	{
+	}, -- [8]
+	0, -- [9]
+	"Autoinvite: wisp 'inv' to join the raid.", -- [10]
+	1, -- [11]
+}
+psfnopromrep = false
+psicccombatsavedreport = 25
+pssavedinfomorebutton = 0
+pssavedinfocheckexport = {
+	1, -- [1]
+	1, -- [2]
+	1, -- [3]
+	0, -- [4]
+}
+pssichose5 = 4
+pssichatrepdef = "raid"
+pssaveexpradiobutset = 1
+pspetstableok = {
+	{
+		"0xF14018059F00019D", -- [1]
+		"0xF130DF840000D869", -- [2]
+		"0xF130DF840000D87E", -- [3]
+	}, -- [1]
+	{
+		"0x0A8000000072FE8E", -- [1]
+		"0x058000000246909D", -- [2]
+		"0x058000000246909D", -- [3]
+	}, -- [2]
+	{
+		89975.749, -- [1]
+		89941.181, -- [2]
+		89946.389, -- [3]
+	}, -- [3]
+	{
+		"Lilithbaby-沙怒", -- [1]
+		"亂为之舞", -- [2]
+		"亂为之舞", -- [3]
+	}, -- [4]
+	{
+		2, -- [1]
+		1, -- [2]
+		1, -- [3]
+	}, -- [5]
+}
+pstrackbadsummons = 1
+psmergepets = 1
+psversionsaved2 = 1.578

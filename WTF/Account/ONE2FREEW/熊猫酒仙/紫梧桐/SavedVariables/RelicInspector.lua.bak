@@ -1,0 +1,351 @@
+
+RelicInspectorCharDB = {
+	["profileKeys"] = {
+		["紫梧桐 - 熊猫酒仙"] = "紫梧桐 - 熊猫酒仙",
+	},
+	["char"] = {
+		["紫梧桐 - 熊猫酒仙"] = {
+			["crucibleUsed"] = true,
+			["artifactCache"] = {
+				[128832] = {
+					{
+						["relic"] = {
+							"锻造之主微粒", -- [1]
+							132838, -- [2]
+							"Iron", -- [3]
+							"|cffa335ee|Hitem:155855:::::::::::5:3:3611:1497:3528:::|h[锻造之主微粒]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1780,
+								["icon"] = 615101,
+								["isChosen"] = true,
+								["spellID"] = 252906,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1784,
+								["icon"] = 236687,
+								["isChosen"] = false,
+								["spellID"] = 253111,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1234,
+								["icon"] = 1305158,
+								["isChosen"] = true,
+								["spellID"] = 212827,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1231,
+								["icon"] = 1344647,
+								["isChosen"] = false,
+								["spellID"] = 212817,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1100,
+								["icon"] = 1344649,
+								["isChosen"] = false,
+								["spellID"] = 207347,
+							}, -- [6]
+						},
+					}, -- [1]
+					{
+						["relic"] = {
+							"百变凭证", -- [1]
+							134946, -- [2]
+							"Arcane", -- [3]
+							"|cffa335ee|Hitem:137490:::::::::::35:3:3536:1627:3337:::|h[百变凭证]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1771,
+								["icon"] = 136194,
+								["isChosen"] = false,
+								["spellID"] = 252091,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1775,
+								["icon"] = 458412,
+								["isChosen"] = true,
+								["spellID"] = 252207,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1100,
+								["icon"] = 1344649,
+								["isChosen"] = false,
+								["spellID"] = 207347,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1101,
+								["icon"] = 1344648,
+								["isChosen"] = false,
+								["spellID"] = 207352,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1497,
+								["icon"] = 1247263,
+								["isChosen"] = true,
+								["spellID"] = 238046,
+							}, -- [6]
+						},
+					}, -- [2]
+					{
+						["relic"] = {
+							"浓缩的凋零宝珠", -- [1]
+							134125, -- [2]
+							"Fel", -- [3]
+							"|cffa335ee|Hitem:155848:::::::::::5:3:3611:1497:3528:::|h[浓缩的凋零宝珠]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1779,
+								["icon"] = 1394892,
+								["isChosen"] = true,
+								["spellID"] = 252888,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1783,
+								["icon"] = 876916,
+								["isChosen"] = false,
+								["spellID"] = 253093,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1234,
+								["icon"] = 1305158,
+								["isChosen"] = false,
+								["spellID"] = 212827,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1233,
+								["icon"] = 1344653,
+								["isChosen"] = true,
+								["spellID"] = 212821,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1101,
+								["icon"] = 1344648,
+								["isChosen"] = false,
+								["spellID"] = 207352,
+							}, -- [6]
+						},
+					}, -- [3]
+					["level"] = 77,
+					["crucibled"] = true,
+					["timestamp"] = 189636.175,
+				},
+				[127829] = {
+					{
+						["relic"] = {
+							"聚爆地狱火之星", -- [1]
+							517112, -- [2]
+							"Fel", -- [3]
+							"|cffa335ee|Hitem:147084:::::::::::3:3:3561:1482:3528:::|h[聚爆地狱火之星]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1778,
+								["icon"] = 136146,
+								["isChosen"] = false,
+								["spellID"] = 252875,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1775,
+								["icon"] = 458412,
+								["isChosen"] = false,
+								["spellID"] = 252207,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1493,
+								["icon"] = 1305156,
+								["isChosen"] = false,
+								["spellID"] = 238045,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1006,
+								["icon"] = 1247262,
+								["isChosen"] = false,
+								["spellID"] = 201460,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1004,
+								["icon"] = 135561,
+								["isChosen"] = false,
+								["spellID"] = 201458,
+							}, -- [6]
+						},
+					}, -- [1]
+					{
+						["relic"] = {
+							"伊凡尔的饥渴", -- [1]
+							134102, -- [2]
+							"Shadow", -- [3]
+							"|cffa335ee|Hitem:137399:::::::::::16:3:3535:1562:3336:::|h[伊凡尔的饥渴]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1781,
+								["icon"] = 839910,
+								["isChosen"] = false,
+								["spellID"] = 252922,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1775,
+								["icon"] = 458412,
+								["isChosen"] = false,
+								["spellID"] = 252207,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1003,
+								["icon"] = 1305159,
+								["isChosen"] = false,
+								["spellID"] = 201457,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1006,
+								["icon"] = 1247262,
+								["isChosen"] = false,
+								["spellID"] = 201460,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1005,
+								["icon"] = 1033914,
+								["isChosen"] = false,
+								["spellID"] = 201459,
+							}, -- [6]
+						},
+					}, -- [2]
+					{
+						["relic"] = {
+							"浓缩的凋零宝珠", -- [1]
+							134125, -- [2]
+							"Fel", -- [3]
+							"|cffa335ee|Hitem:155848:::::::::::5:3:3611:1497:3528:::|h[浓缩的凋零宝珠]|h|r", -- [4]
+						},
+					}, -- [3]
+					["timestamp"] = 189654.421,
+					["level"] = 51,
+					["crucibled"] = true,
+				},
+			},
+		},
+	},
+}

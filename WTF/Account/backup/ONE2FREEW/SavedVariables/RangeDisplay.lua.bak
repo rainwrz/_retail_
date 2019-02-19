@@ -1,0 +1,31 @@
+
+RangeDisplayDB3 = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["霜梧桐 - 伊森利恩"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["locked"] = true,
+			["units"] = {
+				["playertarget"] = {
+					["point"] = "TOP",
+					["y"] = -144.0002243101454,
+					["x"] = -431.0004816513275,
+					["relPoint"] = "TOP",
+				},
+				["mouseover"] = {
+					["y"] = 64.00005252139991,
+					["x"] = 50.00031143548851,
+				},
+				["focus"] = {
+					["y"] = 177.0000413742799,
+					["x"] = 360.9998898281572,
+				},
+			},
+		},
+	},
+}

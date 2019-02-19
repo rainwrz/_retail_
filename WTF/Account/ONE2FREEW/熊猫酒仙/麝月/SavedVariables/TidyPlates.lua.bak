@@ -1,0 +1,11 @@
+
+TidyPlatesOptions = {
+	["DisableSoftTransitions"] = false,
+	["CompatibilityMode"] = false,
+	["EnemyAutomation"] = "No Automation",
+	["FriendlyAutomation"] = "No Automation",
+	["ActiveTheme"] = "Neon",
+	["primary"] = "Threat Plates",
+	["WelcomeShown"] = true,
+	["secondary"] = "Threat Plates",
+}

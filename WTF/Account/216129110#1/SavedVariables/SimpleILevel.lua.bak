@@ -1,0 +1,22 @@
+
+SIL_Settings = {
+	["global"] = {
+		["version"] = 3,
+	},
+	["profileKeys"] = {
+		["高坂穗乃果灬 - 熊猫酒仙"] = "Default",
+	},
+}
+SIL_CacheGUID = {
+	["Player-838-03B51140"] = {
+		["score"] = 927.375,
+		["class"] = "MAGE",
+		["items"] = 16,
+		["resil"] = 0,
+		["name"] = "高坂穗乃果灬",
+		["target"] = "player",
+		["level"] = 110,
+		["time"] = 1501761790,
+		["realm"] = "熊猫酒仙",
+	},
+}

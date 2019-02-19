@@ -1,0 +1,102 @@
+VER 3 0100000000000011 "20%" "INV_Misc_QuestionMark"
+#showtooltip Ardent Defender
+/cast Ardent Defender
+/use Fortitude of the Zandalari
+/use Healthstone
+END
+VER 3 0100000000000015 "20%%" "INV_MISC_QUESTIONMARK"
+#showtooltip 圣佑术
+/cast 圣佑术
+/use 玉质军阀俑
+/use 治疗石
+END
+VER 3 0100000000000008 "50%" "INV_Misc_QuestionMark"
+#showtooltip Guardian of Ancient Kings
+/cast Guardian of Ancient Kings
+/use Healthstone
+END
+VER 3 0100000000000016 "50%%" "INV_MISC_QUESTIONMARK"
+#showtooltip 远古列王守卫
+/cast 远古列王守卫
+/use 治疗石
+END
+VER 3 0100000000000014 "`" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt]Every Man for Himself(Racial)
+/cast [mod:shift] Cleanse
+/cast Hammer of the Righteous
+END
+VER 3 010000000000000C "``" "INV_Misc_QuestionMark"
+/cast [mod:alt]自利(种族特长)
+/cast [mod:shift] 清洁术
+/casT 正义之锤
+END
+VER 3 010000000000001E "Ba!" "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Avenger
+/cast Holy Avenger
+/cast Avenging Wrath
+/use Kafa Press
+END
+VER 3 0100000000000022 "Ba！！" "INV_MISC_QUESTIONMARK"
+#showtooltip 神圣复仇者
+/cast 神圣复仇者
+/cast 复仇之怒
+END
+VER 3 010000000000001F "CS" "INV_MISC_QUESTIONMARK"
+#showtooltip Crusader Strike
+/castsequence reset=0.5 1,2,3,Hammer of Wrath
+/castsequence reset=0.5 1,2,Avenger's Shield
+/castsequence reset=0.5 1,Judgment
+/cast Crusader Strike
+END
+VER 3 0100000000000024 "E" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Holy Prism
+/cast Light's Hammer
+/cast Execution Sentence
+/run local Z=GetSpellInfo SetMacroSpell(GetRunningMacro(),Z("Holy Prism")or Z("Light's Hammer")or "Execution Sentence")
+END
+VER 3 0100000000000019 "Hammer" "INV_MISC_QUESTIONMARK"
+#showtooltip Hammer of the Righteous
+/castsequence reset=0.5 1,2,3,4,Hammer of Wrath
+/castsequence reset=0.5 1,2,3,Consecration
+/castsequence reset=0.5 1,2,Avenger's Shield
+/castsequence reset=0.5 1,Judgment
+/cast Hammer of the Righteous
+END
+VER 3 0100000000000021 "Hammerr" "INV_MISC_QUESTIONMARK"
+#showtooltip 正义之锤
+/castsequence reset=0.5 1,2,3,4,愤怒之锤
+/castsequence reset=0.5 1,2,3,奉献
+/castsequence reset=0.5 1,2,复仇者之盾
+/castsequence reset=0.5 1,审判
+/cast 正义之锤
+END
+VER 3 0100000000000018 "SR" "INV_MISC_QUESTIONMARK"
+#showtooltip Shield of the Righteous
+/cast [mod:ctrl]Righteous Fury
+/cast Shield of the Righteous
+END
+VER 3 010000000000000A "WoG" "INV_Misc_QuestionMark"
+#showtooltip Word of Glory
+/cast [target=霜梧桐] Word of Glory
+END
+VER 3 010000000000001C "Wog圣令" "INV_MISC_QUESTIONMARK"
+#showtooltip 荣耀圣令
+/cast [target=霜梧桐] 荣耀圣令
+END
+VER 3 0100000000000023 "打断" "INV_MISC_QUESTIONMARK"
+#showtooltip Rebuke
+/cast [target=focus] Rebuke
+END
+VER 3 0100000000000001 "无敌" "INV_Misc_QuestionMark"
+#showtooltip Divine Shield
+/cancelaura Divine Shield
+/cancelaura Hand of Protection
+/cast Divine Shield
+END
+VER 3 0100000000000017 "无敌无敌" "INV_MISC_QUESTIONMARK"
+#showtooltip 圣盾术
+/cancelaura 圣盾术
+/cast 圣盾术
+END

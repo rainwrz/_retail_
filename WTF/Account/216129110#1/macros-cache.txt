@@ -1,0 +1,556 @@
+VER 3 000000000000007D " " "INV_Misc_QuestionMark"
+/目标 被复活的狂热者
+END
+VER 3 0000000000000027 "1" "135856"
+/stopcasting
+/施放 法术反制
+END
+VER 3 000000000000002A "1" "INV_Misc_QuestionMark"
+#showtooltip 回春术
+/cast [mod,target=player] [target=mouseover,help,nodead][help,nodead][nogroup,target=player] [target=targettarget,help,nodead]回春术
+END
+VER 3 0000000000000029 "1" "237588"
+#sdm
+/2 512AM 508NQ求雷神前2区任意CD速推 有的MMMM
+END
+VER 3 0000000000000028 "1" "236364"
+/施放 死亡标记
+/施放 切割
+END
+VER 3 000000000000000B "1" "INV_Misc_QuestionMark"
+#showtooltip 纯净术
+/cast [target=mouseover,exists]纯净术;纯净术
+END
+VER 3 000000000000000C "1" "INV_Misc_QuestionMark"
+#showtooltip 治疗术
+/cast [target=mouseover,help] 治疗术
+/cast 治疗术
+END
+VER 3 000000000000000D "1" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [target=mouseover,exists]意志洞悉;意志洞悉
+END
+VER 3 000000000000000E "1" "INV_Misc_QuestionMark"
+#showtooltip 
+/stopcasting 
+/cast [target=mouseover,help] 信仰飞跃;信仰飞跃
+END
+VER 3 000000000000000F "1" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [target=mouseover,harm]吸血鬼之触;吸血鬼之触
+END
+VER 3 0000000000000010 "1" "INV_Misc_QuestionMark"
+#showtooltip 真言术：盾
+/cast [target=mouseover,help] 真言术：盾
+/cast 真言术：盾
+END
+VER 3 0000000000000011 "1" "INV_Misc_QuestionMark"
+#showtooltip 消散
+/cancelaura 消散
+/cast 消散
+END
+VER 3 0000000000000012 "1" "INV_Misc_QuestionMark"
+#showtooltip 联结治疗
+/cast [target=mouseover,help] 联结治疗
+/cast 联结治疗
+END
+VER 3 0000000000000013 "1" "INV_Misc_QuestionMark"
+#showtooltip 提神愈心
+/cast [target=mouseover,help]提神愈心;提神愈心
+END
+VER 3 0000000000000014 "1" "INV_Misc_QuestionMark"
+#showtooltip 虚空爆发
+/cast [target=mouseover,harm]虚空爆发;虚空爆发
+END
+VER 3 0000000000000015 "1" "INV_Misc_QuestionMark"
+#showtooltip 精神灼烧
+/cast [target=mouseover,exists]精神灼烧;精神灼烧
+END
+VER 3 0000000000000016 "1" "INV_Misc_QuestionMark"
+#showtooltip 暗影愈合
+/cast [target=mouseover,help] 暗影愈合
+/cast 暗影愈合
+END
+VER 3 0000000000000017 "1" "134400"
+/console cameraDistanceMaxZoomFactor 2.6
+END
+VER 3 0000000000000018 "1" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [target=mouseover,help]治疗祷言;治疗祷言
+END
+VER 3 0000000000000019 "1" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [target=mouseover,help] 圣言术：静;圣言术：静
+END
+VER 3 000000000000001A "1" "INV_Misc_QuestionMark"
+#showtooltip 愈合祷言
+/cast [target=mouseover,help] 愈合祷言
+/cast 愈合祷言
+END
+VER 3 000000000000001B "1" "INV_Misc_QuestionMark"
+#showtooltip 消散
+/stopcasting
+/cancelaura 消散
+/cast 虚空爆发
+/cast 暗言术：灭
+END
+VER 3 000000000000001C "1" "INV_Misc_QuestionMark"
+#showtooltip 恢复
+/cast [target=mouseover,exists]恢复;恢复
+END
+VER 3 000000000000001D "1" "136135"
+/cast [target=mouseover,nomodifier,exists]放逐术;放逐术
+END
+VER 3 000000000000001E "1" "INV_Misc_QuestionMark"
+#showtooltip 圣盾术 
+/cast 圣盾术 
+/S >>>>无敌了<<<< 
+/IN 1 /S —剩余6秒
+/IN 2 /S—剩余5秒
+/IN 3 /S —剩余4秒
+/IN 4 /S —剩余3秒
+/IN 5 /S —剩余2秒
+/IN 6 /S —剩余1秒
+/IN 7 /S  
+END
+VER 3 000000000000001F "1" "136218"
+/cast [target=阿土伯伯,nomodifier] 恶魔掌控
+END
+VER 3 0000000000000020 "1" "136156"
+/cast [target=mouseover,nomodifier,exists]巨斧投掷(特殊技能);巨斧投掷(特殊技能)
+END
+VER 3 0000000000000021 "1" "136012"
+/施放 嗜血
+/施放 浴血奋战
+/use 魔古末裔手甲
+/施放 血性狂怒(种族特长)
+END
+VER 3 0000000000000022 "1" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [harm][target=targettarget,harm] 惩击;惩击
+END
+VER 3 0000000000000023 "1" "INV_Misc_QuestionMark"
+#showtooltip 守护之魂
+/cast [target=mouseover,exists]守护之魂;守护之魂
+END
+VER 3 0000000000000024 "1" "INV_Misc_QuestionMark"
+#showtooltip 暗言术：痛
+/cast [target=mouseover,harm]暗言术：痛;暗言术：痛
+END
+VER 3 0000000000000025 "1" "INV_Misc_QuestionMark"
+#showtooltip 治疗之环
+/cast [target=mouseover,exists]治疗之环;治疗之环
+END
+VER 3 0000000000000026 "1" "INV_Misc_QuestionMark"
+#showtooltip 法术反制
+/stopcasting
+/cast [mod:alt][target=focus,harm][]法术反制;法术反制
+END
+VER 3 0000000000000006 "1" "SPELL_MISC_PETHEAL"
+/鞠躬
+END
+VER 3 000000000000002C "1-13" "1002597"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>60 then SendChatMessage("{邪恶}【优十】HAK 来QMS/ZLS/ZFD 职业SP 战火不+ 效率~团 BOSS面前谨防骗子！","channel",nil,4)T=t end end end F:SetScript("OnUpdate",X)
+END
+VER 3 000000000000002E "11" "135833"
+/CAST 血之烈怒
+/CAST 原始戰鬥者適應徽章
+END
+VER 3 000000000000002D "11" "132874"
+YY 90121828
+END
+VER 3 000000000000002F "111" "132123"
+/stopcasting 
+/click ExtraActionButton1
+END
+VER 3 0000000000000070 "1111" "INV_Misc_QuestionMark"
+/s 我单吃
+END
+VER 3 0000000000000033 "123" "613408"
+/target 
+/目标 targettarget
+/施放 神圣棱镜
+/targetlasttarget
+END
+VER 3 0000000000000034 "123" "136222"
+/script SetCVar("cameradistanceMax",40) 
+END
+VER 3 0000000000000031 "123" "INV_Misc_QuestionMark"
+#showtooltip 元素冲击 
+/cast [@target,harm][@targettarget,harm][@targettargettarget,harm][@targettargettargettarget,harm]元素冲击
+END
+VER 3 0000000000000030 "123" "523893"
+/target 
+/目标 大型幻影虫巢咏者
+/施放 责难
+/targetlasttarget
+END
+VER 3 0000000000000007 "123" "INV_ENCHANT_SHARDGLIMMERINGLARGE"
+/click StaticPopup1Button1
+/click DropDownList2Button2
+END
+VER 3 0000000000000032 "123" "413586"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function() local t=GetTime()  if t-T>20 then SendChatMessage("花儿美H地狱火1-12纯G团,,来实力消费可包团,可躺尸.现已开组, 1点开打,来的M我下午1点1-12HG团.~","channel",ni1,4) T=t end end end F:SetScript("OnUpdate",X)
+END
+VER 3 0000000000000037 "2" "INV_Misc_QuestionMark"
+#showtooltip 惩击
+/startattack
+/cast [harm] [target=targettarget,harm]惩击
+END
+VER 3 0000000000000036 "2" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [mod:alt,target=player][target=mouseover,help,exists][help,exists][target=player]治疗术
+END
+VER 3 0000000000000035 "2" "237446"
+.item 16 22691
+.item 1 22418
+.item 3 22419
+.item 5 22416
+.item 6 22422
+.item 7 22417
+.item 8 22420
+.item 9 22423
+.item 10 22421
+.item 16 118409
+END
+VER 3 0000000000000038 "3" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [mod:alt,target=player][target=mouseover,help,exists][help,exists][target=player]真言术：盾
+END
+VER 3 0000000000000039 "4" "INV_Misc_QuestionMark"
+#showtooltip 烈焰震击 
+/startattack 
+/cast [@mouseover,harm,nodead][harm,nodead] 烈焰震击
+END
+VER 3 000000000000003A "5" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [mod:alt,target=player][target=mouseover,help,exists][help,exists][target=player]意志洞悉
+END
+VER 3 000000000000003B "6" "INV_Misc_QuestionMark"
+#showtooltip 联结治疗
+/cast [mod:alt,target=player][target=mouseover,help,exists][help,exists][target=player]联结治疗
+END
+VER 3 000000000000003C "a1" "134400"
+/click PVPReadyDialogEnterBattleButton
+END
+VER 3 000000000000003D "ADV" "132317"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>30 then SendChatMessage("{邪恶}《优十》史诗1-13G团，来各种套装，高达SP，暴君扎昆 武 器，熏炉，空脚杯，恐惧预言，欢迎问价{rt6},","channel",nil,3)T=t end end end F:SetScript("OnUpdate",X)
+END
+VER 3 000000000000003E "BB" "134400"
+/click QueueStatusMinimapButton
+/click DropDownList1Button2
+END
+VER 3 000000000000003F "BF_Mount" "132226"
+/bfmount
+END
+VER 3 0000000000000040 "BF_Mount" "413591"
+/cleartarget
+/tar 斯比弗雷尔
+/tar 死眼
+/tar 毁灭
+/tar 黑叶
+/tar 先知阿库巴尔
+/tar 吞噬者特雷姆斯
+/tar 德雷斯克恩
+/tar 格朗特
+/tar 扭曲者莫吉尔
+/tar 掠夺者科拉克
+/tar 厄运使者纳里克苏斯
+/tar 赫米特
+/tar 回春蘑菇
+/tar 卡洛斯
+/tar 蓝玉萤火虫
+/tar 托姆
+/stopmacro [noexists]
+/script SetRaidTarget("target",8) 
+/cheer
+END
+VER 3 0000000000000041 "BF_Pet" "236701"
+/BFPET
+END
+VER 3 0000000000000042 "BUY" "132874"
+/click BrowseBuyoutButton
+/click StaticPopup1Button1
+END
+VER 3 0000000000000043 "C1" "INV_Misc_QuestionMark"
+#showtooltip 愈合祷言
+/cast   [mod:alt,target=player][target=mouseover,help,exists][help,exists][target=player]愈合祷言
+END
+VER 3 0000000000000044 "calculator cp" "132090"
+/run function calcq(x) local v=x+0<1500 and 1500 or(x+0>3000 and 3000 or x);print(floor(68836.8-156.93692023*v+0.13944365683*v*v-5.94771172e-5*v*v*v+1.235698623e-8*v*v*v*v-1.00844494413e-12*v*v*v*v*v));end SlashCmdList["CALQ"]=calcq;SLASH_CALQ1="/calcq"
+END
+VER 3 0000000000000046 "Decursive" "134400"
+/stopcasting
+/cast [@mouseover,nomod,exists] 清洁术;  [@mouseover,exists,mod:ctrl] 清洁术; [@mouseover,exists,mod:shift] 清洁术
+END
+VER 3 0000000000000045 "Decursive" "134400"
+/stopcasting
+/cast [@mouseover,nomod,exists] 驱散魔法;  [@mouseover,exists,mod:ctrl] 净化疾病; [@mouseover,exists,mod:shift] 驱散魔法
+END
+VER 3 0000000000000047 "DPS" "INV_Misc_QuestionMark"
+#showtooltip 
+/castsequence [harm][target=targettarget,harm] reset=0 0,0,惩击
+/castsequence [harm][target=targettarget,harm] reset=0 0,神圣之火 
+END
+VER 3 0000000000000048 "dz改" "135426"
+.item 16 32837
+.item 17 32838
+.race 5 
+.gender  
+.hair 1 
+.face 4 
+.haircolor 9 
+.piercings 8
+.skin 3
+.enchant 1 79007
+.enchant 2 79007
+.spell 3409 24112 
+.spell 8680 24112 
+.spell 113780 24112
+END
+VER 3 0000000000000049 "fb" "134400"
+END
+VER 3 000000000000004A "FZ" "132362"
+.item 16 19019
+.item 1 22418
+.item 3 22419
+.item 5 22416
+.item 6 22422
+.item 7 22417
+.item 8 22420
+.item 9 22423
+.item 10 22421
+END
+VER 3 000000000000004B "kuangti 3" "135813"
+/cast [target=arena3]恶魔掌控 
+END
+VER 3 000000000000004C "MAK-ADV" "252267"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>35 then SendChatMessage("(优十)M地狱火1-13新CD，MAK来ZLS ZFD职业饰品，灾难之刃，支持躺尸+++++++++++","channel",nil,5)T=t end end end F:SetScript("OnUpdate",X)
+END
+VER 3 000000000000004D "MALL-ADV" "413580"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>35 then SendChatMessage("(优十)M地狱火1-13新CD，效率碾压，良心红手团队，来ZFD ZLS QMS各系，支持各种散消躺尸，全程斗鱼直播","channel",nil,5)T=t end end end F:SetScript("OnUpdate",X)
+END
+VER 3 0000000000000076 "MJBH" "Ability_Creature_Disease_01"
+/hw MJBH
+END
+VER 3 000000000000004E "MMP-ADV" "135833"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>35 then SendChatMessage("(优十)M地狱火1-13新CD，玛胖来ZLS ZFD衣服，恐惧预言，深渊之牙，诅咒魔古长弓，支持躺尸+++++++++++","channel",nil,5)T=t end end end F:SetScript("OnUpdate",X)
+END
+VER 3 0000000000000075 "MSS" "Ability_Creature_Disease_01"
+/hw MSS
+END
+VER 3 000000000000004F "QAQ" "INV_Misc_QuestionMark"
+#showtooltip
+/use [stance:1]洞察圣印
+/use [stance:2]正义圣印
+END
+VER 3 0000000000000050 "R" "INV_Misc_QuestionMark"
+#showtooltip 治疗祷言
+/cast [mod:alt,target=player][target=mouseover,help,exists][help,exists][target=player]治疗祷言
+END
+VER 3 0000000000000051 "shiping1" "135473"
+/use 原祖角斗士的冥想徽章
+/use 原祖角斗士的统御徽章
+END
+VER 3 0000000000000052 "佑" "237541"
+/cast [form:3]脉轮：静or脉轮：罚;脉轮：佑
+END
+VER 3 0000000000000054 "信仰飞跃" "INV_Misc_QuestionMark"
+#showtooltip 信仰飞跃
+/cast [mod,target=player] [target=mouseover,help,nodead][help,nodead][nogroup,target=player] [target=targettarget,help,nodead]信仰飞跃
+END
+VER 3 0000000000000053 "信仰飞跃" "INV_Misc_QuestionMark"
+#showtooltip 信仰飞跃
+/cast [target=mouseover,help][help][target=targettarget,help]信仰飞跃
+END
+VER 3 0000000000000055 "倒数" "413580"
+/dbm pull 8
+END
+VER 3 0000000000000056 "军刀" "INV_Misc_QuestionMark"
+#showtooltip 军刀猛刺
+/startattack
+/cast 军刀猛刺
+/script UIErrorsFrame:Clear()
+END
+VER 3 0000000000000057 "切换" "134400"
+/cast [stance:1] 正义圣印;[stance:2] 真理圣印
+END
+VER 3 0000000000000058 "剑" "INV_Misc_QuestionMark"
+#showtooltip 虚空爆发
+/cast [mod:shift,target=focus] 虚空爆发;虚空爆发
+END
+VER 3 0000000000000059 "割裂" "INV_Misc_QuestionMark"
+#showtooltip 割裂
+/cast [mod:shift,target=focus] 割裂;割裂
+END
+VER 3 000000000000005A "十字军" "INV_Misc_QuestionMark"
+#showtooltip 十字军打击
+/cast 炽天使
+/cast 十字军打击
+END
+VER 3 000000000000002B "单吃" "134400"
+#showtooltip 寒冰屏障 
+/stopcasting 
+/cancelAura 寒冰屏障
+/cast 闪光术 
+/cast 寒冰屏障
+END
+VER 3 000000000000007C "单吃" "135833"
+#showtooltip 寒冰屏障 
+/stopcasting 
+/cancelAura 寒冰屏障
+/cast 闪光术 
+/cast 寒冰屏障
+END
+VER 3 000000000000007B "告白气球" "INV_MISC_QUESTIONMARK"
+/in 1 /y 亲爱的 爱上你 从那天起
+/in 3 /y 甜蜜的很轻易
+/in 5 /y 亲爱的 别任性 你的眼睛
+/in 7 /y 在说我愿意
+END
+VER 3 000000000000005B "圣光" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@target,harm,exists,nochanneling]圣光之怒(神器);[@targettarget,harm,exists,nochanneling]圣光之怒(神器); 圣光之怒(神器)
+END
+VER 3 000000000000005C "圣言术：罚" "INV_Misc_QuestionMark"
+#showtooltip 圣言术：罚
+/cast [target=mouseover,exists]圣言术：罚;圣言术：罚
+END
+VER 3 000000000000005D "坐骑" "132226"
+/RandomMount
+END
+VER 3 000000000000005E "大驱" "INV_Misc_QuestionMark"
+#showtooltip 群体驱散
+/cast [@cursor] 群体驱散
+/stopspelltarget
+END
+VER 3 0000000000000079 "天蓝水黾" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast 天蓝水黾
+/y 皮皮虾！我们走！
+END
+VER 3 000000000000005F "套套" "INV_Misc_QuestionMark"
+#showtooltip 真言术：盾
+/cast [target=player,mod:alt][target=target,exists][target=mouseover,help,exists] 真言术：盾;真言术：盾
+END
+VER 3 0000000000000078 "奥的灰烬" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast 奥的灰烬
+/y 出来吧！只有智慧与美貌并存气质与高雅兼备英雄与侠义的化身一个炎爆三百万呼你脸上一个燃烬风暴秒天秒地的法神大人我才配召唤的绚丽夺目超级无敌旋转香蕉皮奥的灰烬！！！
+END
+VER 3 0000000000000060 "恳求" "INV_Misc_QuestionMark"
+#showtooltip 恳求   
+/cast [target=player,mod:alt][target=target,exists][target=mouseover,help,exists] 恳求;恳求
+END
+VER 3 0000000000000061 "惩击" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@target,harm,exists,nochanneling]惩击;[@targettarget,harm,exists,nochanneling]惩击; 惩击
+END
+VER 3 0000000000000062 "愤怒" "INV_Misc_QuestionMark"
+#showtooltip 宿敌
+/cast 宿敌
+/cast 消失
+END
+VER 3 0000000000000063 "手枪" "INV_Misc_QuestionMark"
+#showtooltip 手枪射击
+/startattack
+/cast 手枪射击
+/script UIErrorsFrame:Clear()
+END
+VER 3 0000000000000008 "收人" "INV_ENCHANT_SHARDGLIMMERINGLARGE"
+/4 《New World》公会raid团收人，进军m招收850+各职业玩家，重点招收远程混合职业和输出战士，活动时间为每周456。资深RL带队，是有基佬有萌妹的和谐团体！天空的颜色由你决定~
+END
+VER 3 0000000000000009 "时间扭曲" "ABILITY_MAGE_TIMEWARP"
+/cast 时间扭曲
+/y 梧桐的头 像皮球 一脚踢到百货大楼
+END
+VER 3 0000000000000064 "暗影魔" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@target,harm,exists,nochanneling]暗影魔;[@targettarget,harm,exists,nochanneling]暗影魔; 暗影魔
+END
+VER 3 0000000000000065 "查询" "237446"
+/run local _,_,_,a, b = GetAchievementCriteriaInfo(11152,1) local _,_,_,c, d = GetAchievementCriteriaInfo(11153,1) local _,_,_,e, f = GetAchievementCriteriaInfo(11154,1) print("Dungeons: "..a.."/"..b) print("WQs: "..c.."/"..d) print("Kills: "..e.."/"..f)
+END
+VER 3 0000000000000066 "正义" "INV_Misc_QuestionMark"
+#showtooltip 正义之锤
+/cast 炽天使
+/cast 正义之锤
+END
+VER 3 0000000000000067 "治疗审判" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [harm]审判
+/cast [target=targettarget]审判
+END
+VER 3 0000000000000068 "焦点" "132317"
+/cleartarget [target=target, dead]
+/clearfocus [target   =focus, dead]
+/target focus
+/cleartarget [target=focus, noexists]
+/targetlasttarget
+/focus target
+/targetlasttarget
+END
+VER 3 000000000000000A "爆发" "SPELL_ARCANE_MANATAP"
+#showtooltip 燃烧
+/use 13
+/use 14
+/castsequence reset=15 能量符文,燃烧,灼烧,炎爆术,火焰冲击,炎爆术,火焰冲击,炎爆术,烈焰飞舞,火焰冲击,炎爆术,火焰冲击,炎爆术,灼烧
+END
+VER 3 0000000000000069 "爆发" "INV_Misc_QuestionMark"
+/cast 时间扭曲
+/y 梧桐的头 橡皮球
+END
+VER 3 000000000000006A "狂" "INV_Misc_QuestionMark"
+#showtooltip
+/cast 复仇之怒
+/use 13
+/use 14
+END
+VER 3 000000000000006C "痛" "INV_Misc_QuestionMark"
+#showtooltip 暗言术：痛
+/cast [mod:shift,target=focus] 暗言术：痛;暗言术：痛
+END
+VER 3 000000000000006B "痛" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@target,harm,exists,nochanneling]暗言术：痛;[@targettarget,harm,exists,nochanneling]暗言术：痛; 暗言术：痛
+END
+VER 3 0000000000000077 "绵羊" "874578"
+/目标 风暴峡湾超级自爆绵羊
+END
+VER 3 000000000000006E "罩子" "INV_Misc_QuestionMark"
+END
+VER 3 0000000000000071 "羽毛" "642580"
+/cast [@player] 天堂之羽
+/stopspelltarget 
+END
+VER 3 000000000000006F "苦修" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@target,harm,exists,nochanneling]苦修;[@targettarget,harm,exists,nochanneling]苦修; 苦修
+END
+VER 3 0000000000000072 "触" "INV_Misc_QuestionMark"
+/stopcasting
+/target 锋颚波浪医师
+/cast 法术反制
+/targetlasttarget
+END
+VER 3 000000000000006D "赞美诗" "237540"
+/cast 神圣赞美诗
+/in 1 /y 五星红旗迎风飘扬
+/in 2 /y 胜利歌声多么响亮
+/in 3 /y 歌唱我们亲爱的祖国
+/in 4 /y 从今走向繁荣富强
+/in 5 /y 歌唱我们亲爱的祖国
+/in 6 /y 从今走向繁荣富强
+END
+VER 3 0000000000000073 "风暴" "236250"
+#
+END
+VER 3 0000000000000074 "驱散" "INV_Misc_QuestionMark"
+/cast 神圣赞美诗
+/y 五星红旗迎风飘扬
+/y 胜利歌声多么响亮
+/y 歌唱我们亲爱的祖国
+/y 从今走向繁荣富强
+/y 歌唱我们亲爱的祖国
+/y 从今走向繁荣富强
+END

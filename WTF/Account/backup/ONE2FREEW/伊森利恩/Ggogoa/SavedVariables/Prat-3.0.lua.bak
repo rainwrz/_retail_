@@ -1,0 +1,8 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			"/s /JOIN 大脚世界频道", -- [1]
+		},
+	},
+}

@@ -1,0 +1,4 @@
+MACRO 16777217 "attack" INV_Misc_QuestionMark
+/CAST Victory Rush
+/cast Heroic Strike
+END

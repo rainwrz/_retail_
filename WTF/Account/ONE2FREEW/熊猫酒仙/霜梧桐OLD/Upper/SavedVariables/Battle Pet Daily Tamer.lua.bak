@@ -1,0 +1,5 @@
+
+BattlePetDailyTamerSettings = {
+	["TrackNonSatchels"] = 1,
+	["TrackFables"] = 1,
+}

@@ -1,0 +1,45 @@
+tag ed78aa4cdafd5c9a9dc468adfba0a7aa151ee169 8.0.10
+Author:	Benjamin Staneck <staneck@gmail.com>
+Date:	Fri Feb 1 21:43:14 2019 +0100
+
+commit eb902c5c85f6dec94c65c584f0a57b5f937a7f84
+Author: LiangYuxuan <lyx@lyx.es>
+Date:   Sat Feb 2 03:01:14 2019 +0800
+
+    Add Weekly World PvP Quest
+    closes #221
+
+commit 11365149d28a16c1a08956c5cbcd4094702eb716
+Author: LiangYuxuan <lyx@lyx.es>
+Date:   Sat Feb 2 03:00:42 2019 +0800
+
+    Fix LFR parentID
+    fixes #225
+
+commit 3880be30e7fd14e17f75a2355db3f9dc0501cbee
+Author: LiangYuxuan <lyx@lyx.es>
+Date:   Mon Jan 21 11:32:08 2019 +0800
+
+    Fix nil rendering Emissaries
+    fixes #218
+
+commit 6aef1cab4881086987278a9b81f22c6b8378fccb
+Author: LiangYuxuan <lyx@lyx.es>
+Date:   Tue Jan 15 10:40:38 2019 +0800
+
+    Revert "Fix Emissary Reset"
+    
+    This reverts commit 0a1e3baf07f4e31a561386699654c96c2efca60f.
+
+commit 0a1e3baf07f4e31a561386699654c96c2efca60f
+Author: LiangYuxuan <lyx@lyx.es>
+Date:   Mon Jan 14 16:10:13 2019 +0800
+
+    Fix Emissary Reset
+
+commit de01c37cb0ad3db9be7b015a68196c7a1552ce7b
+Author: LiangYuxuan <lyx@lyx.es>
+Date:   Mon Jan 14 13:57:13 2019 +0800
+
+    Fix Debug Mode
+

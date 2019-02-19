@@ -1,0 +1,357 @@
+
+BeanCounterDB = {
+	["熊猫酒仙"] = {
+		["筱萱儿"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+				["151583"] = {
+					["item:151583::::::::100:::::::"] = {
+						"1;;;;12988795;12988795;不是法師;1506844926;;A", -- [1]
+					},
+				},
+			},
+		},
+		["悠悠雪儿"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+		},
+	},
+}
+BeanCounterDBSettings = {
+	["熊猫酒仙"] = {
+		["筱萱儿"] = {
+			["tasks.sortArray"] = 1507455520,
+			["version"] = 3.04,
+			["faction"] = "Alliance",
+			["tasks.compactDB"] = 1507455520,
+			["wealth"] = 560979549,
+			["tasks.prunePostedDB"] = 1507455520,
+			["mailbox"] = {
+				{
+					["read"] = 2,
+					["sender"] = "邮政长",
+					["time"] = 29.9903583526611,
+					["subject"] = "失而复得",
+				}, -- [1]
+				{
+					["read"] = 2,
+					["sender"] = "邮政长",
+					["time"] = 29.8448028564453,
+					["subject"] = "失而复得",
+				}, -- [2]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 29.8448028564453,
+					["subject"] = "失而复得",
+				}, -- [3]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 29.7963428497314,
+					["subject"] = "失而复得",
+				}, -- [4]
+				{
+					["read"] = 2,
+					["sender"] = "邮政长",
+					["time"] = 29.7082633972168,
+					["subject"] = "失而复得",
+				}, -- [5]
+				{
+					["read"] = 2,
+					["sender"] = "邮政长",
+					["time"] = 29.4570941925049,
+					["subject"] = "失而复得",
+				}, -- [6]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 29.4570941925049,
+					["subject"] = "失而复得",
+				}, -- [7]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 29.4569911956787,
+					["subject"] = "失而复得",
+				}, -- [8]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 29.4569911956787,
+					["subject"] = "失而复得",
+				}, -- [9]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 29.4569206237793,
+					["subject"] = "失而复得",
+				}, -- [10]
+				{
+					["read"] = 0,
+					["sender"] = "筱萱萱",
+					["time"] = 30.3556251525879,
+					["subject"] = "纯洁的布质长裤",
+				}, -- [11]
+				{
+					["read"] = 0,
+					["sender"] = "筱萱萱",
+					["time"] = 30.3556251525879,
+					["subject"] = "纯洁的指环",
+				}, -- [12]
+				{
+					["read"] = 0,
+					["sender"] = "悠悠雪儿",
+					["time"] = 30.3551273345947,
+					["subject"] = "德拉诺之尘 (95)",
+				}, -- [13]
+				{
+					["read"] = 0,
+					["sender"] = "筱萱萱",
+					["time"] = 30.3551273345947,
+					["subject"] = "纯洁的布质手套",
+				}, -- [14]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 28.6738777160645,
+					["subject"] = "失而复得",
+				}, -- [15]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 28.6738777160645,
+					["subject"] = "失而复得",
+				}, -- [16]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 28.6738433837891,
+					["subject"] = "失而复得",
+				}, -- [17]
+				{
+					["read"] = 0,
+					["sender"] = "悠悠雪儿",
+					["time"] = 27.5588188171387,
+					["subject"] = "古代法力药水 (20)",
+				}, -- [18]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 26.5429058074951,
+					["subject"] = "失而复得",
+				}, -- [19]
+				{
+					["read"] = 0,
+					["sender"] = "魔术师瓦西里恩",
+					["time"] = 26.5318279266357,
+					["subject"] = "Lost Currency",
+				}, -- [20]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 26.5318279266357,
+					["subject"] = "失而复得",
+				}, -- [21]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 26.5270824432373,
+					["subject"] = "失而复得",
+				}, -- [22]
+				{
+					["read"] = 0,
+					["sender"] = "魔术师瓦西里恩",
+					["time"] = 26.5270824432373,
+					["subject"] = "Lost Currency",
+				}, -- [23]
+				{
+					["read"] = 0,
+					["sender"] = "咋啦啦",
+					["time"] = 27.354154586792,
+					["subject"] = "附魔项链 - 急速之赐",
+				}, -- [24]
+				{
+					["read"] = 2,
+					["sender"] = "咋啦啦",
+					["time"] = 27.354154586792,
+					["subject"] = "纯洁的板甲护胫",
+				}, -- [25]
+				{
+					["read"] = 2,
+					["sender"] = "悠悠雪儿",
+					["time"] = 26.671932220459,
+					["subject"] = "时光水晶 (83)",
+				}, -- [26]
+				{
+					["read"] = 1,
+					["sender"] = "拍卖行",
+					["time"] = 24.7268409729004,
+					["subject"] = "竞拍获胜：迅捷圣光榍石",
+				}, -- [27]
+				{
+					["read"] = 1,
+					["sender"] = "咋啦啦",
+					["time"] = 25.3552894592285,
+					["subject"] = "毒丝长袍",
+				}, -- [28]
+				{
+					["read"] = 1,
+					["sender"] = "咋啦啦",
+					["time"] = 25.3552894592285,
+					["subject"] = "智力之胜利者臂甲",
+				}, -- [29]
+				{
+					["read"] = 1,
+					["sender"] = "悠悠雪儿",
+					["time"] = 22.0703125,
+					["subject"] = "阿卡纳精华 (40)",
+				}, -- [30]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 19.9970951080322,
+					["subject"] = "失而复得",
+				}, -- [31]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 19.0191211700439,
+					["subject"] = "失而复得",
+				}, -- [32]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 19.012279510498,
+					["subject"] = "失而复得",
+				}, -- [33]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 19.0003242492676,
+					["subject"] = "失而复得",
+				}, -- [34]
+				{
+					["read"] = 1,
+					["sender"] = "邮政长",
+					["time"] = 18.9926509857178,
+					["subject"] = "失而复得",
+				}, -- [35]
+				{
+					["read"] = 0,
+					["sender"] = "邮政长",
+					["time"] = 18.9838542938232,
+					["subject"] = "失而复得",
+				}, -- [36]
+				{
+					["read"] = 1,
+					["sender"] = "拍卖行",
+					["time"] = 18.5449657440186,
+					["subject"] = "拍卖已到期：动燃空气 (9)",
+				}, -- [37]
+				{
+					["read"] = 1,
+					["sender"] = "拍卖行",
+					["time"] = 18.5423030853272,
+					["subject"] = "拍卖已到期：附魔披风 - 全能之赐",
+				}, -- [38]
+				{
+					["read"] = 1,
+					["sender"] = "拍卖行",
+					["time"] = 18.5417251586914,
+					["subject"] = "拍卖已到期：附魔项链 - 全能之赐",
+				}, -- [39]
+				{
+					["read"] = 0,
+					["sender"] = "悠悠雪儿",
+					["time"] = 17.8770484924316,
+					["subject"] = "野外急救包 (10)",
+				}, -- [40]
+				{
+					["read"] = 1,
+					["sender"] = "悠悠雪儿",
+					["time"] = 17.6891212463379,
+					["subject"] = "艾萨莉色拉 (20)",
+				}, -- [41]
+				{
+					["read"] = 0,
+					["sender"] = "悠悠雪儿",
+					["time"] = 17.0965976715088,
+					["subject"] = "纯洁的布质长袍",
+				}, -- [42]
+				{
+					["read"] = 1,
+					["sender"] = "筱萱萱",
+					["time"] = 16.8955097198486,
+					["subject"] = "耳语契约合剂 (20)",
+				}, -- [43]
+				{
+					["read"] = 1,
+					["sender"] = "悠悠雪儿",
+					["time"] = 0.114780090749264,
+					["subject"] = "古代法力药水 (20)",
+				}, -- [44]
+			},
+		},
+		["悠悠雪儿"] = {
+			["tasks.sortArray"] = 1507450341,
+			["version"] = 3.04,
+			["faction"] = "Alliance",
+			["tasks.compactDB"] = 1507450341,
+			["wealth"] = 511065069,
+			["tasks.prunePostedDB"] = 1507450341,
+			["mailbox"] = {
+			},
+		},
+	},
+	["configator.top"] = 815.769226074219,
+	["configator.left"] = 650.256408691406,
+	["util.beancounter.ButtonuseDateCheck"] = false,
+}
+BeanCounterDBNames = {
+}
+BeanCounterAccountDB = nil
+BeanCounterMailPatch = nil

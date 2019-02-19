@@ -1,0 +1,58 @@
+MACRO 16777220 "2" Ability_Creature_Cursed_04
+/施放 [mod]准备就绪;!自动射击
+/castsequence reset=6/alt 奥术射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击,自动射击
+/施放 稳固射击
+/脚本 UIErrorsFrame:Clear()
+END
+MACRO 16777236 "kill shot" INV_Misc_QuestionMark
+#showtooltips kill shot
+/cast [target=mouseover,harm,exists][]kill shot
+END
+MACRO 16777235 "shot" INV_Misc_QuestionMark
+#showtooltip Chimera Shot
+/cast Chimera Shot
+/cast Silencing Shot
+END
+MACRO 16777237 "凝神" INV_Misc_QuestionMark
+#showtooltips Tranquilizing Shot
+/cast [target=mouseover,harm,exists][]Tranquilizing Shot
+END
+MACRO 16777234 "守护" INV_Misc_QuestionMark
+/castsequence Aspect of the Dragonhawk(Rank 2)
+END
+MACRO 16777231 "挡" INV_Misc_QuestionMark
+#showtooltip 威慑
+/CAST 牺牲咆哮
+/cast 威慑
+END
+MACRO 16777229 "沉默" INV_Misc_QuestionMark
+#showtooltip 沉默射击
+/cast [modifier:alt] 蝰蛇钉刺
+/cast 沉默射击
+END
+MACRO 16777232 "火力" INV_Misc_QuestionMark
+#showtooltip Rapid Fire
+/cast 狂野怒火
+/cast Rapid Fire
+/cast 疯乱
+/cast Call of the Wild
+/cast Furious Howl(Rank 6)
+/use Mark of Supremacy
+/use 10
+END
+MACRO 16777230 "砍" INV_Misc_QuestionMark
+/castsequence reset=5 Raptor Strike(Rank 11),Mongoose Bite(Rank 6),Wing Clip
+/cast Wing Clip
+/cast Auto Shot
+/script UIErrorsFrame:Clear() 
+END
+MACRO 16777233 "稳固" INV_Misc_QuestionMark
+#showtooltip Steady Shot
+/CAST Kill Command
+/CAST Steady Shot
+END
+MACRO 16777228 "钉刺" INV_Misc_QuestionMark
+#showtooltip 毒蛇钉刺
+/cast [modifier:shift] 毒蝎钉刺
+/cast 毒蛇钉刺
+END

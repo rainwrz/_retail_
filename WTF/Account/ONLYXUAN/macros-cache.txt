@@ -1,0 +1,255 @@
+VER 3 0000000000000038 "1" "413588"
+/run local a=C_LootJournal.GetFilteredLegendaries();local
+b=select(2,GetItemInfo(a[random(#a)]));local c=ChatTypeInfo["LOOT"];LegendaryItemAlertSystem:AddAlert(b);DEFAULT_CHAT_FRA
+ME:
+AddMessage(format(LOOT_ITEM_PUSHED_SELF,b),c.r,c.g,c.b)
+END
+VER 3 0000000000000026 "2DOT" "Spell_Shaman_GiftEarthmother"
+#showtooltip
+/castsequence reset=alt/5.1 痛楚,腐蚀术
+END
+VER 3 0000000000000027 "BF_Mount" "ability_mount_charger"
+/bfmount
+END
+VER 3 0000000000000009 "BF_Pet" "achievement_worldevent_brewmaster"
+/BFPET
+END
+VER 3 0000000000000028 "Decursive" "INV_Misc_QuestionMark"
+/stopcasting
+/cast [@mouseover,nomod,exists] 恐惧;  [@mouseover,exists,mod:ctrl] 恐惧; [@mouseover,exists,mod:shift] 恐惧
+END
+VER 3 0000000000000036 "PY宏" "Ability_Mage_FireStarter."
+/gmlm show
+END
+VER 3 000000000000000C "三指（鼠标指向宏）" "Ability_Mage_MissileBarrage."
+#showtooltip 
+/cast [nomod,@mouseover][nomod][mod:alt, target=focus] 痛楚,腐蚀术,生命虹吸
+END
+VER 3 000000000000002A "三爆宏" "458412"
+#showtooltip 德拉诺智力药水
+/use 德拉诺智力药水
+/petattack
+/cast 黑暗再生
+/use 治疗石
+/cancelAura 爆燃冲刺
+/cast 魔典：恶魔牺牲
+/cast鬼影缠身
+/cast 暗影箭
+END
+VER 3 0000000000000025 "仆从" "ABILITY_HUNTER_SEPARATIONANXIETY"
+/CAST  魔典：末日守卫(召唤)
+END
+VER 3 0000000000000011 "传球宏" "Ability_Rogue_QuickRecovery"
+/click ExtraActionButton1
+/Y 我传给【%T】了！
+END
+VER 3 0000000000000035 "加" "SPELL_HOLY_PERSECUTION"
+/目标 悠悠雪儿
+/施放 提神愈心
+END
+VER 3 000000000000003D "加速" "Spell_Shadow_Rune."
+/目标 加速元素
+END
+VER 3 000000000000002B "变身" "Spell_Shadow_DemonForm"
+/cast 恶魔变形
+/cast 献祭光
+END
+VER 3 0000000000000037 "回廊" "136135"
+/cast [@player,pet:艾瑞达混沌使者] 军团烙印
+END
+VER 3 000000000000002C "坐骑" "Ability_Mount_Charger"
+/RandomMount
+END
+VER 3 000000000000003B "大姐" "Spell_Shadow_MindTwisting."
+/目标 艾利桑德
+END
+VER 3 0000000000000039 "彼风" "1623454"
+#showtooltip
+/use 15
+END
+VER 3 0000000000000029 "恶箭" "538571"
+#showtooltip
+/petattack
+/castsequence reset=20/combat 古尔丹之手,腐蚀术,召唤恐惧卫士,黑暗灵魂：学识,暗影箭,古尔丹之手,暗影箭,暗影箭,暗影箭,恶魔变形,黑暗灵魂：学识,恶魔之箭,恶魔之箭,末日降临,暗影箭
+END
+VER 3 0000000000000010 "打断" "SPELL_FROST_ARCTICWINDS"
+/目标 邪能炸药
+/腐蚀术
+END
+VER 3 000000000000000B "打断宏" "Spell_Shaman_ThunderStorm"
+/stopcasting
+END
+VER 3 0000000000000023 "技能触发" "INV_Inscription_MinorGlyph20"
+/EAM OPT
+END
+VER 3 000000000000002D "披风附魔" "Ability_Hunter_FerociousInspiration."
+/use 15
+END
+VER 3 0000000000000033 "指向" "INV_MISC_QUESTIONMARK"
+#showtooltip 痛楚
+/cast [nomod,@mouseover][nomod][mod:alt, target=focus] 痛楚
+END
+VER 3 0000000000000041 "机甲" "1386550"
+/click QueueStatusMinimapButton
+/Click DropDownList1Button2
+END
+VER 3 0000000000000042 "机甲宏" "369278"
+/click QueueStatusMinimapButton
+/Click DropDownList1Button2
+END
+VER 3 000000000000002E "浩1" "ABILITY_WARLOCK_BANEOFHAVOC"
+#showtooltip浩劫
+/focus [@mouseover,harm,nodead]
+/cast [target=focus,harm]浩劫
+END
+VER 3 000000000000001C "浩劫" "ABILITY_WARLOCK_BANEOFHAVOC"
+/cast [mod]浩劫
+/tar player
+/targetlasttarget
+/targetenemy
+/targetlasttarget
+/targetlasttarget [harm]
+/cast [mod];[harm,@mouseover][harm,@focus][]浩劫
+/targetlasttarget [harm]
+/cleartarget [harm]
+/targetlasttarget
+END
+VER 3 0000000000000015 "混乱" "ABILITY_WARLOCK_CHAOSBOLT"
+/use 10
+/施放 混乱之箭
+END
+VER 3 0000000000000012 "灵魂燃烧" "INV_CHEST_CLOTH_24"
+#showtooltip 灵魂燃烧
+/cast 恶魔之魂
+/cast 灵魂燃烧
+/cast 召唤地狱猎犬
+END
+VER 3 000000000000000A "烧尽" "SPELL_FIRE_BURNOUT"
+/cast 烧尽
+/cast 古尔丹之手
+END
+VER 3 0000000000000008 "焦3" "SPELL_SHADOW_SOULGEM"
+#showtooltip
+/castsequence [target=focus] reset=alt/5.1 痛楚,腐蚀术
+END
+VER 3 0000000000000024 "爆发" "Ability_Hunter_Pathfinding"
+/cast 恶魔变形
+/use 科普兰的清醒
+/use 虚无碎片
+/cast 黑暗灵魂：学识
+/cast 恶魔之箭
+END
+VER 3 000000000000001B "献祭" "INV_MISC_QUESTIONMARK"
+#showtooltip 献祭
+/cast [target=focus,exists,modifier:alt] 献祭
+/cast [nomod] 献祭
+END
+VER 3 0000000000000016 "痛楚" "SPELL_SHADOW_CURSEOFSARGERAS"
+#showtooltip 痛楚
+/cast [target=focus,exists,modifier:alt] 痛楚
+/cast [nomod] 痛楚
+END
+VER 3 0000000000000018 "痛苦无常" "INV_MISC_QUESTIONMARK"
+#showtooltip 痛苦无常
+/cast [target=focus,exists,modifier:alt] 痛苦无常
+/cast [nomod] 痛苦无常
+END
+VER 3 0000000000000014 "目标" "ACHIEVEMENT_GUILDPERK_QUICK AND DEAD"
+/目标 嗡鸣水晶
+/cast 邪焰
+/targetlasttarget
+END
+VER 3 0000000000000007 "目标" "INV_Jewelcrafting_MithrilFiligree"
+/CAST 灵魂燃烧
+/CAST 灵魂交换
+END
+VER 3 000000000000000D "碎地" "SPELL_FROST_ARCTICWINDS"
+/目标 碎地
+END
+VER 3 0000000000000019 "绑" "INV_KNIFE_1H_THUNDERISLERAID_D_02"
+/castsequence reset=1 痛楚,腐蚀术,痛苦无常
+END
+VER 3 0000000000000020 "老2" "ABILITY_SHOOTWAND"
+/stopcasting
+/目标 恐角之魂
+/cast 邪焰
+END
+VER 3 000000000000001D "老3" "ABILITY_WARLOCK_WHIPLASH"
+/stopcasting
+/target mouseover
+/click ExtraActionButton1
+/targerlasttarget
+END
+VER 3 0000000000000022 "腐蚀" "INV_MISC_QUESTIONMARK"
+#showtooltip 腐蚀术
+/cast [target=focus,exists,modifier:alt] 腐蚀术
+/cast [nomod] 腐蚀术
+END
+VER 3 000000000000002F "腐蚀术" "INV_MISC_QUESTIONMARK"
+#showtooltip 腐蚀术
+/cast [modifier:alt,target=focus,harm,exists]腐蚀术
+/cast [target=mouseover,harm,exists]腐蚀术
+/cast 腐蚀术
+END
+VER 3 000000000000003A "腰" "1512747"
+#showtooltip
+/use 6
+END
+VER 3 000000000000003E "赞美" "237540"
+/use 缺指指环
+/cast 神圣赞美诗
+END
+VER 3 0000000000000030 "起1" "Spell_ChargePositive"
+#showtooltip
+/petattack
+/castsequence reset=20/combat 黑暗灵魂：学识,古尔丹之手,腐蚀术,魔典：末日守卫,古尔丹之手,暗影箭,恶魔变形,末日降临(恶魔变形),灵魂之火
+END
+VER 3 0000000000000031 "起手" "Ability_Creature_Cursed_04"
+#showtooltip
+/petattack
+/castsequence reset=20/combat 古尔丹之手,腐蚀术,召唤恐惧卫士,古尔丹之手,恶魔变形,黑暗灵魂：学识,恶魔之箭,恶魔之箭
+END
+VER 3 000000000000003F "超远" "136155"
+/console cameraDistanceMaxZoomFactor 2.6
+END
+VER 3 0000000000000032 "跟随" "Ability_Druid_TravelForm."
+/跟随 觀之流星
+END
+VER 3 000000000000003C "递归" "Spell_Shadow_Brainwash."
+/目标 递归元素
+END
+VER 3 0000000000000013 "锚" "SPELL_HOLY_CHAMPIONSBOND"
+/run if not TuInd then UIParent:CreateTexture("TuInd");TuInd:SetSize(24,24);TuInd:SetPoint("CENTER",0, -15);TuInd:SetTexture(ICON_LIST[6]:sub(3,-2)) ;TuInd:Hide()end; if TuInd:IsShown() then TuInd:Hide() else TuInd:Show() end
+END
+VER 3 0000000000000034 "随机" "INV_MISC_QUESTIONMARK"
+#showtooltip痛楚
+/targetenemy
+/cast 痛楚
+END
+VER 3 0000000000000021 "非永久腐蚀焦点宏" "ACHIEVEMENT_GUILDPERK_QUICK AND DEAD"
+#showtooltip灵魂雕像
+/clearfocus
+/cast 灵魂雕像
+/target 灵魂雕像
+/focus
+/targetlasttarget
+END
+VER 3 0000000000000040 "饰+赞" "237540"
+/use 维伦的未来预言
+/cast 神圣赞美诗
+END
+VER 3 000000000000001E "鬼影" "INV_MISC_QUESTIONMARK"
+#showtooltip 鬼影缠身
+/cast [target=focus,exists,modifier:alt] 鬼影缠身
+/cast [nomod] 鬼影缠身
+END
+VER 3 000000000000001F "黑暗" "SPELL_WARLOCK_DEMONSOUL"
+#showtooltip 黑暗灵魂：学识
+/use 10
+/cast 黑暗灵魂：学识
+END
+VER 3 000000000000001A "黑暗" "INV_MISC_QUESTIONMARK"
+#showtooltip 浩劫
+/cast [target=focus,exists,modifier:alt] 浩劫
+/cast [nomod] 浩劫
+END

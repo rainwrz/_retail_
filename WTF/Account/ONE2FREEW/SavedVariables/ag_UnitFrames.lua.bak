@@ -1,0 +1,118 @@
+
+aUF2DB = {
+	["namespaces"] = {
+		["ag_UnitFrames_Powerbar"] = {
+		},
+		["ABFlayout"] = {
+		},
+		["ag_UnitFrames_Highlight"] = {
+		},
+		["ag_UnitFrames_Masterlootericon"] = {
+		},
+		["ag_UnitFrames_Pvpicon"] = {
+		},
+		["ag_UnitFrames_Auras"] = {
+			["profiles"] = {
+				["Default"] = {
+					["units"] = {
+						["partytarget"] = {
+						},
+						["targettarget"] = {
+						},
+						["player"] = {
+						},
+						["party"] = {
+						},
+					},
+				},
+			},
+		},
+		["ag_UnitFrames_Statusicon"] = {
+		},
+		["ag_UnitFrames_Aggroborder"] = {
+		},
+		["ag_UnitFrames_Castbar"] = {
+		},
+		["ag_UnitFrames_HolyShardBar"] = {
+		},
+		["ag_UnitFrames_IncomingHeals_cata"] = {
+			["profiles"] = {
+				["Default"] = {
+					["units"] = {
+						["mainassisttarget"] = {
+						},
+						["partytarget"] = {
+						},
+						["mainassisttargettarget"] = {
+						},
+						["maintanktarget"] = {
+						},
+					},
+				},
+			},
+		},
+		["ag_UnitFrames_Leadericon"] = {
+		},
+		["ag_UnitFrames_Healthbar"] = {
+		},
+		["ag_UnitFrames_Combattext"] = {
+		},
+		["ag_UnitFrames_Portrait"] = {
+		},
+		["ag_UnitFrames_Rangecheck"] = {
+		},
+		["ag_UnitFrames_Xprepbar"] = {
+		},
+		["ag_UnitFrames_Fivesecond"] = {
+		},
+		["ag_UnitFrames_Hideblizz"] = {
+		},
+		["ag_UnitFrames_Raidtargeticon"] = {
+		},
+		["ag_UnitFrames_LFGicon"] = {
+		},
+	},
+	["profileKeys"] = {
+		["霜梧桐 - 伊森利恩"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["units"] = {
+				["targettargettarget"] = {
+				},
+				["partytarget"] = {
+				},
+				["raidpet"] = {
+				},
+				["focus"] = {
+					["enabled"] = true,
+				},
+				["pettarget"] = {
+				},
+				["partypet"] = {
+				},
+				["player"] = {
+				},
+				["pet"] = {
+				},
+				["targettarget"] = {
+				},
+			},
+			["subgroups"] = {
+				["group8"] = {
+				},
+				["group2"] = {
+				},
+				["group4"] = {
+				},
+				["group7"] = {
+				},
+				["group1"] = {
+				},
+			},
+			["modulesDisabled"] = {
+				["ag_UnitFrames_Portrait"] = true,
+			},
+		},
+	},
+}

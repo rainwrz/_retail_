@@ -1,0 +1,290 @@
+
+GridDB = {
+	["namespaces"] = {
+		["GridFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["healingBar_useStatusColor"] = true,
+					["statusmap"] = {
+						["iconTLcornerright"] = {
+						},
+						["iconBLcornerleft"] = {
+						},
+						["iconTRcornerright"] = {
+						},
+						["icon"] = {
+							["alert_RaidDebuff"] = true,
+						},
+						["iconTRcornerleft"] = {
+						},
+						["iconBRcornerright"] = {
+						},
+						["iconBRcornerleft"] = {
+						},
+						["iconBLcornerright"] = {
+						},
+						["iconTLcornerleft"] = {
+						},
+					},
+					["fontOutline"] = "OUTLINE",
+					["iconSize"] = 15,
+					["fontShadow"] = false,
+					["frameHeight"] = 38,
+					["invertBarColor"] = true,
+					["font"] = "Arial Narrow",
+					["fontSize"] = 8,
+					["frameWidth"] = 48,
+				},
+			},
+		},
+		["GridStatusVehicle"] = {
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["GridStatusResurrect"] = {
+		},
+		["GridStatusAbsorbs"] = {
+		},
+		["GridStatusTarget"] = {
+		},
+		["GridStatusBaneDbmCount"] = {
+		},
+		["GridStatusRaidDebuff"] = {
+			["profiles"] = {
+				["Default"] = {
+					["isFirst"] = false,
+					["detected_debuff"] = {
+						["Siege of Orgrimmar"] = {
+							["Blood of Y'Shaarj"] = 147554,
+							["Stormlash Totem"] = 120676,
+							["Jade Spirit"] = 104993,
+							["Bloodied"] = 143452,
+							["Fiery Seduction"] = 47057,
+							["Yellow Drum"] = 143614,
+							["Brutal Hemorrhage"] = 148375,
+							["Obliterating Strike"] = 146537,
+							["Injection"] = 143339,
+							["Skeleton Key"] = 146589,
+							["Corrosive Blood"] = 143791,
+							["Whirling"] = 143701,
+							["Courage"] = 148983,
+							["Purple Sword"] = 143606,
+							["Electrostatic Charge"] = 143385,
+							["Yellow Mantid"] = 143624,
+							["Purple Bomb"] = 143616,
+							["Reaping Whirlwind"] = 147642,
+							["Vicious Assault"] = 143979,
+							["Stone Bulwark"] = 114893,
+							["Green Drum"] = 143613,
+							["Aim"] = 142948,
+							["Bloody Dancing Steel"] = 142530,
+							["Fortitude"] = 137593,
+							["Explosive Despair"] = 145213,
+							["Empowered Touch of Y'Shaarj"] = 145171,
+							["Resonating Amber"] = 146452,
+							["Acid Breath"] = 143780,
+							["Red Bomb"] = 143615,
+							["Alchemical Mastery"] = 148456,
+							["Blue Sword"] = 143607,
+							["Sonic Projection"] = 143768,
+							["Panic"] = 143766,
+							["Tenderizing Strikes"] = 142929,
+							["Touch of Y'Shaarj"] = 145065,
+							["Gripping Despair"] = 145183,
+							["Reaper"] = 147644,
+							["Power Word: Barrier"] = 81782,
+							["Soul Link"] = 108446,
+							["Desecrated"] = 144762,
+							["Realm of Y'Shaarj"] = 144954,
+							["Genetic Alteration"] = 143279,
+							["Efflorescence"] = 81262,
+							["Dancing Steel"] = 120032,
+							["Blue Drum"] = 143612,
+							["Apothecary: Volatile Poultice"] = 142598,
+							["Gouge"] = 143939,
+							["Blue Mantid"] = 143622,
+							["Shield Bash"] = 143974,
+							["Exposed Veins"] = 142931,
+							["Drillstorm"] = 146479,
+							["Mesmerize"] = 142671,
+							["Hewn"] = 143275,
+							["Frozen Solid"] = 143777,
+							["Yellow Sword"] = 143609,
+							["Devour"] = 142636,
+							["Noxious Vapors"] = 142797,
+							["Freezing Breath"] = 143773,
+							["Caustic Blood"] = 142315,
+							["Blue Staff"] = 143629,
+							["Toxin: Blue"] = 142532,
+							["Caustic Amber"] = 143735,
+							["Colossus"] = 116631,
+							["Toxin: Yellow"] = 142534,
+							["Toxin: Red"] = 142533,
+							["Purple Mantid"] = 143621,
+							["Yellow Staff"] = 143631,
+							["Purple Staff"] = 143628,
+							["Green Staff"] = 143630,
+							["Red Manitd"] = 143620,
+							["Green Bomb"] = 143618,
+							["Green Mantid"] = 143623,
+							["Yellow Bomb"] = 143619,
+							["Red Drum"] = 143610,
+							["Hope"] = 149004,
+							["Empowered Gripping Despair"] = 145195,
+							["Tail Lash"] = 143428,
+							["Magnetic Crush"] = 144466,
+							["Blue Bomb"] = 143617,
+							["Hamstring"] = 144582,
+							["Premeditated Slaughter"] = 148391,
+							["Pierce"] = 146556,
+							["Purple Drum"] = 143611,
+							["Spirit of Conquest"] = 142535,
+							["Adrenaline Bomb"] = 147877,
+							["Red Sword"] = 143605,
+							["Green Sword"] = 143608,
+							["Red Staff"] = 143627,
+							["Fixate"] = 143445,
+							["Restorative Waters"] = 144117,
+							["Healing Stream Totem"] = 119523,
+							["Icy Blood"] = 143800,
+							["Superheated"] = 143856,
+						},
+					},
+				},
+			},
+		},
+		["GridIndicatorCornerIcons"] = {
+		},
+		["GridStatusRange"] = {
+		},
+		["GridStatusAuras"] = {
+			["profiles"] = {
+				["Default"] = {
+					["buff_BeaconofLight"] = {
+						["icon"] = "Interface\\Icons\\Ability_Paladin_BeaconofLight",
+					},
+					["buff_Rejuvenation"] = {
+						["icon"] = "Interface\\Icons\\Spell_Nature_Rejuvenation",
+					},
+					["buff_EarthShield"] = {
+						["icon"] = "Interface\\Icons\\Spell_Nature_SkinofEarth",
+					},
+					["buff_PowerWord:Shield"] = {
+						["icon"] = "Interface\\Icons\\Spell_Holy_PowerWordShield",
+					},
+					["buff_Renew"] = {
+						["icon"] = "Interface\\Icons\\Spell_Holy_Renew",
+					},
+					["buff_Lifebloom"] = {
+						["icon"] = "Interface\\Icons\\INV_Misc_Herb_Felblossom",
+					},
+				},
+			},
+		},
+		["GridStatus"] = {
+			["profiles"] = {
+				["Default"] = {
+					["colors"] = {
+						["SHAMAN"] = {
+							["b"] = 0.87,
+							["g"] = 0.44,
+							["r"] = 0,
+						},
+						["MAGE"] = {
+							["b"] = 0.94,
+							["g"] = 0.8,
+							["r"] = 0.41,
+						},
+						["DRUID"] = {
+							["b"] = 0.04,
+							["g"] = 0.49,
+							["r"] = 1,
+						},
+						["MONK"] = {
+							["b"] = 0.59,
+							["g"] = 1,
+							["r"] = 0,
+						},
+						["DEATHKNIGHT"] = {
+							["b"] = 0.23,
+							["g"] = 0.12,
+							["r"] = 0.77,
+						},
+						["PALADIN"] = {
+							["b"] = 0.73,
+							["g"] = 0.55,
+							["r"] = 0.96,
+						},
+						["PRIEST"] = {
+							["b"] = 1,
+							["g"] = 1,
+							["r"] = 1,
+						},
+						["HUNTER"] = {
+							["b"] = 0.45,
+							["g"] = 0.83,
+							["r"] = 0.67,
+						},
+						["ROGUE"] = {
+							["b"] = 0.41,
+							["g"] = 0.96,
+							["r"] = 1,
+						},
+						["WARLOCK"] = {
+							["b"] = 0.79,
+							["g"] = 0.51,
+							["r"] = 0.58,
+						},
+						["WARRIOR"] = {
+							["b"] = 0.43,
+							["g"] = 0.61,
+							["r"] = 0.78,
+						},
+					},
+				},
+			},
+		},
+		["GridStatusAggro"] = {
+		},
+		["GridStatusHeals"] = {
+		},
+		["GridStatusReadyCheck"] = {
+		},
+		["GridStatusMana"] = {
+		},
+		["GridStatusHealth"] = {
+		},
+		["GridLayout"] = {
+			["profiles"] = {
+				["Default"] = {
+					["backgroundTexture"] = "None",
+					["layouts"] = {
+						["solo"] = "None",
+					},
+					["ScaleSize"] = 1.65,
+					["FrameLock"] = true,
+					["PosX"] = 26,
+					["PosY"] = -284,
+					["layout"] = "None",
+					["anchorRel"] = "TOPLEFT",
+					["Padding"] = 0,
+					["borderTexture"] = "None",
+					["Spacing"] = 0,
+				},
+			},
+		},
+		["GridRoster"] = {
+		},
+		["GridStatusName"] = {
+		},
+		["GridStatusVoiceComm"] = {
+		},
+	},
+	["profileKeys"] = {
+		["霜梧桐 - 伊森利恩"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

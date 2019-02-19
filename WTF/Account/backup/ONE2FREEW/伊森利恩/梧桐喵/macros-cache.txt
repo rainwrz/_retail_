@@ -1,0 +1,6 @@
+VER 3 0100000000000001 "·" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:alt]Nimble Brew
+/cast [modifier:shift]Detox
+/cast Clash
+END

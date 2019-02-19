@@ -1,0 +1,3 @@
+Recount: disabled
+Bartender4: enabled
+Prat-3.0_HighCPUUsageModules: enabled

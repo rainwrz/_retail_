@@ -1,0 +1,6 @@
+
+ScfiDB = {
+	"skada", -- [1]
+	[6] = "heal",
+	[7] = "heal",
+}

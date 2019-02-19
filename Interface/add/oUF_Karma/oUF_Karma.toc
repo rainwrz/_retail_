@@ -1,0 +1,21 @@
+## Interface: 60000
+## Author: Sauerkraut, Unkn (Miamonkey) 
+## Title: oUF_Karma
+## Version: 1.6.3 (10-18-2014)
+## X-Contact: Mia#1417
+## Notes: PVE Focused Simple Layout for oUF -- Need Help? Add Me - Mia#1417
+## RequiredDeps: oUF
+## OptionalDeps: oUF_CombatFeedback
+## X-Category: UnitFrames
+
+cfg.lua
+tags.lua
+castbar.lua
+
+Elements\RaidDebuffs.lua
+Elements\Smooth.lua
+Elements\DebuffHighlight.lua
+Elements\warlockspecbars.lua
+
+lib.lua
+core.lua

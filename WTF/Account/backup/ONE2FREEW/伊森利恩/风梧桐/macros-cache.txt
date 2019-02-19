@@ -1,0 +1,19 @@
+MACRO 16777219 "Pyroblast" "INV_MISC_QUESTIONMARK"
+#showtooltip Fireball
+/cast Fireball
+/cast !Pyroblast!
+END
+MACRO 16777220 "q" "ACHIEVEMENT_GUILD_DOCTORISIN"
+#showtooltip 火球术
+/cast 火球术
+/cast !炎爆术!
+END
+MACRO 16777217 "三开" "INV_Misc_QuestionMark"
+#showtooltip
+/cast 镜像
+/use 瓶中的愿望
+END
+MACRO 16777218 "穆鲁" "INV_Misc_QuestionMark"
+/target 影忍怒火法师
+/cast 变形术
+END

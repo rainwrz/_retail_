@@ -1,0 +1,26 @@
+
+AtlasLootDB = {
+	["namespaces"] = {
+		["WishList"] = {
+		},
+		["AtlasLootPanel"] = {
+		},
+		["DefaultFrame"] = {
+			["profiles"] = {
+				["霜梧桐 - 伊森利恩"] = {
+					["instance"] = "TheStonecore",
+				},
+			},
+		},
+		["Filter"] = {
+		},
+	},
+	["profileKeys"] = {
+		["霜梧桐 - 伊森利恩"] = "霜梧桐 - 伊森利恩",
+	},
+	["profiles"] = {
+		["霜梧桐 - 伊森利恩"] = {
+			["AtlasType"] = "Preview",
+		},
+	},
+}

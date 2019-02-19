@@ -1,0 +1,185 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["雨梧桐"] = {
+			["GUID"] = "0x05800000018F271A",
+			["LastEventHealth"] = {
+				"24811 (82%)", -- [1]
+			},
+			["LastAttackedBy"] = "Environment",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+			},
+			["TimeWindows"] = {
+				["DamageTaken"] = {
+					5143, -- [1]
+				},
+			},
+			["enClass"] = "HUNTER",
+			["unit"] = "雨梧桐",
+			["level"] = 80,
+			["LastDamageAbility"] = "Falling",
+			["LastFightIn"] = 0,
+			["LastEventNum"] = {
+				17.16966014555652, -- [1]
+			},
+			["type"] = "Self",
+			["LastDamageTaken"] = 5143,
+			["GuardianReverseGUIDs"] = {
+				["咬的是寂寞"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "0xF140C450AD00CBF2",
+					},
+				},
+				["雨梧桐"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "0xF140BD276C010AF6",
+					},
+				},
+			},
+			["TimeLast"] = {
+				["DamageTaken"] = 1317885987,
+				["OVERALL"] = 1317885987,
+			},
+			["Owner"] = false,
+			["Pet"] = {
+				"咬的是寂寞 <雨梧桐>", -- [1]
+				"雨梧桐 <雨梧桐>", -- [2]
+			},
+			["NextEventNum"] = 2,
+			["LastEventHealthNum"] = {
+				82.83033985444348, -- [1]
+			},
+			["LastEvents"] = {
+				"Environment Falling 雨梧桐 Hit -5143 (Physical)", -- [1]
+			},
+			["Name"] = "雨梧桐",
+			["LastEventIncoming"] = {
+				true, -- [1]
+			},
+			["LastEventTimes"] = {
+				83688.243, -- [1]
+			},
+			["Fights"] = {
+				["CurrentFightData"] = {
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTaken"] = {
+						["Physical"] = 0,
+					},
+					["DamageTaken"] = 0,
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+				},
+				["OverallData"] = {
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 5143,
+								},
+							},
+							["amount"] = 5143,
+						},
+					},
+					["ElementTaken"] = {
+						["Physical"] = 5143,
+					},
+					["DamageTaken"] = 5143,
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 1317885987,
+			["LastActive"] = 1317885987,
+		},
+	},
+	["FightNum"] = 0,
+	["CombatTimes"] = {
+	},
+	["FoughtWho"] = {
+	},
+}

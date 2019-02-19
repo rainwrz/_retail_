@@ -1,0 +1,10 @@
+
+SatchelScannerDB = {
+	["updateint"] = 3,
+	["version"] = "2.0.2",
+	["scanHeal"] = false,
+	["satchels"] = 0,
+	["scanDps"] = true,
+	["sounds"] = true,
+	["scanTank"] = true,
+}

@@ -1,0 +1,14 @@
+
+dbGAC = {
+	["profileKeys"] = {
+		["Milyn - 卡扎克"] = "Milyn - 卡扎克",
+	},
+	["profiles"] = {
+		["Milyn - 卡扎克"] = {
+			["toggles"] = {
+				["MOVEPANEL"] = true,
+				["IGM"] = false,
+			},
+		},
+	},
+}

@@ -1,0 +1,50 @@
+
+ThreatPlatesDB = {
+	["char"] = {
+		["霜梧桐 - 伊森利恩"] = {
+			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
+		},
+	},
+	["global"] = {
+		["version"] = "6.004",
+	},
+	["profileKeys"] = {
+		["霜梧桐 - 伊森利恩"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["nameplate"] = {
+				["toggle"] = {
+					["Totem"] = true,
+				},
+			},
+			["uniqueSettings"] = {
+				[33] = {
+				},
+				[34] = {
+				},
+				[38] = {
+				},
+				[40] = {
+				},
+				[41] = {
+				},
+				[42] = {
+				},
+				[48] = {
+				},
+				[49] = {
+				},
+				[50] = {
+				},
+				["list"] = {
+				},
+			},
+			["cache"] = {
+			},
+		},
+	},
+}

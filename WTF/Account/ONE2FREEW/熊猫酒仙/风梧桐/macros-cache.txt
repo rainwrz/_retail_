@@ -1,0 +1,76 @@
+VER 3 0100000000000002 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Icy Veins
+/cast Frozen Orb
+/cast Mirror Image
+END
+VER 3 010000000000000E "1" "INV_MISC_QUESTIONMARK"
+/script LeaveParty()
+END
+VER 3 0100000000000010 "1" "INV_MISC_QUESTIONMARK"
+#showtooltips Fire Blast
+/castsequence reset=0.5 Fire Blast,1
+END
+VER 3 0100000000000001 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Icy Veins
+/cast Frozen Orb
+/cast Mirror Image
+/use Draenic Intellect Potion
+END
+VER 3 0100000000000006 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip Ice Nova
+/cast [@target,harm,exists] Ice Nova
+END
+VER 3 010000000000000C "1" "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover,nomodifier,exists][]Polymorph
+END
+VER 3 0100000000000011 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Flame On
+/castsequence reset=0.5 Fire Blast,1
+END
+VER 3 0100000000000012 "2爆发" "INV_MISC_QUESTIONMARK"
+#showtooltip Combustion
+/use 13
+/use 14
+/castsequence reset=15 Rune of Power,Combustion,Pyroblast,Fire Blast,Pyroblast,Fire Blast,Pyroblast,Flame On,Fire Blast,Pyroblast,Fire Blast,Scorch,Pyroblast,Scorch,Pyroblast,Pyroblast,Fireball
+END
+VER 3 010000000000000B "5" "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover,nomodifier,exists][]Frostjaw
+END
+VER 3 0100000000000007 "arena1" "INV_MISC_QUESTIONMARK"
+/cast [target=arena1]Polymorph
+END
+VER 3 0100000000000008 "arena2" "INV_MISC_QUESTIONMARK"
+/cast [target=arena2]Polymorph
+END
+VER 3 0100000000000009 "arena3" "INV_MISC_QUESTIONMARK"
+/cast [target=arena3]Polymorph
+END
+VER 3 010000000000000D "B" "INV_MISC_QUESTIONMARK"
+/cast [mod:ctrl]Ring of Frost;Blizzard
+END
+VER 3 010000000000000A "c" "INV_MISC_QUESTIONMARK"
+/cast [target=mouseover,nomodifier,exists][]Deep Freeze
+END
+VER 3 0100000000000005 "F1" "SPELL_FROST_ARCTICWINDS"
+#showtooltip
+/cancelAura Ice Block
+END
+VER 3 0100000000000003 "G" "INV_MISC_QUESTIONMARK"
+#showtooltip Counterspell
+/cast [mod:alt]Goblin Glider Kit
+/cast [target=mouseover,nomodifier,exists][]Counterspell
+END
+VER 3 0100000000000004 "·" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt]Wild Gladiator's Medallion of Cruelty
+/casT Spellsteal
+END
+VER 3 010000000000000F "爆发" "INV_MISC_QUESTIONMARK"
+#showtooltip Combustion
+/use 13
+/use 14
+/castsequence reset=15 Rune of Power,Combustion,Pyroblast,Fire Blast,Pyroblast,Fire Blast,Pyroblast,Flame On,Fire Blast,Pyroblast,Fire Blast,Pyroblast,Scorch,Pyroblast,Fireball
+END

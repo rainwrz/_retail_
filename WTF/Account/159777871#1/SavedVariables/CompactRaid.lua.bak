@@ -1,0 +1,69 @@
+
+CompactRaidDB = {
+	["showSolo"] = 1,
+	["showtooltip"] = 1,
+	["healthColor"] = "0.0,1.0,0.0",
+	["showParty"] = 1,
+	["modules"] = {
+		["Artwork"] = {
+		},
+		["RaidDebuff"] = {
+			["customDebuffs"] = {
+			},
+			["xoffset"] = 0,
+			["yoffset"] = 0,
+			["scale"] = 100,
+			["userLevels"] = {
+			},
+		},
+	},
+	["powerColor"] = "0.0,0.0,1.0",
+	["showToolboxes"] = 1,
+	["outrangeAlpha"] = 40,
+	["showRoleIcon"] = 1,
+	["showDebuffs"] = 1,
+	["nameWidthLimit"] = 75,
+	["showDispels"] = 1,
+	["unitBkColor"] = "0.0,0.0,0.0",
+	["showbarbkgnd"] = 1,
+	["height"] = 36,
+	["showPrivIcons"] = 1,
+	["nameYOffset"] = 0,
+	["tooltipPosition"] = 1,
+	["scale"] = 100,
+	["showBuffs"] = 1,
+	["spacing"] = 1,
+	["showRaidIcon"] = 1,
+	["containerBorderSize"] = 12,
+	["raidFilter"] = "CLASS",
+	["containerAlpha"] = 75,
+	["healthtextmode"] = 0,
+	["profiles"] = {
+		["大人 - 熊猫酒仙"] = {
+			["modules"] = {
+				["CornerIndicators"] = {
+					["disabled"] = 1,
+				},
+				["RaidDebuff"] = {
+				},
+				["Artwork"] = {
+					["disabled"] = 1,
+				},
+				["ClickSets"] = {
+					["disabled"] = 1,
+				},
+			},
+			["version"] = 4.12,
+			["showPartyPets"] = 1,
+			["showFriendlyNpc"] = 1,
+		},
+	},
+	["keepgroupstogether"] = 1,
+	["showDirectionArrow"] = 1,
+	["nameHeight"] = 12,
+	["nameColor"] = "1.0,1.0,1.0",
+	["nameXOffset"] = 0,
+	["powerBarHeight"] = 1,
+	["width"] = 64,
+	["version"] = 4.12,
+}

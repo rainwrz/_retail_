@@ -1,0 +1,132 @@
+VER 3 000000000000006D "!" "838684"
+/use 魔法扫帚
+/CAST 随机召唤偏好坐骑
+END
+VER 3 0000000000000051 "1" "1044996"
+/3 <月神之怒>休闲工会招人啦，欢迎各位加入一起打团本和大米！
+END
+VER 3 0000000000000053 "1" "INV_MISC_QUESTIONMARK"
+/click ExtraActionButton1
+END
+VER 3 0000000000000064 "1111集合石" "ACHIEVEMENT_GUILDPERK_HASTYHEARTH"
+H暗夜要塞速推摸橙来各职业，报巅峰实装，无小号，刚开组(^1^Z^S7107^N13^N6^N5^N917^N1023^Z^N110^N110^Z^N4^S雪梧桐-熊猫酒仙^Z^S碾压-个人拾取-暗夜要塞（英雄）^Z^^)
+END
+VER 3 000000000000002B "1ICC" "INV_Misc_QuestionMark"
+工会 聖戰 SS：蛋疼般凋零， 黑了装备就下线 大家注意这等低劣人品的渣滓
+END
+VER 3 0000000000000052 "2" "1044996"
+/script T,F=T or 0,F or CreateFrame("frame")if X then print("喊话结束") X=nil else print("喊话开始") X=function()local t=GetTime()if t-T>30 then SendChatMessage(ps,"channel",nil,3)T=t end end end F:SetScript("OnUpdate",X)
+END
+VER 3 000000000000003C "Blue" "Spell_Misc_EmotionSad"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button3
+END
+VER 3 0000000000000054 "BUFF" "SPELL_ARCANE_RUNE"
+/use Oralius' Whispering Crystal
+END
+VER 3 0000000000000061 "BUG1" "INV_SWORD_04"
+/target FIZZI
+END
+VER 3 0000000000000062 "BUG2" "INV_SWORD_04"
+/script SelectGossipAvailableQuest(1)
+/script CompleteQuest()
+/script GetQuestReward()
+/logout
+END
+VER 3 0000000000000024 "camera" "Ability_CheapShot"
+/script SetCVar("cameraDistanceMax", 80) 
+END
+VER 3 0000000000000057 "combatlog" "ACHIEVEMENT_GUILDPERK_QUICK AND DEAD"
+/combatlog
+END
+VER 3 0000000000000049 "EE" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Holy Prism
+/cast Light's Hammer
+/cast Execution Sentence
+/run local Z=GetSpellInfo SetMacroSpell(GetRunningMacro(),Z("Holy Prism")or Z("Light's Hammer")or "Execution Sentence")
+END
+VER 3 0000000000000066 "F1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/USE 13
+END
+VER 3 0000000000000044 "focus" "INV_ENCHANT_SHARDBRILLIANTSMALL"
+/FOCUS
+END
+VER 3 000000000000003D "Green" "Spell_Shadow_DeathCoil"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button5
+END
+VER 3 0000000000000045 "H11" "SPELL_MISC_PETHEAL"
+/CANCELAURA Renewing Mist
+END
+VER 3 000000000000005A "M7萨满打断宏" "SPELL_NATURE_EARTHBIND"
+/tar 邪影守望者
+/cast 风剪
+/targetlasttarget
+END
+VER 3 000000000000004D "Oringe" "SPELL_HOLY_HEALINGAURA"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button7
+END
+VER 3 000000000000003E "Purple" "Spell_Misc_EmotionAfraid"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button6
+END
+VER 3 000000000000003A "Red" "Spell_Misc_EmotionAngry"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button2
+END
+VER 3 0000000000000030 "Reset" "Ability_Paladin_InfusionofLight"
+/run local f = CreateFrame("frame",nil, UIParent); f:SetScript("OnUpdate", CombatLogClearEntries)
+END
+VER 3 000000000000005F "run speed" "INV_SWORD_04"
+/run table.insert(PAPERDOLL_STATCATEGORIES[1].stats,{ stat ="MOVESPEED"})
+END
+VER 3 000000000000004E "Seraphim" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Seraphim
+END
+VER 3 0000000000000065 "SP" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/USE 14
+END
+VER 3 000000000000003B "Yellow" "Spell_Misc_EmotionHappy"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button8
+END
+VER 3 000000000000006A "单刷CD君" "594272"
+/W 林荫下的乞丐-安苏 44296
+END
+VER 3 000000000000006C "小宠物练级" "136103"
+/target 瑞迪尔 
+/script SelectGossipOption(1) 
+/click tdBattlePetScriptAutoButton
+END
+VER 3 0000000000000069 "就位" "132351"
+/run DoReadyCheck()
+END
+VER 3 0000000000000068 "开怪" "132350"
+/PULL 10
+END
+VER 3 000000000000005E "挂机" "SPELL_HOLY_HOLYPROTECTION"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>1 then StaticPopup1Button1:Click()T=t end end end F:SetScript ("OnUpdate",X)
+END
+VER 3 000000000000002F "按钮" "Ability_Druid_Dreamstate"
+/click ExtraActionButton1
+END
+VER 3 0000000000000063 "欢乐桶" "652413"
+/script SetRaidTarget("mouseover",2)
+END
+VER 3 0000000000000067 "自动招募" "237446"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>30 then SendChatMessage("<月神之怒>奥迪尔7/8M 备战祖达萨，412晚8-11点活动，招收稳定DKT 鸟德和其他职业！","channel",nil,4)T=t end end end F:SetScript("OnUpdate",X)
+END
+VER 3 000000000000005D "视野宏" "SPELL_SHADOW_CHARM"
+/console cameraDistanceMaxZoomFactor 2.6
+END
+VER 3 000000000000004F "锚点" "133568"
+/run if not TuInd then UIParent:CreateTexture("TuInd");TuInd:SetSize(24,24);TuInd:SetPoint("CENTER",0, -15);TuInd:SetTexture(ICON_LIST[6]:sub(3,-2)) ;TuInd:Hide()end; if TuInd:IsShown() then TuInd:Hide() else TuInd:Show() end
+END
+VER 3 000000000000006B "雷龙共享" "603795"
+/W LMCD-战歌 组
+END

@@ -1,0 +1,47 @@
+MACRO 16777226 "Blood" INV_Misc_QuestionMark
+/use Satrina's Impeding Scarab
+/cast Vampiric Blood
+/use Corroded Skeleton Key
+END
+MACRO 16777223 "BS" INV_Misc_QuestionMark
+#showtooltip Blood Strike
+/cast Blood Strike
+/cast Rune Strike
+END
+MACRO 16777221 "DS" INV_Misc_QuestionMark
+#showtooltip Death Strike
+/cast Death Strike
+/cast Rune Strike
+END
+MACRO 16777225 "F1-20%" INV_Misc_QuestionMark
+#showtooltip rune tap
+/cast rune tap
+END
+MACRO 16777224 "F2" INV_Misc_QuestionMark
+#showtooltips Death Pact
+/castsequence reset=240 Raise Dead,Death Pact
+END
+MACRO 16777220 "g" INV_Misc_QuestionMark
+/cast [mod:alt]Blood Boil(Rank 4)
+/casT Pestilence
+END
+MACRO 16777218 "hit" INV_Misc_QuestionMark
+#showtooltip Heart Strike
+/cast Heart Strike
+/cast Rune Strike
+END
+MACRO 16777219 "ic" INV_Misc_QuestionMark
+#showtooltip Icy touch
+/cast icy touch
+/cast Rune Strike
+END
+MACRO 16777222 "PS" INV_Misc_QuestionMark
+#showtooltip Plague Strike
+/cast Plague Strike
+/cast Rune Strike
+END
+MACRO 16777217 "pull" INV_Misc_QuestionMark
+#showtooltip Death Grip
+/cast Death Coil
+/cast Death Grip
+END

@@ -1,0 +1,49 @@
+
+PetBattleTeamsDB = {
+	["profileKeys"] = {
+		["又娇小又可爱 - 伊森利恩"] = "Default",
+	},
+	["namespaces"] = {
+		["Tooltip"] = {
+		},
+		["TeamManager"] = {
+			["global"] = {
+				["hasImported"] = true,
+				["teams"] = {
+					{
+						{
+							["abilities"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+							},
+						}, -- [1]
+						{
+							["abilities"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+							},
+						}, -- [2]
+						{
+							["abilities"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+							},
+						}, -- [3]
+						["enabled"] = {
+							true, -- [1]
+							true, -- [2]
+							true, -- [3]
+						},
+					}, -- [1]
+				},
+				["selected"] = 1,
+			},
+		},
+		["GUI"] = {
+		},
+	},
+}
+PetBattleTeamsSettings = nil

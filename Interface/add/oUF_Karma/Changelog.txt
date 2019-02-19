@@ -1,0 +1,85 @@
+To Do:
+
+If you have any issues with the MoP Version please post full error for me to look over. You can message it to me
+on wowinterface or post it on the oUF_Karma comments.
+
+Thanks
+-Unkn
+Miamonkey @ Sargeras
+
+
+10-05-2013 ver 1.6.2r
+Fixed max resources for warlocks
+
+10-05-2013 ver 1.6.1r
+Fixed Warlock Bars
+Boss Frames Health Should update Properly (the bars at least - the text % might not show as accurate until you target the bosses - please let me know any other bugs)
+
+
+09-28-2013 ver 1.6.0r
+Fulled updated to 1.6+ .... yeah I know I am slow...
+Shamans - sorry guys gotta find another way to track your totems I don't have time right now to rewrite things to work for you all... Suggest WeakAuras or PowerAuras
+Fixed some oddities going on with the party/raid frames
+Fixed Debuff Highlighting - hey I may not use the party/raid frames but you all might :)
+Class Bars - Priests, Warlocks, Palis & Monks now have class colored class power bars. 
+	Also if you haven't noticed before if you switch talent/spec that gives you more/less of your secondary power type you need to reload
+Getting rid of some stuff not used... if you use it and its gone let me know (mainly outdated plugin stuff)
+
+05-30-2013 ver 1.5.38r
+Castbar error fix
+Works fine with 5.3 might still show out of date since I didn't update ui version
+
+11-27-2012
+Update so it doesnt read out of date.
+Fixed Monk SPELL_POWER_LIGHT_FORCE to SPELL_POWER_CHI and now everything should be working correctly with patch 5.1
+
+11-14-2012
+New cfg option. Target Power Value... Shown to right of target power bar, directly beneath buffs for target.
+Also added Soothing Mists ticks for Monks. I needed it, thought others might as well.
+
+10-02-2012
+Nothing major. Few tweaks to party frames and oUF to fix the "role" issue in party.
+
+09-21-2012
+Fixed Boss Frames - ty screamie for figuring out a couple of the issues there 
+	They are positioned in same place the basic blizz boss frames are located.
+	Has castbar above frame
+	Has debuffs below frame
+Still working on Aurawatch but the bug for mages should be gone.
+LFG roles still buggy. Reload UI when out of combat to get everything to show up right.
+
+Changelog 09-10-2012
+Changlog is now named changelog! Image that :)
+Couple new config options- Show party frames horizontally
+Target Debuffs- everyone else's debuffs are now desaturated again. /cheer!
+Turned back off the ugly pvp icons until I can make something better- perhaps just H or A instead of an icon.
+
+Changelog 09-02-2012
+Fixed line 71 for good this time!
+Added back percentage for target since it was requested
+
+Changelog 8-30-2012
+Fixed Aura watch error
+Refixed yesterdays fix :)
+
+Changelog 8-29-2012
+Fixed: party/raid frames issues - I think.
+Added: Show self in party option & Hide raid frame manager option... I know some people want to see this.
+
+Changelog 8-22-2012
+Big thanks to Paopao001 for helping with Warlock bar issues. They are fixed. Tukz Warlock bar plugin is embedded.
+Nothing else noticable.
+
+Changelog 8-01-2012
+Removed dependency for Monks, Priests and Warlocks for their bars. You do not need Tukz plugins anymore.
+Sorry Demo I'm still failing at your bar.
+Couple different typo fixes.
+Fixed - I think - whatever issue was going on with castbar - all 3 of them.
+Released addistant, masterlooter, leader icons since oUF updated.
+Couple different typo fixes.
+
+Changelog 7-31-2012:
+Fixed Holy Power bar - TY to Screamie for pointing out the prob
+
+Changelog 7-26-2012:
+Warlock resource bars: Fixed - sorta Demonology is not working- I do not play a warlock so if you have any ideas guys feel free to shoot them my way.

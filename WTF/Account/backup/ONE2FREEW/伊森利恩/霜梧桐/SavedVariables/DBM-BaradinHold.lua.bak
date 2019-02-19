@@ -1,0 +1,35 @@
+
+DBMBaradinHold_SavedVars = {
+	["Argaloth"] = {
+		["邪能烈焰 - 快躲开"] = true,
+		["Timer88954Argaloth0"] = true,
+		["HealthFrame"] = false,
+		["流星猛击"] = true,
+		["流星猛击!"] = true,
+		["timer_berserk"] = true,
+		["Timer88942Argaloth2"] = true,
+		["Timer88954Argaloth1"] = true,
+		["邪火风暴"] = true,
+		["SetIconOnConsuming"] = false,
+		["Timer88972Argaloth3"] = true,
+		["即将 邪火风暴"] = true,
+		["Enabled"] = true,
+		["黑暗噬体: >%s<"] = true,
+		["Timer88972Argaloth4"] = true,
+		["邪火风暴!"] = true,
+		["SpeedKillTimer"] = false,
+		["Announce"] = false,
+	},
+}
+DBMBaradinHold_SavedStats = {
+	["Argaloth"] = {
+		["heroic25Kills"] = 0,
+		["heroic25Pulls"] = 0,
+		["heroicKills"] = 0,
+		["normal25Pulls"] = 0,
+		["normal25Kills"] = 0,
+		["normalPulls"] = 0,
+		["normalKills"] = 0,
+		["heroicPulls"] = 0,
+	},
+}

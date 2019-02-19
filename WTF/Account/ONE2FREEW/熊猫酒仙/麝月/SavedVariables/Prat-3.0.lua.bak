@@ -1,0 +1,129 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+				"/4 1", -- [1]
+				"/s /JOIN bigfootworldchannel", -- [2]
+			},
+			["ChatFrame1EditBox"] = {
+				"/s /TMW", -- [1]
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1492882196,
+	["scrollback"] = {
+		["ChatFrame3"] = {
+			{
+				"|cff979797[01:29:56]|r|c00000000|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:麝月-熊猫酒仙:4990:CHANNEL:4|h|cffd8bc3f21|r:|cffaad372麝月|r|h|cffd8d8d8]|r: 1", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+				false, -- [6]
+				25, -- [7]
+				26, -- [8]
+			}, -- [1]
+		},
+		["ChatFrame1"] = {
+			{
+				"|cff979797[01:17:58]|r|c00000000|r |cff00ffff集合石：|r发现新版本：|cfffed00070200.01|r，请及时下载更新\n下载链接：|cfffed000http://w.163.com/special/wowsocial/|r\n更新内容：|cfffed000适配WOW7.2...|r\n更多更新内容请浏览论坛\n", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				3, -- [7]
+				3, -- [8]
+			}, -- [1]
+			{
+				"|cff979797[01:18:39]|r|c00000000|r Quest accepted: The Sanctum of the Sun", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				3, -- [7]
+				5, -- [8]
+			}, -- [2]
+			{
+				"|cff979797[01:18:59]|r|c00000000|r You have learned a new passive effect: |cff71d5ff|Hspell:193532:0|h[Dire Stable]|h|r.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				3, -- [7]
+				5, -- [8]
+			}, -- [3]
+			{
+				"|cff979797[01:20:30]|r|c00000000|r Discovered The Dead Scar: 108 experience gained", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				3, -- [7]
+				5, -- [8]
+			}, -- [4]
+			{
+				"|cff979797[01:25:43]|r|c00000000|r Discovered Thuron's Livery: 20 experience gained", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				3, -- [7]
+				5, -- [8]
+			}, -- [5]
+			{
+				"|cff979797[01:25:47]|r|c00000000|r Learn To Ride completed.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				3, -- [7]
+				5, -- [8]
+			}, -- [6]
+			{
+				"|cff979797[01:25:47]|r|c00000000|r Received 1 Silver, 25 Copper.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				3, -- [7]
+				5, -- [8]
+			}, -- [7]
+			{
+				"|cff979797[01:25:50]|r|c00000000|r You have learned a new passive effect: |cff71d5ff|Hspell:33388:0|h[Apprentice Riding]|h|r.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				3, -- [7]
+				5, -- [8]
+			}, -- [8]
+		},
+	},
+}

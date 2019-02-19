@@ -1,0 +1,17 @@
+
+IskarAssistDB = {
+	["profileKeys"] = {
+		["霜梧桐 - 熊猫酒仙"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["MainPanel"] = {
+				["position"] = {
+					["y"] = -408.27326965332,
+					["x"] = -403.45263671875,
+				},
+				["IsLocked"] = false,
+			},
+		},
+	},
+}

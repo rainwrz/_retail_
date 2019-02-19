@@ -1,0 +1,31 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["祈梧桐 - 熊猫酒仙"] = "祈梧桐 - 熊猫酒仙",
+	},
+	["profiles"] = {
+		["祈梧桐 - 熊猫酒仙"] = {
+			["version"] = "70300.07",
+			["settings"] = {
+				["storage"] = {
+					["y"] = 0,
+					["point"] = "BOTTOMLEFT",
+					["scale"] = 1,
+				},
+			},
+			["searchHistoryList"] = {
+				"6-0-0-0", -- [1]
+			},
+			["lastSearchValue"] = "6-0-0-0",
+			["chatGroupListening"] = {
+				["APP_WHISPER"] = {
+					[6] = false,
+					[7] = false,
+					[8] = false,
+					[10] = false,
+					[9] = false,
+				},
+			},
+		},
+	},
+}

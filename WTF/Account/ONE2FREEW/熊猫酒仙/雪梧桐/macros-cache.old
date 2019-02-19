@@ -1,0 +1,97 @@
+VER 3 010000000000000C "1" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast 化身：乌索克的守护者(天赋，变形)
+END
+VER 3 0100000000000006 "1" "INV_MISC_QUESTIONMARK"
+#showtooltips 
+/startattack
+/castsequence reset=3 Mangle,Thrash,Moonfire(Lunar),Swipe
+END
+VER 3 0100000000000001 "1" "INV_MISC_QUESTIONMARK"
+#showtooltips 
+/startattack
+/castsequence reset=3 裂伤,痛击,月火术(月光),横扫
+END
+VER 3 0100000000000011 "`" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift]Honorable Medallion(Honor Talent)
+/cast [mod:alt]Remove Corruption
+/cast Displacer Beast
+END
+VER 3 0100000000000005 "aoe" "INV_Misc_QuestionMark"
+#showtooltip Swipe
+/cast Swipe
+/cast Maul
+/cast Thrash
+END
+VER 3 0100000000000004 "charge" "INV_Misc_QuestionMark"
+#showtooltip
+/cast shadowmeld
+/cast Prowl
+END
+VER 3 0100000000000008 "Fire" "INV_Misc_QuestionMark"
+#showtooltip
+/cast 影遁(种族特长)
+/cast 潜行
+END
+VER 3 0100000000000007 "La" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Lacerate
+/cast Enrage
+END
+VER 3 0100000000000003 "shield wall" "INV_Misc_QuestionMark"
+#showtooltip Barkskin
+/cast Barkskin
+/use Stay of Execution
+END
+VER 3 0100000000000012 "·" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift]Honorable Medallion(Honor Talent)
+/cast [mod:alt]Remove Corruption
+/cast Skull Bash
+END
+VER 3 0100000000000009 "·" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod:shift]Honorable Medallion(Honor Talent)
+/cast [mod:alt]Remove Corruption
+/cast Wild Charge
+END
+VER 3 010000000000000F "冲锋" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift]角斗士勋章
+/cast [mod:alt]清除腐蚀
+/cast 野性冲锋
+END
+VER 3 010000000000000D "单吃1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Bristling Fur
+/cast Barkskin
+/use Rook's Unlucky Talisman
+END
+VER 3 010000000000000E "单吃2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Survival Instincts
+/use Tablet of Turnbuckle Teamwork
+END
+VER 3 0100000000000010 "取消保护" "INV_MISC_QUESTIONMARK"
+#showtooltip Hand of Protection
+/CANCELAURA Hand of Protection
+END
+VER 3 0100000000000002 "杀" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Mangle
+/cast Enrage
+/cast [mod:shift]Maul
+END
+VER 3 010000000000000B "狂暴" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast Berserk
+/use Curse of Hubris
+/use Sanctus, Sigil of the Unbroken 
+END
+VER 3 0100000000000013 "迎头痛击" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift]角斗士勋章
+/cast [mod:alt]清除腐蚀
+/cast 迎头痛击
+END

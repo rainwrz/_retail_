@@ -1,0 +1,35 @@
+------------------------------------------------------------------------
+r205 | scotepi | 2014-05-28 01:21:53 +0000 (Wed, 28 May 2014) | 3 lines
+Changed paths:
+   A /tags/3.2.12-alpha (from /trunk:204)
+
+Many localization changes to test
+
+Tagging as 3.2.12-alpha
+------------------------------------------------------------------------
+r204 | scotepi | 2014-05-28 01:20:58 +0000 (Wed, 28 May 2014) | 2 lines
+Changed paths:
+   M /trunk/SimpleILevel.lua
+   M /trunk/SimpleILevel.toc
+   M /trunk/SimpleILevel_Group/SimpleILevel_Group.toc
+   M /trunk/SimpleILevel_Resilience/SimpleILevel_Resilience.toc
+   M /trunk/SimpleILevel_Social/SimpleILevel_Social.toc
+
+Updated toc localizations for the addon menus
+Slimed down the localization notice to the ones that are still in need of help
+------------------------------------------------------------------------
+r203 | scotepi | 2014-05-28 00:58:52 +0000 (Wed, 28 May 2014) | 1 line
+Changed paths:
+   A /trunk/Locals/esES.lua
+   A /trunk/Locals/esMX.lua
+   A /trunk/Locals/inIT.lua
+   M /trunk/SimpleILevel.xml
+
+Added missing locals
+------------------------------------------------------------------------
+r201 | scotepi | 2014-05-27 02:13:36 +0000 (Tue, 27 May 2014) | 1 line
+Changed paths:
+   M /trunk/SimpleILevel.lua
+
+Updated item upgrades for 5.4.8
+------------------------------------------------------------------------

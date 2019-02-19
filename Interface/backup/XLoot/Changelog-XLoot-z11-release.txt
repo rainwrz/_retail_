@@ -1,0 +1,15 @@
+tag z11-release
+3a35bc23eeedd775f180a091e1e5f77a015d2466
+Xuerian <sky.shell@gmail.com>
+2013-02-26 15:04:47 -0500
+
+Monitor: Track currency and crafted items. Frame: Autoloot Everything option
+
+
+--------------------
+
+Xuerian:
+	- Frame: Add "Autoloot Everything" option
+	- Monitor: Add Currency and Crafted item tracking options
+	- Options: More flexible option tables, clarify documentation
+	- Monitor: Refactor addon.LOOT_EVENT

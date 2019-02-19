@@ -1,0 +1,2 @@
+DBM-Core: enabled
+DBM-DefaultSkin: enabled

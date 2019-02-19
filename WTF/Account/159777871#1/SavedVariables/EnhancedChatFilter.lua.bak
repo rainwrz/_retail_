@@ -1,0 +1,10 @@
+
+ecfDB = {
+	["profileKeys"] = {
+		["Inspiring - 埃基尔松"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

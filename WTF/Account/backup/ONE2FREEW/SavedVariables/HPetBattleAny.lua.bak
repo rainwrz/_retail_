@@ -1,0 +1,7 @@
+
+HPetSaves = {
+	["TooltipSetColor"] = true,
+	["ShowMsg"] = true,
+	["Sound"] = true,
+	["Contrast"] = true,
+}
