@@ -2,6 +2,7 @@
 ThreatPlatesDB = {
 	["char"] = {
 		["堡主 - 熊猫酒仙"] = {
+			["welcome"] = true,
 			["specInfo"] = {
 				{
 					["name"] = "Unknown",
@@ -12,13 +13,12 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
-			["welcome"] = true,
 		},
 		["月麝 - 熊猫酒仙"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["霜梧桐 - 熊猫酒仙"] = {
 			["specInfo"] = {
@@ -31,12 +31,13 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
+			["welcome"] = true,
 			["spec"] = {
 				["primary"] = false,
 			},
-			["welcome"] = true,
 		},
 		["Dadsdsf - 格瑞姆巴托"] = {
+			["welcome"] = true,
 			["specInfo"] = {
 				{
 					["name"] = "Unknown",
@@ -47,7 +48,6 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
-			["welcome"] = true,
 		},
 		["雨梧桐 - 熊猫酒仙"] = {
 			["specInfo"] = {
@@ -60,16 +60,13 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
+			["welcome"] = true,
 			["spec"] = {
 				true, -- [1]
 			},
-			["welcome"] = true,
 		},
 		["梧桐喵 - 熊猫酒仙"] = {
 			["welcome"] = true,
-			["spec"] = {
-				true, -- [1]
-			},
 			["specInfo"] = {
 				{
 					["name"] = "Brewmaster",
@@ -79,6 +76,9 @@ ThreatPlatesDB = {
 					["name"] = "Windwalker",
 					["role"] = "DAMAGER",
 				}, -- [2]
+			},
+			["spec"] = {
+				true, -- [1]
 			},
 		},
 		["风梧桐 - 伊森利恩"] = {
@@ -92,13 +92,12 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
+			["welcome"] = true,
 			["spec"] = {
 				["primary"] = false,
 			},
-			["welcome"] = true,
 		},
 		["颜值爆死全家 - 末日行者"] = {
-			["welcome"] = true,
 			["specInfo"] = {
 				{
 					["name"] = "Unknown",
@@ -109,6 +108,7 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
+			["welcome"] = true,
 		},
 		["Adfadfas - 伊森利恩"] = {
 			["specInfo"] = {
@@ -121,13 +121,12 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
-			["welcome"] = true,
 			["spec"] = {
 				["primary"] = false,
 			},
+			["welcome"] = true,
 		},
 		["Thelastangel - 布莱克摩"] = {
-			["welcome"] = true,
 			["specInfo"] = {
 				{
 					["name"] = "Unknown",
@@ -138,12 +137,10 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
+			["welcome"] = true,
 		},
 		["烦躁啊 - 伊森利恩"] = {
 			["welcome"] = true,
-			["spec"] = {
-				["primary"] = false,
-			},
 			["specInfo"] = {
 				{
 					["name"] = "Subtlety",
@@ -154,9 +151,15 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
+			["spec"] = {
+				["primary"] = false,
+			},
 		},
 		["梧桐晨曦 - 伊森利恩"] = {
 			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
 			["specInfo"] = {
 				{
 					["name"] = "Demonology",
@@ -166,9 +169,6 @@ ThreatPlatesDB = {
 					["name"] = "Destruction",
 					["role"] = "DAMAGER",
 				}, -- [2]
-			},
-			["spec"] = {
-				["primary"] = false,
 			},
 		},
 		["骑士开无敌 - 伊森利恩"] = {
@@ -182,10 +182,10 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
+			["welcome"] = true,
 			["spec"] = {
 				["primary"] = false,
 			},
-			["welcome"] = true,
 		},
 		["灵魂你麻痹 - 伊森利恩"] = {
 			["specInfo"] = {
@@ -198,13 +198,16 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
+			["welcome"] = true,
 			["spec"] = {
 				["primary"] = false,
 			},
-			["welcome"] = true,
 		},
 		["梧桐术 - 熊猫酒仙"] = {
 			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
 			["specInfo"] = {
 				{
 					["name"] = "Unknown",
@@ -215,11 +218,9 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
-			["spec"] = {
-				["primary"] = false,
-			},
 		},
 		["风梧桐 - 熊猫酒仙"] = {
+			["welcome"] = true,
 			["specInfo"] = {
 				{
 					["name"] = "Fire",
@@ -230,10 +231,12 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
-			["welcome"] = true,
 		},
 		["梧桐黃昏 - 伊森利恩"] = {
 			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
 			["specInfo"] = {
 				{
 					["name"] = "Discipline",
@@ -243,9 +246,6 @@ ThreatPlatesDB = {
 					["name"] = "Shadow",
 					["role"] = "DAMAGER",
 				}, -- [2]
-			},
-			["spec"] = {
-				["primary"] = false,
 			},
 		},
 		["雾梧桐 - 熊猫酒仙"] = {
@@ -259,16 +259,16 @@ ThreatPlatesDB = {
 					["role"] = "TANK",
 				}, -- [2]
 			},
-			["welcome"] = true,
 			["spec"] = {
 				true, -- [1]
 			},
+			["welcome"] = true,
 		},
 		["灰梧桐 - 熊猫酒仙"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["Ggogoa - 伊森利恩"] = {
 			["specInfo"] = {
@@ -281,13 +281,12 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
+			["welcome"] = true,
 			["spec"] = {
 				["primary"] = false,
 			},
-			["welcome"] = true,
 		},
 		["颜值爆表死妈 - 末日行者"] = {
-			["welcome"] = true,
 			["specInfo"] = {
 				{
 					["name"] = "Unknown",
@@ -298,9 +297,9 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
+			["welcome"] = true,
 		},
 		["Hokin - 熊猫酒仙"] = {
-			["welcome"] = true,
 			["specInfo"] = {
 				{
 					["name"] = "Unknown",
@@ -311,9 +310,9 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
+			["welcome"] = true,
 		},
 		["颜值爆表呦呦 - 末日行者"] = {
-			["welcome"] = true,
 			["specInfo"] = {
 				{
 					["name"] = "Unknown",
@@ -324,6 +323,7 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
+			["welcome"] = true,
 		},
 		["雨梧桐 - 伊森利恩"] = {
 			["specInfo"] = {
@@ -336,32 +336,51 @@ ThreatPlatesDB = {
 					["role"] = "DAMAGER",
 				}, -- [2]
 			},
-			["welcome"] = true,
 			["spec"] = {
 				["primary"] = false,
 			},
+			["welcome"] = true,
 		},
 		["梧桐哟 - 伊森利恩"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 			},
+			["welcome"] = true,
+		},
+		["梧桐喵 - 伊森利恩"] = {
+			["specInfo"] = {
+				{
+					["name"] = "Brewmaster",
+					["role"] = "TANK",
+				}, -- [1]
+				{
+					["name"] = "Unknown",
+					["role"] = "DAMAGER",
+				}, -- [2]
+			},
+			["spec"] = {
+				["primary"] = false,
+			},
+			["welcome"] = true,
 		},
 		["飘哥 - 熊猫酒仙"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				nil, -- [2]
 				true, -- [3]
 				false, -- [4]
 			},
-			["welcome"] = true,
 		},
-		["麝月 - 熊猫酒仙"] = {
+		["寂寞你麻痹 - 伊森利恩"] = {
 			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
 			["specInfo"] = {
 				{
-					["name"] = "Beast Mastery",
+					["name"] = "Unknown",
 					["role"] = "DAMAGER",
 				}, -- [1]
 				{
@@ -370,7 +389,84 @@ ThreatPlatesDB = {
 				}, -- [2]
 			},
 		},
-		["寂寞你麻痹 - 伊森利恩"] = {
+		["我不是会长哟 - 伊森利恩"] = {
+			["specInfo"] = {
+				{
+					["name"] = "Unknown",
+					["role"] = "DAMAGER",
+				}, -- [1]
+				{
+					["name"] = "Unknown",
+					["role"] = "DAMAGER",
+				}, -- [2]
+			},
+			["spec"] = {
+				["primary"] = false,
+			},
+			["welcome"] = true,
+		},
+		["点点喔 - 冰川之拳"] = {
+			["specInfo"] = {
+				{
+					["name"] = "Unknown",
+					["role"] = "DAMAGER",
+				}, -- [1]
+				{
+					["name"] = "Unknown",
+					["role"] = "DAMAGER",
+				}, -- [2]
+			},
+			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
+		},
+		["颜值爆表死爹 - 末日行者"] = {
+			["welcome"] = true,
+			["specInfo"] = {
+				{
+					["name"] = "Unknown",
+					["role"] = "DAMAGER",
+				}, -- [1]
+				{
+					["name"] = "Unknown",
+					["role"] = "DAMAGER",
+				}, -- [2]
+			},
+		},
+		["缄默 - 伊森利恩"] = {
+			["specInfo"] = {
+				{
+					["name"] = "Protection",
+					["role"] = "TANK",
+				}, -- [1]
+				{
+					["name"] = "Fury",
+					["role"] = "DAMAGER",
+				}, -- [2]
+			},
+			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
+		},
+		["梧桐雨 - 伊森利恩"] = {
+			["specInfo"] = {
+				{
+					["name"] = "Blood",
+					["role"] = "TANK",
+				}, -- [1]
+				{
+					["name"] = "Frost",
+					["role"] = "DAMAGER",
+				}, -- [2]
+			},
+			["spec"] = {
+				["primary"] = false,
+			},
+			["welcome"] = true,
+		},
+		["我不是会长哦 - 伊森利恩"] = {
 			["welcome"] = true,
 			["specInfo"] = {
 				{
@@ -387,103 +483,10 @@ ThreatPlatesDB = {
 			},
 		},
 		["紫梧桐 - 熊猫酒仙"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
-			},
-			["welcome"] = true,
-		},
-		["我不是会长哦 - 伊森利恩"] = {
-			["welcome"] = true,
-			["spec"] = {
-				["primary"] = false,
-			},
-			["specInfo"] = {
-				{
-					["name"] = "Unknown",
-					["role"] = "DAMAGER",
-				}, -- [1]
-				{
-					["name"] = "Unknown",
-					["role"] = "DAMAGER",
-				}, -- [2]
-			},
-		},
-		["梧桐雨 - 伊森利恩"] = {
-			["specInfo"] = {
-				{
-					["name"] = "Blood",
-					["role"] = "TANK",
-				}, -- [1]
-				{
-					["name"] = "Frost",
-					["role"] = "DAMAGER",
-				}, -- [2]
-			},
-			["welcome"] = true,
-			["spec"] = {
-				["primary"] = false,
-			},
-		},
-		["缄默 - 伊森利恩"] = {
-			["specInfo"] = {
-				{
-					["name"] = "Protection",
-					["role"] = "TANK",
-				}, -- [1]
-				{
-					["name"] = "Fury",
-					["role"] = "DAMAGER",
-				}, -- [2]
-			},
-			["spec"] = {
-				["primary"] = false,
-			},
-			["welcome"] = true,
-		},
-		["颜值爆表死爹 - 末日行者"] = {
-			["specInfo"] = {
-				{
-					["name"] = "Unknown",
-					["role"] = "DAMAGER",
-				}, -- [1]
-				{
-					["name"] = "Unknown",
-					["role"] = "DAMAGER",
-				}, -- [2]
-			},
-			["welcome"] = true,
-		},
-		["点点喔 - 冰川之拳"] = {
-			["specInfo"] = {
-				{
-					["name"] = "Unknown",
-					["role"] = "DAMAGER",
-				}, -- [1]
-				{
-					["name"] = "Unknown",
-					["role"] = "DAMAGER",
-				}, -- [2]
-			},
-			["spec"] = {
-				["primary"] = false,
-			},
-			["welcome"] = true,
-		},
-		["我不是会长哟 - 伊森利恩"] = {
-			["specInfo"] = {
-				{
-					["name"] = "Unknown",
-					["role"] = "DAMAGER",
-				}, -- [1]
-				{
-					["name"] = "Unknown",
-					["role"] = "DAMAGER",
-				}, -- [2]
-			},
-			["welcome"] = true,
-			["spec"] = {
-				["primary"] = false,
 			},
 		},
 		["雪梧桐 - 熊猫酒仙"] = {
@@ -497,16 +500,16 @@ ThreatPlatesDB = {
 					["role"] = "TANK",
 				}, -- [2]
 			},
-			["welcome"] = true,
 			["spec"] = {
 				["primary"] = false,
 			},
+			["welcome"] = true,
 		},
-		["梧桐喵 - 伊森利恩"] = {
+		["麝月 - 熊猫酒仙"] = {
 			["specInfo"] = {
 				{
-					["name"] = "Brewmaster",
-					["role"] = "TANK",
+					["name"] = "Beast Mastery",
+					["role"] = "DAMAGER",
 				}, -- [1]
 				{
 					["name"] = "Unknown",
@@ -514,20 +517,13 @@ ThreatPlatesDB = {
 				}, -- [2]
 			},
 			["welcome"] = true,
-			["spec"] = {
-				["primary"] = false,
-			},
 		},
 		["祈梧桐 - 熊猫酒仙"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
-	},
-	["global"] = {
-		["CheckNewLookAndFeel"] = true,
-		["version"] = "9.1.2",
 	},
 	["profileKeys"] = {
 		["堡主 - 熊猫酒仙"] = "Default",
@@ -555,34 +551,38 @@ ThreatPlatesDB = {
 		["颜值爆表呦呦 - 末日行者"] = "Default",
 		["雨梧桐 - 伊森利恩"] = "Default",
 		["梧桐哟 - 伊森利恩"] = "Default",
-		["飘哥 - 熊猫酒仙"] = "Default",
-		["麝月 - 熊猫酒仙"] = "Default",
-		["寂寞你麻痹 - 伊森利恩"] = "Default",
-		["紫梧桐 - 熊猫酒仙"] = "Default",
-		["我不是会长哦 - 伊森利恩"] = "Default",
-		["梧桐雨 - 伊森利恩"] = "Default",
-		["缄默 - 伊森利恩"] = "Default",
-		["颜值爆表死爹 - 末日行者"] = "Default",
-		["点点喔 - 冰川之拳"] = "Default",
-		["我不是会长哟 - 伊森利恩"] = "Default",
-		["雪梧桐 - 熊猫酒仙"] = "Default",
 		["梧桐喵 - 伊森利恩"] = "Default",
+		["飘哥 - 熊猫酒仙"] = "Default",
+		["寂寞你麻痹 - 伊森利恩"] = "Default",
+		["我不是会长哟 - 伊森利恩"] = "Default",
+		["点点喔 - 冰川之拳"] = "Default",
+		["颜值爆表死爹 - 末日行者"] = "Default",
+		["缄默 - 伊森利恩"] = "Default",
+		["梧桐雨 - 伊森利恩"] = "Default",
+		["我不是会长哦 - 伊森利恩"] = "Default",
+		["紫梧桐 - 熊猫酒仙"] = "Default",
+		["雪梧桐 - 熊猫酒仙"] = "Default",
+		["麝月 - 熊猫酒仙"] = "Default",
 		["祈梧桐 - 熊猫酒仙"] = "Default",
+	},
+	["global"] = {
+		["CheckNewLookAndFeel"] = true,
+		["version"] = "9.1.2",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["nameplate"] = {
 				["toggle"] = {
-					["NonTargetS"] = true,
+					["MouseoverUnitScale"] = true,
 					["TargetS"] = true,
 					["MarkedS"] = true,
 					["MarkedA"] = true,
 					["CastingUnitScale"] = true,
 					["Totem"] = true,
 					["NoTargetS"] = true,
-					["MouseoverUnitScale"] = true,
-					["CastingEnemyUnitScale"] = true,
+					["NonTargetS"] = true,
 					["TargetA"] = true,
+					["CastingEnemyUnitScale"] = true,
 				},
 				["alpha"] = {
 					["Marked"] = 0.88,
@@ -715,8 +715,8 @@ ThreatPlatesDB = {
 						["HIGH"] = 1,
 					},
 					["alpha"] = {
-						["OFFTANK"] = 1,
 						["MEDIUM"] = 1,
+						["OFFTANK"] = 1,
 						["HIGH"] = 1,
 					},
 				},
@@ -746,14 +746,14 @@ ThreatPlatesDB = {
 				["tank"] = {
 					["threatcolor"] = {
 						["LOW"] = {
-							["r"] = 0.109803921568627,
-							["g"] = 1,
 							["b"] = 0.0509803921568627,
+							["g"] = 1,
+							["r"] = 0.109803921568627,
 						},
 						["HIGH"] = {
-							["r"] = 1,
-							["g"] = 0.129411764705882,
 							["b"] = 0.0862745098039216,
+							["g"] = 0.129411764705882,
+							["r"] = 1,
 						},
 					},
 				},

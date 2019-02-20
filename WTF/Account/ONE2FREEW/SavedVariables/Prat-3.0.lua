@@ -22,8 +22,8 @@ Prat3DB = {
 					["maxchatheight"] = 684,
 					["maxchatwidthdefault"] = 608.000061035156,
 					["maxchatwidth"] = 936,
-					["minchatheight"] = 96,
 					["initialized"] = true,
+					["minchatheight"] = 96,
 				},
 			},
 		},
@@ -32,49 +32,49 @@ Prat3DB = {
 				["Default"] = {
 					["colors"] = {
 						["bigfootworldchanel"] = {
-							["r"] = 1,
-							["g"] = 0.752941250801086,
 							["b"] = 0.752941250801086,
+							["g"] = 0.752941250801086,
+							["r"] = 1,
 						},
 						["bigfootworldchat"] = {
-							["b"] = 0.749019622802734,
-							["g"] = 0.749019622802734,
 							["r"] = 1,
+							["g"] = 0.749019622802734,
+							["b"] = 0.749019622802734,
 						},
 						["bigfootwolrdchannel"] = {
-							["r"] = 1,
-							["g"] = 0.752941250801086,
 							["b"] = 0.752941250801086,
+							["g"] = 0.752941250801086,
+							["r"] = 1,
 						},
 						["大脚世界频道"] = {
-							["r"] = 1,
-							["g"] = 0.752941250801086,
 							["b"] = 0.752941250801086,
+							["g"] = 0.752941250801086,
+							["r"] = 1,
 						},
 						["大叫世界频道"] = {
-							["r"] = 1.00000005913898,
-							["g"] = 0.749019652139396,
 							["b"] = 0.749019652139396,
+							["g"] = 0.749019652139396,
+							["r"] = 1.00000005913898,
 						},
 						["bigfootworld"] = {
-							["b"] = 0.752941250801086,
-							["g"] = 0.752941250801086,
 							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
 						},
 						["bigfootworldchanle"] = {
-							["b"] = 0.752941250801086,
-							["g"] = 0.752941250801086,
 							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
 						},
 						["友团组团通信"] = {
-							["b"] = 0.752941250801086,
-							["g"] = 0.752941250801086,
 							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
 						},
 						["世界频道"] = {
-							["r"] = 1.00000005913898,
-							["g"] = 0.749019652139396,
 							["b"] = 0.749019652139396,
+							["g"] = 0.749019652139396,
+							["r"] = 1.00000005913898,
 						},
 					},
 				},
@@ -109,7 +109,7 @@ Prat3DB = {
 		},
 		["Prat_UrlCopy"] = {
 		},
-		["Prat_KeyBindings"] = {
+		["Prat_Bubbles"] = {
 		},
 		["Prat_Font"] = {
 			["profiles"] = {
@@ -117,28 +117,28 @@ Prat3DB = {
 					["fontface"] = "聊天",
 					["rememberfont"] = true,
 					["shadowcolor"] = {
-						["r"] = 1,
-						["g"] = 1,
 						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
 					},
 					["size"] = {
 						["ChatFrame6"] = 14,
 						["ChatFrame4"] = 14,
 						["ChatFrame3"] = 14,
-						["ChatFrame1"] = 14,
-						["ChatFrame5"] = 14,
 						["ChatFrame7"] = 14,
+						["ChatFrame5"] = 14,
+						["ChatFrame1"] = 14,
 					},
 				},
 			},
 		},
-		["Prat_Bubbles"] = {
-		},
-		["Prat_Sounds"] = {
+		["Prat_KeyBindings"] = {
 		},
 		["Prat_Scroll"] = {
 		},
-		["Prat_Timestamps"] = {
+		["Prat_Sounds"] = {
+		},
+		["Prat_ChatLog"] = {
 		},
 		["Prat_Achievements"] = {
 		},
@@ -150,17 +150,17 @@ Prat3DB = {
 		},
 		["Prat_Highlight"] = {
 		},
-		["Prat_ChannelSticky"] = {
+		["Prat_PopupMessage"] = {
 		},
 		["Prat_ChannelNames"] = {
 		},
 		["Prat_Invites"] = {
 		},
-		["Prat_PopupMessage"] = {
+		["Prat_ChannelSticky"] = {
 		},
 		["Prat_CopyChat"] = {
 		},
-		["Prat_ChatLog"] = {
+		["Prat_Timestamps"] = {
 		},
 		["Prat_Search"] = {
 		},
@@ -193,11 +193,11 @@ Prat3DB = {
 		["Adfadfas - 伊森利恩"] = "Default",
 		["寂寞你麻痹 - 伊森利恩"] = "Default",
 		["梧桐哟 - 伊森利恩"] = "Default",
-		["月麝 - 熊猫酒仙"] = "Default",
+		["雨梧桐 - 熊猫酒仙"] = "Default",
 		["烦躁啊 - 伊森利恩"] = "Default",
 		["猪小幼 - 伊森利恩"] = "Default",
 		["梧桐晨曦 - 伊森利恩"] = "Default",
-		["灰梧桐 - 熊猫酒仙"] = "Default",
+		["冰封之恋 - 红龙女王"] = "Default",
 		["霜梧桐 - 伊森利恩"] = "Default",
 		["Okgo - 托尔巴拉德"] = "Default",
 		["灵魂你麻痹 - 伊森利恩"] = "Default",
@@ -206,44 +206,44 @@ Prat3DB = {
 		["Guildmaster - 伊森利恩"] = "Default",
 		["点点喔 - 冰川之拳"] = "Default",
 		["雾梧桐 - 熊猫酒仙"] = "Default",
-		["冰封之恋 - 红龙女王"] = "Default",
+		["灰梧桐 - 熊猫酒仙"] = "Default",
 		["梧桐 - 莫格莱尼"] = "Default",
 		["Apsc - 熊猫酒仙"] = "Default",
 		["Ggogoa - 伊森利恩"] = "Default",
 		["梧桐哟 - 霜之哀伤"] = "Default",
-		["紫梧桐 - 熊猫酒仙"] = "Default",
-		["颜值爆表死爹 - 末日行者"] = "Default",
-		["梧桐雨 - 伊森利恩"] = "Default",
+		["梧桐黃昏 - 伊森利恩"] = "Default",
+		["骑士开无敌 - 伊森利恩"] = "Default",
+		["Phoenixtree - 伊森利恩"] = "Default",
 		["颜值爆表死妈 - 末日行者"] = "Default",
 		["Hokin - 熊猫酒仙"] = "Default",
-		["颜值爆表呦呦 - 末日行者"] = "Default",
+		["梧桐雨 - 伊森利恩"] = "Default",
 		["雨梧桐 - 伊森利恩"] = "Default",
-		["麝月 - 熊猫酒仙"] = "Default",
-		["绝对花语 - 古尔丹"] = "Default",
-		["飘哥 - 熊猫酒仙"] = "Default",
-		["Thelastangel - 布莱克摩"] = "Default",
-		["点办喔 - 布莱克摩"] = "Default",
-		["我不是会长哟 - 伊森利恩"] = "Default",
-		["梧桐喵 - 伊森利恩"] = "Default",
 		["我不是会长哦 - 伊森利恩"] = "Default",
-		["Phoenixtree - 伊森利恩"] = "Default",
-		["骑士开无敌 - 伊森利恩"] = "Default",
-		["梧桐黃昏 - 伊森利恩"] = "Default",
+		["绝对花语 - 古尔丹"] = "Default",
+		["麝月 - 熊猫酒仙"] = "Default",
+		["梧桐喵 - 伊森利恩"] = "Default",
+		["我不是会长哟 - 伊森利恩"] = "Default",
+		["点办喔 - 布莱克摩"] = "Default",
+		["Thelastangel - 布莱克摩"] = "Default",
+		["飘哥 - 熊猫酒仙"] = "Default",
+		["颜值爆表呦呦 - 末日行者"] = "Default",
+		["颜值爆表死爹 - 末日行者"] = "Default",
+		["紫梧桐 - 熊猫酒仙"] = "Default",
 		["雪梧桐 - 熊猫酒仙"] = "Default",
-		["雨梧桐 - 熊猫酒仙"] = "Default",
+		["月麝 - 熊猫酒仙"] = "Default",
 		["祈梧桐 - 熊猫酒仙"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["modules"] = {
-				["ChatLog"] = 2,
+				["Alias"] = 2,
 				["PopupMessage"] = 2,
 				["AltNames"] = 2,
 				["Sounds"] = 2,
 				["Paragraph"] = 2,
 				["KeyBindings"] = 2,
 				["OriginalButtons"] = 2,
-				["Alias"] = 2,
+				["ChatLog"] = 2,
 			},
 		},
 	},

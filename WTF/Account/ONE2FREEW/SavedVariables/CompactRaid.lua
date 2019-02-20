@@ -5,6 +5,12 @@ CompactRaidDB = {
 	["healthColor"] = "0.0,1.0,0.0",
 	["showParty"] = 1,
 	["modules"] = {
+		["Artwork"] = {
+			["font"] = "Fonts\\FRIZQT__.TTF",
+			["background"] = "Interface\\DialogFrame\\UI-DialogBox-Background",
+			["border"] = "Interface\\Tooltips\\UI-Tooltip-Border",
+			["statusbar"] = "Interface\\BUTTONS\\WHITE8X8.BLP",
+		},
 		["RaidDebuff"] = {
 			["scale"] = 100,
 			["userLevels"] = {
@@ -16,12 +22,6 @@ CompactRaidDB = {
 			["selBoss"] = 1438,
 			["selInstance"] = 669,
 			["yoffset"] = 0,
-		},
-		["Artwork"] = {
-			["font"] = "Fonts\\FRIZQT__.TTF",
-			["background"] = "Interface\\DialogFrame\\UI-DialogBox-Background",
-			["border"] = "Interface\\Tooltips\\UI-Tooltip-Border",
-			["statusbar"] = "Interface\\BUTTONS\\WHITE8X8.BLP",
 		},
 	},
 	["lock"] = 1,
@@ -44,13 +44,13 @@ CompactRaidDB = {
 	["spacing"] = 1.24800550937653,
 	["showRaidIcon"] = 1,
 	["containerBorderSize"] = 2.52954339981079,
-	["version"] = 5.09,
+	["nameColor"] = "1.0,0.6,0.9",
 	["raidFilter"] = "CLASS",
-	["outrangeAlpha"] = 32.1773071289063,
+	["invertColor"] = 1,
 	["profiles"] = {
 		["梧桐术 - 熊猫酒仙"] = {
 			["modules"] = {
-				["Artwork"] = {
+				["RaidDebuff"] = {
 				},
 				["CornerIndicators"] = {
 					["talent1"] = {
@@ -60,14 +60,15 @@ CompactRaidDB = {
 				["ClickSets"] = {
 					["disabled"] = 1,
 				},
-				["RaidDebuff"] = {
+				["Artwork"] = {
 				},
 			},
 			["version"] = 5.09,
 		},
 		["堡主 - 熊猫酒仙"] = {
 			["modules"] = {
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 				["ClickSets"] = {
 					["disabled"] = 1,
@@ -75,8 +76,7 @@ CompactRaidDB = {
 				["CornerIndicators"] = {
 					["disabled"] = 1,
 				},
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 			},
 			["version"] = 5.09,
@@ -84,7 +84,8 @@ CompactRaidDB = {
 		},
 		["颜值爆表死爹 - 末日行者"] = {
 			["modules"] = {
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 				["ClickSets"] = {
 					["disabled"] = 1,
@@ -92,8 +93,7 @@ CompactRaidDB = {
 				["CornerIndicators"] = {
 					["disabled"] = 1,
 				},
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 			},
 			["version"] = 4.12,
@@ -101,7 +101,7 @@ CompactRaidDB = {
 		},
 		["霜梧桐 - 熊猫酒仙"] = {
 			["modules"] = {
-				["Artwork"] = {
+				["RaidDebuff"] = {
 				},
 				["ClickSets"] = {
 					["talent_Synced"] = {
@@ -110,9 +110,9 @@ CompactRaidDB = {
 						["alt-ctrl-1"] = "buildin:Redemption",
 						["2"] = "spell:守护者之手",
 						["shift-2"] = "buildin:自由祝福",
-						["1"] = "action:target",
-						["ctrl-1"] = "buildin:保护祝福",
 						["alt-2"] = "action:togglemenu",
+						["ctrl-1"] = "buildin:保护祝福",
+						["1"] = "action:target",
 					},
 					["talent2"] = {
 						["alt-1"] = "buildin:Beacon of Light",
@@ -120,8 +120,8 @@ CompactRaidDB = {
 						["alt-ctrl-1"] = "buildin:Redemption",
 						["2"] = "spell:守护者之手",
 						["shift-2"] = "buildin:Cleanse",
-						["ctrl-1"] = "buildin:Blessing of Protection",
 						["1"] = "action:target",
+						["ctrl-1"] = "buildin:Blessing of Protection",
 					},
 					["talent3"] = {
 						["alt-1"] = "buildin:Beacon of Light",
@@ -143,37 +143,37 @@ CompactRaidDB = {
 				["CornerIndicators"] = {
 					["disabled"] = 1,
 					["talent2"] = {
-						["TOPRIGHT"] = "[ignoreVehicle]#1#[aura]#Greater Blessing of Kings#[showlacks]#1#",
-						["BOTTOMLEFT"] = "[ignoreVehicle]#1#[aura]#Greater Blessing of Might#[showlacks]#1#",
-						["BOTTOMRIGHT"] = "[ignoreVehicle]#1#[aura]#Greater Blessing of Wisdom#[showlacks]#1#",
 						["TOPLEFT"] = "[selfcast]#1#[aura]#Beacon of Light#[style]#2#",
+						["TOPRIGHT"] = "[ignoreVehicle]#1#[aura]#Greater Blessing of Kings#[showlacks]#1#",
+						["BOTTOMRIGHT"] = "[ignoreVehicle]#1#[aura]#Greater Blessing of Wisdom#[showlacks]#1#",
+						["BOTTOMLEFT"] = "[ignoreVehicle]#1#[aura]#Greater Blessing of Might#[showlacks]#1#",
 					},
 				},
-				["RaidDebuff"] = {
+				["Artwork"] = {
 				},
 			},
 			["version"] = 5.09,
 		},
 		["灰梧桐 - 熊猫酒仙"] = {
 			["modules"] = {
-				["CornerIndicators"] = {
-					["talent1"] = {
-					},
+				["ClickSets"] = {
 					["talent2"] = {
+						["alt-1"] = "buildin:暗影步",
+						["ctrl-1"] = "buildin:嫁祸诀窍",
+						["1"] = "action:target",
+						["2"] = "action:togglemenu",
+					},
+					["talent1"] = {
+						["alt-1"] = "buildin:暗影步",
+						["ctrl-1"] = "buildin:嫁祸诀窍",
+						["1"] = "action:target",
+						["2"] = "action:togglemenu",
 					},
 				},
-				["ClickSets"] = {
-					["talent1"] = {
-						["alt-1"] = "buildin:暗影步",
-						["ctrl-1"] = "buildin:嫁祸诀窍",
-						["1"] = "action:target",
-						["2"] = "action:togglemenu",
-					},
+				["CornerIndicators"] = {
 					["talent2"] = {
-						["alt-1"] = "buildin:暗影步",
-						["ctrl-1"] = "buildin:嫁祸诀窍",
-						["1"] = "action:target",
-						["2"] = "action:togglemenu",
+					},
+					["talent1"] = {
 					},
 				},
 			},
@@ -182,8 +182,7 @@ CompactRaidDB = {
 		},
 		["雨梧桐 - 熊猫酒仙"] = {
 			["modules"] = {
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 				["ClickSets"] = {
 					["disabled"] = 1,
@@ -191,15 +190,15 @@ CompactRaidDB = {
 				["CornerIndicators"] = {
 					["disabled"] = 1,
 				},
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 			},
 			["version"] = 5.09,
 		},
 		["Apsc - 熊猫酒仙"] = {
 			["modules"] = {
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 				["CornerIndicators"] = {
 					["disabled"] = 1,
@@ -207,7 +206,8 @@ CompactRaidDB = {
 				["ClickSets"] = {
 					["disabled"] = 1,
 				},
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 			},
 			["version"] = 4.15,
@@ -215,8 +215,7 @@ CompactRaidDB = {
 		},
 		["测测是 - 伊森利恩"] = {
 			["modules"] = {
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 				["ClickSets"] = {
 					["disabled"] = 1,
@@ -224,7 +223,8 @@ CompactRaidDB = {
 				["CornerIndicators"] = {
 					["disabled"] = 1,
 				},
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 			},
 			["version"] = 4.21,
@@ -232,7 +232,8 @@ CompactRaidDB = {
 		},
 		["梧桐喵 - 熊猫酒仙"] = {
 			["modules"] = {
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 				["ClickSets"] = {
 					["disabled"] = 1,
@@ -240,15 +241,15 @@ CompactRaidDB = {
 				["CornerIndicators"] = {
 					["disabled"] = 1,
 				},
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 			},
 			["version"] = 5.09,
 		},
 		["紫梧桐 - 熊猫酒仙"] = {
 			["modules"] = {
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 				["ClickSets"] = {
 					["disabled"] = 1,
@@ -256,15 +257,15 @@ CompactRaidDB = {
 				["CornerIndicators"] = {
 					["disabled"] = 1,
 				},
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 			},
 			["version"] = 5.09,
 		},
 		["颜值爆表死妈 - 末日行者"] = {
 			["modules"] = {
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 				["ClickSets"] = {
 					["disabled"] = 1,
@@ -272,8 +273,7 @@ CompactRaidDB = {
 				["CornerIndicators"] = {
 					["disabled"] = 1,
 				},
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 			},
 			["version"] = 4.12,
@@ -281,8 +281,7 @@ CompactRaidDB = {
 		},
 		["颜值爆死全家 - 末日行者"] = {
 			["modules"] = {
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 				["ClickSets"] = {
 					["disabled"] = 1,
@@ -290,7 +289,8 @@ CompactRaidDB = {
 				["CornerIndicators"] = {
 					["disabled"] = 1,
 				},
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 			},
 			["version"] = 4.12,
@@ -298,7 +298,8 @@ CompactRaidDB = {
 		},
 		["颜值爆表呦呦 - 末日行者"] = {
 			["modules"] = {
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 				["CornerIndicators"] = {
 					["disabled"] = 1,
@@ -306,8 +307,7 @@ CompactRaidDB = {
 				["ClickSets"] = {
 					["disabled"] = 1,
 				},
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 			},
 			["version"] = 4.12,
@@ -315,8 +315,7 @@ CompactRaidDB = {
 		},
 		["雨梧桐 - 伊森利恩"] = {
 			["modules"] = {
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 				["CornerIndicators"] = {
 					["disabled"] = 1,
@@ -324,7 +323,8 @@ CompactRaidDB = {
 				["ClickSets"] = {
 					["disabled"] = 1,
 				},
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 			},
 			["version"] = 4.15,
@@ -332,8 +332,7 @@ CompactRaidDB = {
 		},
 		["Thelastangel - 布莱克摩"] = {
 			["modules"] = {
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 				["ClickSets"] = {
 					["disabled"] = 1,
@@ -341,7 +340,8 @@ CompactRaidDB = {
 				["CornerIndicators"] = {
 					["disabled"] = 1,
 				},
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 			},
 			["version"] = 4.12,
@@ -349,7 +349,8 @@ CompactRaidDB = {
 		},
 		["麝月 - 熊猫酒仙"] = {
 			["modules"] = {
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 				["CornerIndicators"] = {
 					["disabled"] = 1,
@@ -357,8 +358,7 @@ CompactRaidDB = {
 				["ClickSets"] = {
 					["disabled"] = 1,
 				},
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 			},
 			["version"] = 4.33,
@@ -366,85 +366,21 @@ CompactRaidDB = {
 		},
 		["梧桐哟 - 伊森利恩"] = {
 			["modules"] = {
-				["CornerIndicators"] = {
-					["talent1"] = {
-					},
-				},
 				["ClickSets"] = {
 					["talent1"] = {
 						["1"] = "action:target",
 						["2"] = "action:togglemenu",
+					},
+				},
+				["CornerIndicators"] = {
+					["talent1"] = {
 					},
 				},
 			},
 			["version"] = 5.09,
 			["showPartyPets"] = 1,
 		},
-		["飘哥 - 熊猫酒仙"] = {
-			["modules"] = {
-				["CornerIndicators"] = {
-					["talent1"] = {
-						["TOPRIGHT"] = "[selfcast]#1#[aura]#野性成长#[style]#2#",
-						["TOPLEFT"] = "[selfcast]#1#[aura]#回春术#[style]#2#",
-						["BOTTOMLEFT"] = "[selfcast]#1#[aura]#生命绽放#[style]#2#",
-					},
-				},
-				["ClickSets"] = {
-					["talent1"] = {
-						["1"] = "action:target",
-						["ctrl-1"] = "buildin:回春术",
-						["ctrl-2"] = "buildin:生命绽放",
-						["shift-1"] = "buildin:愈合",
-						["shift-2"] = "buildin:自然之愈",
-						["alt-ctrl-2"] = "buildin:野性成长",
-						["alt-2"] = "buildin:迅捷治愈",
-						["2"] = "action:togglemenu",
-					},
-				},
-			},
-			["version"] = 4.33,
-			["showPartyPets"] = 1,
-		},
-		["雾梧桐 - 熊猫酒仙"] = {
-			["modules"] = {
-				["Artwork"] = {
-				},
-				["CornerIndicators"] = {
-					["talent2"] = {
-						["TOPLEFT"] = "[ignoreVehicle]#1#[aura]#Commanding Shout#",
-						["TOPRIGHT"] = "[ignoreVehicle]#1#[aura]#Battle Shout#[ignoreMagical]#1#",
-					},
-					["talent3"] = {
-					},
-					["talent1"] = {
-						["TOPRIGHT"] = "[ignoreVehicle]#1#[aura]#Battle Shout#[ignoreMagical]#1#",
-						["TOPLEFT"] = "[ignoreVehicle]#1#[aura]#Commanding Shout#",
-					},
-				},
-				["ClickSets"] = {
-					["talent2"] = {
-						["alt-1"] = "buildin:Intervene",
-						["1"] = "action:target",
-						["2"] = "action:togglemenu",
-					},
-					["talent3"] = {
-						["alt-1"] = "buildin:Intervene",
-						["1"] = "action:target",
-						["2"] = "action:togglemenu",
-					},
-					["talent1"] = {
-						["alt-1"] = "buildin:Intervene",
-						["1"] = "action:target",
-						["2"] = "action:togglemenu",
-					},
-				},
-				["RaidDebuff"] = {
-				},
-			},
-			["version"] = 5.09,
-			["showFriendlyNpc"] = 1,
-		},
-		["月麝 - 熊猫酒仙"] = {
+		["梧桐黃昏 - 伊森利恩"] = {
 			["modules"] = {
 				["Artwork"] = {
 					["disabled"] = 1,
@@ -453,22 +389,6 @@ CompactRaidDB = {
 					["disabled"] = 1,
 				},
 				["ClickSets"] = {
-					["disabled"] = 1,
-				},
-				["RaidDebuff"] = {
-				},
-			},
-			["version"] = 5.09,
-		},
-		["Hokin - 熊猫酒仙"] = {
-			["modules"] = {
-				["Artwork"] = {
-					["disabled"] = 1,
-				},
-				["ClickSets"] = {
-					["disabled"] = 1,
-				},
-				["CornerIndicators"] = {
 					["disabled"] = 1,
 				},
 				["RaidDebuff"] = {
@@ -477,10 +397,64 @@ CompactRaidDB = {
 			["version"] = 4.15,
 			["showPartyPets"] = 1,
 		},
-		["烦躁啊 - 伊森利恩"] = {
+		["雾梧桐 - 熊猫酒仙"] = {
 			["modules"] = {
+				["RaidDebuff"] = {
+				},
+				["CornerIndicators"] = {
+					["talent2"] = {
+						["TOPRIGHT"] = "[ignoreVehicle]#1#[aura]#Battle Shout#[ignoreMagical]#1#",
+						["TOPLEFT"] = "[ignoreVehicle]#1#[aura]#Commanding Shout#",
+					},
+					["talent3"] = {
+					},
+					["talent1"] = {
+						["TOPLEFT"] = "[ignoreVehicle]#1#[aura]#Commanding Shout#",
+						["TOPRIGHT"] = "[ignoreVehicle]#1#[aura]#Battle Shout#[ignoreMagical]#1#",
+					},
+				},
+				["ClickSets"] = {
+					["talent2"] = {
+						["alt-1"] = "buildin:Intervene",
+						["1"] = "action:target",
+						["2"] = "action:togglemenu",
+					},
+					["talent3"] = {
+						["alt-1"] = "buildin:Intervene",
+						["1"] = "action:target",
+						["2"] = "action:togglemenu",
+					},
+					["talent1"] = {
+						["alt-1"] = "buildin:Intervene",
+						["1"] = "action:target",
+						["2"] = "action:togglemenu",
+					},
+				},
+				["Artwork"] = {
+				},
+			},
+			["version"] = 5.09,
+			["showFriendlyNpc"] = 1,
+		},
+		["月麝 - 熊猫酒仙"] = {
+			["modules"] = {
+				["RaidDebuff"] = {
+				},
+				["CornerIndicators"] = {
+					["disabled"] = 1,
+				},
+				["ClickSets"] = {
+					["disabled"] = 1,
+				},
 				["Artwork"] = {
 					["disabled"] = 1,
+				},
+			},
+			["version"] = 5.09,
+		},
+		["风梧桐 - 熊猫酒仙"] = {
+			["modules"] = {
+				["RaidDebuff"] = {
 				},
 				["ClickSets"] = {
 					["disabled"] = 1,
@@ -488,16 +462,32 @@ CompactRaidDB = {
 				["CornerIndicators"] = {
 					["disabled"] = 1,
 				},
+				["Artwork"] = {
+					["disabled"] = 1,
+				},
+			},
+			["version"] = 5.09,
+		},
+		["烦躁啊 - 伊森利恩"] = {
+			["modules"] = {
 				["RaidDebuff"] = {
+				},
+				["ClickSets"] = {
+					["disabled"] = 1,
+				},
+				["CornerIndicators"] = {
+					["disabled"] = 1,
+				},
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 			},
 			["version"] = 5.09,
 			["showPartyPets"] = 1,
 		},
-		["风梧桐 - 熊猫酒仙"] = {
+		["Hokin - 熊猫酒仙"] = {
 			["modules"] = {
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 				["ClickSets"] = {
 					["disabled"] = 1,
@@ -505,14 +495,17 @@ CompactRaidDB = {
 				["CornerIndicators"] = {
 					["disabled"] = 1,
 				},
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 			},
-			["version"] = 5.09,
+			["version"] = 4.15,
+			["showPartyPets"] = 1,
 		},
 		["梧桐晨曦 - 伊森利恩"] = {
 			["modules"] = {
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 				["ClickSets"] = {
 					["disabled"] = 1,
@@ -520,8 +513,7 @@ CompactRaidDB = {
 				["CornerIndicators"] = {
 					["disabled"] = 1,
 				},
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 			},
 			["version"] = 4.12,
@@ -529,38 +521,38 @@ CompactRaidDB = {
 		},
 		["雪梧桐 - 熊猫酒仙"] = {
 			["modules"] = {
-				["RaidDebuff"] = {
+				["Artwork"] = {
 				},
 				["ClickSets"] = {
 					["talent4"] = {
 						["1"] = "action:target",
 						["ctrl-1"] = "buildin:Rejuvenation",
-						["ctrl-2"] = "buildin:Lifebloom",
+						["shift-1"] = "buildin:Regrowth",
 						["2"] = "action:togglemenu",
 						["shift-2"] = "buildin:Nature's Cure",
 						["alt-ctrl-2"] = "buildin:Wild Growth",
 						["alt-2"] = "buildin:Swiftmend",
-						["shift-1"] = "buildin:Regrowth",
+						["ctrl-2"] = "buildin:Lifebloom",
 					},
 					["talent2"] = {
 						["1"] = "action:target",
 						["ctrl-1"] = "buildin:Rejuvenation",
-						["ctrl-2"] = "buildin:Lifebloom",
+						["2"] = "action:togglemenu",
 						["shift-1"] = "buildin:Regrowth",
 						["shift-2"] = "buildin:Nature's Cure",
 						["alt-ctrl-2"] = "buildin:Wild Growth",
 						["alt-2"] = "buildin:Swiftmend",
-						["2"] = "action:togglemenu",
+						["ctrl-2"] = "buildin:Lifebloom",
 					},
 					["talent3"] = {
 						["1"] = "action:target",
 						["ctrl-1"] = "buildin:Rejuvenation",
+						["ctrl-2"] = "buildin:Lifebloom",
 						["shift-1"] = "buildin:Regrowth",
-						["2"] = "action:togglemenu",
 						["shift-2"] = "buildin:Nature's Cure",
 						["alt-ctrl-2"] = "buildin:Wild Growth",
 						["alt-2"] = "buildin:Swiftmend",
-						["ctrl-2"] = "buildin:Lifebloom",
+						["2"] = "action:togglemenu",
 					},
 					["talent1"] = {
 						["1"] = "action:target",
@@ -577,50 +569,59 @@ CompactRaidDB = {
 				["CornerIndicators"] = {
 					["talent4"] = {
 						["TOPRIGHT"] = "[selfcast]#1#[aura]#Wild Growth#[style]#2#",
-						["TOPLEFT"] = "[selfcast]#1#[aura]#Rejuvenation#[style]#2#",
 						["BOTTOMLEFT"] = "[selfcast]#1#[aura]#Lifebloom#[style]#2#",
+						["TOPLEFT"] = "[selfcast]#1#[aura]#Rejuvenation#[style]#2#",
 					},
 					["talent2"] = {
 						["TOPRIGHT"] = "[selfcast]#1#[aura]#Wild Growth#[style]#2#",
-						["TOPLEFT"] = "[selfcast]#1#[aura]#Rejuvenation#[style]#2#",
 						["BOTTOMLEFT"] = "[selfcast]#1#[aura]#Lifebloom#[style]#2#",
+						["TOPLEFT"] = "[selfcast]#1#[aura]#Rejuvenation#[style]#2#",
 					},
 					["talent3"] = {
 						["TOPRIGHT"] = "[selfcast]#1#[aura]#Wild Growth#[style]#2#",
-						["BOTTOMLEFT"] = "[selfcast]#1#[aura]#Lifebloom#[style]#2#",
 						["TOPLEFT"] = "[selfcast]#1#[aura]#Rejuvenation#[style]#2#",
+						["BOTTOMLEFT"] = "[selfcast]#1#[aura]#Lifebloom#[style]#2#",
 					},
 					["talent1"] = {
 						["TOPRIGHT"] = "[selfcast]#1#[aura]#Wild Growth#[style]#2#",
-						["BOTTOMLEFT"] = "[selfcast]#1#[aura]#Lifebloom#[style]#2#",
 						["TOPLEFT"] = "[selfcast]#1#[aura]#Rejuvenation#[style]#2#",
+						["BOTTOMLEFT"] = "[selfcast]#1#[aura]#Lifebloom#[style]#2#",
 					},
 				},
-				["Artwork"] = {
+				["RaidDebuff"] = {
 				},
 			},
 			["version"] = 5.09,
 		},
-		["梧桐黃昏 - 伊森利恩"] = {
+		["飘哥 - 熊猫酒仙"] = {
 			["modules"] = {
-				["RaidDebuff"] = {
+				["ClickSets"] = {
+					["talent1"] = {
+						["1"] = "action:target",
+						["ctrl-1"] = "buildin:回春术",
+						["2"] = "action:togglemenu",
+						["shift-1"] = "buildin:愈合",
+						["shift-2"] = "buildin:自然之愈",
+						["alt-ctrl-2"] = "buildin:野性成长",
+						["alt-2"] = "buildin:迅捷治愈",
+						["ctrl-2"] = "buildin:生命绽放",
+					},
 				},
 				["CornerIndicators"] = {
-					["disabled"] = 1,
-				},
-				["ClickSets"] = {
-					["disabled"] = 1,
-				},
-				["Artwork"] = {
-					["disabled"] = 1,
+					["talent1"] = {
+						["TOPRIGHT"] = "[selfcast]#1#[aura]#野性成长#[style]#2#",
+						["BOTTOMLEFT"] = "[selfcast]#1#[aura]#生命绽放#[style]#2#",
+						["TOPLEFT"] = "[selfcast]#1#[aura]#回春术#[style]#2#",
+					},
 				},
 			},
-			["version"] = 4.15,
+			["version"] = 4.33,
 			["showPartyPets"] = 1,
 		},
 		["祈梧桐 - 熊猫酒仙"] = {
 			["modules"] = {
-				["RaidDebuff"] = {
+				["Artwork"] = {
+					["disabled"] = 1,
 				},
 				["ClickSets"] = {
 					["disabled"] = 1,
@@ -628,19 +629,18 @@ CompactRaidDB = {
 				["CornerIndicators"] = {
 					["disabled"] = 1,
 				},
-				["Artwork"] = {
-					["disabled"] = 1,
+				["RaidDebuff"] = {
 				},
 			},
 			["version"] = 4.33,
 		},
 	},
-	["width"] = 54.1708450317383,
+	["containerAlpha"] = 0,
 	["showDirectionArrow"] = 1,
 	["healthtextmode"] = 0,
 	["nameHeight"] = 10,
 	["nameXOffset"] = 0,
-	["containerAlpha"] = 0,
-	["nameColor"] = "1.0,0.6,0.9",
-	["invertColor"] = 1,
+	["width"] = 54.1708450317383,
+	["outrangeAlpha"] = 32.1773071289063,
+	["version"] = 5.09,
 }

@@ -1,74 +1,82 @@
-2/18 19:44:28.326   - SE3 Init...
-2/18 19:44:28.326  => SI3 Init
-2/18 19:44:28.326  => WoW Version 8.1.0 (29297) Feb  5 2019
-2/18 19:44:28.326   
-2/18 19:44:28.326  => User Settings Report:
-2/18 19:44:28.326   - ========= PLAYBACK =========
-2/18 19:44:28.326   - Enable All Sound         [1]
-2/18 19:44:28.326   - Enable SFX               [1]
-2/18 19:44:28.326   --- Enable Emote Sounds    [0]
-2/18 19:44:28.326   - Enable Music             [0]
-2/18 19:44:28.326   --- Loop Music             [1]
-2/18 19:44:28.326   --- Pet Battle Music       [1]
-2/18 19:44:28.326   - Enable Ambient Sounds    [1]
-2/18 19:44:28.326   - Enable Dialog            [1]
-2/18 19:44:28.326   --- Enable Error Speech    [0]
-2/18 19:44:28.326   - Sound at Character       [1]
-2/18 19:44:28.326   - Sound in Background      [0]
-2/18 19:44:28.326   - Enable Reverb            [1]
-2/18 19:44:28.340   -
-2/18 19:44:28.340   - ========== VOLUME ==========
-2/18 19:44:28.340   - Master Volume         [0.12]
-2/18 19:44:28.340   - SFX Volume            [0.50]
-2/18 19:44:28.340   - Music Volume          [0.50]
-2/18 19:44:28.340   - Ambience Volume       [0.20]
-2/18 19:44:28.340   - Dialog Volume         [1.00]
-2/18 19:44:28.340   -
-2/18 19:44:28.340   - =========== MISC ===========
-2/18 19:44:28.340   - Sound Channels          [64]
-2/18 19:44:28.340   - Sound Cache           [64MB]
-2/18 19:44:28.340   - Mix Mode 2               [0]
-2/18 19:44:28.340   - DSP Buffer Size       [AUTO]
-2/18 19:44:28.340   - Armor Foley SFX (Self)   [1]
-2/18 19:44:28.340   - Armor Foley SFX (Others) [1]
-2/18 19:44:28.340  => End of User Settings Report
-2/18 19:44:28.340   
-2/18 19:44:28.340   - FMOD Memory Init
-2/18 19:44:28.340   - FMOD System Create
-2/18 19:44:28.357   - Setting Output Type
-2/18 19:44:28.425   - 8 Output drivers detected
-2/18 19:44:28.425   --- [0] System Default
-2/18 19:44:28.425   --- [1] lðh (Creative SB Audigy 4 (WDM))
-2/18 19:44:28.425   --- [2] 239CQH (NVIDIA High Definition Audio)
-2/18 19:44:28.425   --- [3] SPDIF Out (Creative SB Audigy 4 (WDM))
-2/18 19:44:28.425   --- [4] Headphone (VIA HD Audio)
-2/18 19:44:28.425   --- [5] SPDIF Interface (TX1) (VIA HD Audio)
-2/18 19:44:28.425   --- [6] lðh (VIA HD Audio)
-2/18 19:44:28.425   --- [7] HD Audio HDMI out (VIA HD Audio)
-2/18 19:44:28.425  ** Using Driver [0] System Default (lðh (Creative SB Audigy 4 (WDM)))
-2/18 19:44:28.434   - DSPBufferSize = AUTO DETECT
-2/18 19:44:28.434   - Setting DSP Buffer Size
-2/18 19:44:28.434   - Using Control Panel Speaker Mode STEREO
-2/18 19:44:28.434   - Setting Software Format (44100, 2, 1).
-2/18 19:44:28.434   - Requested 64 channels.
-2/18 19:44:28.434   - Initializing Software Channels
-2/18 19:44:28.461   - Init FMOD Game System
-2/18 19:44:28.461   - Ok
-2/18 19:44:28.461   - Setting Rolloff Scale
-2/18 19:44:28.461   - Setting Rolloff Callback
-2/18 19:44:28.461   - SE3 EmitterManagerInit Success
-2/18 19:44:28.461   - Setting device callback
-2/18 19:44:28.467   - Sound Bus Init
-2/18 19:44:28.467   - Init Suppressors
-2/18 19:44:28.467   - SE3 Init Success.
-2/18 19:44:28.467  => SI3 Init Complete.
-2/18 19:44:28.467   
-2/18 20:43:48.967  => Requested 16384 bytes and read 0 -- success: 1
-2/18 20:43:48.967  => Requested 16384 bytes and read 0 -- success: 1
-2/19 00:15:07.072   
-2/19 00:15:07.072  => Shutting Down SI3
-2/19 00:15:07.173  => Shutting Down SI3 COMPLETE.
-2/19 00:15:07.173   
-2/19 00:15:07.173   - Shutting Down SE3
-2/19 00:15:07.604   - SE3 EmitterManagerShutdown Success
-2/19 00:15:07.621   - Shutting Down SE3 COMPLETE.
+2/19 19:48:45.375   - SE3 Init...
+2/19 19:48:45.375  => SI3 Init
+2/19 19:48:45.375  => WoW Version 8.1.0 (29297) Feb  5 2019
+2/19 19:48:45.375   
+2/19 19:48:45.375  => User Settings Report:
+2/19 19:48:45.375   - ========= PLAYBACK =========
+2/19 19:48:45.375   - Enable All Sound         [1]
+2/19 19:48:45.375   - Enable SFX               [1]
+2/19 19:48:45.375   --- Enable Emote Sounds    [0]
+2/19 19:48:45.375   - Enable Music             [0]
+2/19 19:48:45.375   --- Loop Music             [1]
+2/19 19:48:45.375   --- Pet Battle Music       [1]
+2/19 19:48:45.375   - Enable Ambient Sounds    [1]
+2/19 19:48:45.375   - Enable Dialog            [1]
+2/19 19:48:45.375   --- Enable Error Speech    [0]
+2/19 19:48:45.387   - Sound at Character       [1]
+2/19 19:48:45.387   - Sound in Background      [0]
+2/19 19:48:45.387   - Enable Reverb            [1]
+2/19 19:48:45.387   -
+2/19 19:48:45.387   - ========== VOLUME ==========
+2/19 19:48:45.387   - Master Volume         [0.12]
+2/19 19:48:45.387   - SFX Volume            [0.50]
+2/19 19:48:45.387   - Music Volume          [0.50]
+2/19 19:48:45.387   - Ambience Volume       [0.20]
+2/19 19:48:45.387   - Dialog Volume         [1.00]
+2/19 19:48:45.387   -
+2/19 19:48:45.387   - =========== MISC ===========
+2/19 19:48:45.387   - Sound Channels          [64]
+2/19 19:48:45.387   - Sound Cache           [64MB]
+2/19 19:48:45.387   - Mix Mode 2               [0]
+2/19 19:48:45.387   - DSP Buffer Size       [AUTO]
+2/19 19:48:45.387   - Armor Foley SFX (Self)   [1]
+2/19 19:48:45.387   - Armor Foley SFX (Others) [1]
+2/19 19:48:45.387  => End of User Settings Report
+2/19 19:48:45.387   
+2/19 19:48:45.387   - FMOD Memory Init
+2/19 19:48:45.403   - FMOD System Create
+2/19 19:48:45.403   - Setting Output Type
+2/19 19:48:45.472   - 8 Output drivers detected
+2/19 19:48:45.472   --- [0] System Default
+2/19 19:48:45.472   --- [1] lðh (Creative SB Audigy 4 (WDM))
+2/19 19:48:45.472   --- [2] 239CQH (NVIDIA High Definition Audio)
+2/19 19:48:45.472   --- [3] SPDIF Out (Creative SB Audigy 4 (WDM))
+2/19 19:48:45.472   --- [4] Headphone (VIA HD Audio)
+2/19 19:48:45.472   --- [5] SPDIF Interface (TX1) (VIA HD Audio)
+2/19 19:48:45.472   --- [6] lðh (VIA HD Audio)
+2/19 19:48:45.472   --- [7] HD Audio HDMI out (VIA HD Audio)
+2/19 19:48:45.472  ** Using Driver [0] System Default (lðh (Creative SB Audigy 4 (WDM)))
+2/19 19:48:45.481   - DSPBufferSize = AUTO DETECT
+2/19 19:48:45.481   - Setting DSP Buffer Size
+2/19 19:48:45.481   - Using Control Panel Speaker Mode STEREO
+2/19 19:48:45.481   - Setting Software Format (44100, 2, 1).
+2/19 19:48:45.481   - Requested 64 channels.
+2/19 19:48:45.481   - Initializing Software Channels
+2/19 19:48:45.511   - Init FMOD Game System
+2/19 19:48:45.512   - Ok
+2/19 19:48:45.512   - Setting Rolloff Scale
+2/19 19:48:45.512   - Setting Rolloff Callback
+2/19 19:48:45.512   - SE3 EmitterManagerInit Success
+2/19 19:48:45.512   - Setting device callback
+2/19 19:48:45.512   - Sound Bus Init
+2/19 19:48:45.512   - Init Suppressors
+2/19 19:48:45.512   - SE3 Init Success.
+2/19 19:48:45.512  => SI3 Init Complete.
+2/19 19:48:45.512   
+2/19 20:35:26.777  => Requested 16384 bytes and read 0 -- success: 1
+2/19 20:35:26.777  => Requested 16384 bytes and read 0 -- success: 1
+2/19 20:35:27.246  => Requested 16384 bytes and read 0 -- success: 1
+2/19 20:35:27.246  => Requested 16384 bytes and read 0 -- success: 1
+2/19 20:48:52.025  => Requested 16384 bytes and read 0 -- success: 1
+2/19 20:48:52.025  => Requested 16384 bytes and read 0 -- success: 1
+2/19 20:49:00.631  => Requested 16384 bytes and read 0 -- success: 1
+2/19 20:49:00.631  => Requested 16384 bytes and read 0 -- success: 1
+2/19 21:38:26.643  => Requested 16384 bytes and read 0 -- success: 1
+2/19 21:38:26.643  => Requested 16384 bytes and read 0 -- success: 1
+2/19 22:07:08.788   
+2/19 22:07:08.788  => Shutting Down SI3
+2/19 22:07:08.868  => Shutting Down SI3 COMPLETE.
+2/19 22:07:08.868   
+2/19 22:07:08.868   - Shutting Down SE3
+2/19 22:07:09.069   - SE3 EmitterManagerShutdown Success
+2/19 22:07:09.069   - Shutting Down SE3 COMPLETE.

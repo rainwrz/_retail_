@@ -29,9 +29,9 @@ MapsterDB = {
 		["麝月 - 熊猫酒仙"] = "Default",
 		["烦躁啊 - 伊森利恩"] = "Default",
 		["风梧桐 - 熊猫酒仙"] = "Default",
-		["飘哥 - 熊猫酒仙"] = "Default",
-		["雪梧桐 - 熊猫酒仙"] = "Default",
 		["雾梧桐 - 熊猫酒仙"] = "Default",
+		["雪梧桐 - 熊猫酒仙"] = "Default",
+		["飘哥 - 熊猫酒仙"] = "Default",
 		["祈梧桐 - 熊猫酒仙"] = "Default",
 	},
 	["profiles"] = {

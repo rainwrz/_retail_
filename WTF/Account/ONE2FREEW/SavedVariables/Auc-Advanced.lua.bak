@@ -1,5 +1,6 @@
 
 AucAdvancedConfig = {
+	["version"] = 1,
 	["profile.Default"] = {
 		["configator.left"] = 650.256408691406,
 		["core"] = {
@@ -10,78 +11,77 @@ AucAdvancedConfig = {
 				},
 			},
 		},
-		["stat"] = {
-			["sales"] = {
-				["ignoredsigs"] = {
-				},
-				["upgraded32"] = true,
-			},
-		},
 		["util"] = {
 			["appraiser"] = {
 				["columnsortcurDir"] = -1,
 				["columnsortcurSort"] = 6,
 			},
-			["compactui"] = {
-				["priceperitem"] = true,
-			},
 			["automagic"] = {
 				["ammailguix"] = 160,
+				["uierrormsg"] = 1,
 				["SavedMailButtons"] = {
 				},
-				["uierrormsg"] = 1,
+			},
+			["compactui"] = {
+				["priceperitem"] = true,
 			},
 			["ahwindowcontrol"] = {
 				["ahframeanchors"] = "TOPLEFT:TOPLEFT:15.3:-99.6",
 			},
 		},
+		["stat"] = {
+			["sales"] = {
+				["upgraded32"] = true,
+				["ignoredsigs"] = {
+				},
+			},
+		},
 		["configator.top"] = 815.769226074219,
 	},
-	["version"] = 1,
 	["users.熊猫酒仙.霜梧桐"] = "Default",
 }
 AucAdvancedData = {
-	["Stats"] = {
-	},
 	["UtilSearchUiData"] = {
-		["Version"] = 1,
-		["Current"] = {
-			["snatch.itemsList"] = {
-			},
-		},
 		["Global"] = {
 			["configator.left"] = 600.25634765625,
 			["configator.top"] = 840.769287109375,
 		},
+		["Current"] = {
+			["snatch.itemsList"] = {
+			},
+		},
+		["Version"] = 1,
 		["SavedSearches"] = {
 		},
+	},
+	["Stats"] = {
 	},
 }
 AucAdvancedServers = {
 	["ConnectedRealmTables"] = {
 	},
 	["Version"] = 1,
-	["KnownServerKeys"] = {
-		["熊猫酒仙"] = 1550197659,
-		["伊森利恩"] = 1540918090,
+	["ConvertedServerKeys"] = {
+		["#伊森利恩"] = {
+			["reason"] = "NonConnectedFix",
+			["timestamp"] = 1540916906,
+			["new"] = "伊森利恩",
+			["old"] = "#伊森利恩",
+		},
+		["#熊猫酒仙"] = {
+			["reason"] = "NonConnectedFix",
+			["timestamp"] = 1493541287,
+			["new"] = "熊猫酒仙",
+			["old"] = "#熊猫酒仙",
+		},
 	},
 	["KnownRealms"] = {
 		["熊猫酒仙"] = "熊猫酒仙",
 		["伊森利恩"] = "伊森利恩",
 	},
 	["Timestamp"] = 1474122674,
-	["ConvertedServerKeys"] = {
-		["#熊猫酒仙"] = {
-			["old"] = "#熊猫酒仙",
-			["timestamp"] = 1493541287,
-			["new"] = "熊猫酒仙",
-			["reason"] = "NonConnectedFix",
-		},
-		["#伊森利恩"] = {
-			["old"] = "#伊森利恩",
-			["timestamp"] = 1540916906,
-			["new"] = "伊森利恩",
-			["reason"] = "NonConnectedFix",
-		},
+	["KnownServerKeys"] = {
+		["熊猫酒仙"] = 1550490314,
+		["伊森利恩"] = 1540918090,
 	},
 }

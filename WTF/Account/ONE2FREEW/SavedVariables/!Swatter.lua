@@ -9,63 +9,10 @@ SwatterData = {
 			["count"] = 1000,
 			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  ACU, v\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeritePowerWeights, v8.1.8\n  Bartender4, v4.8.2\n  BuyEmAll, v3.5.1\n  CompactRaid, v5.09\n  DBMCore, v@project-version@\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DBMVPYike, v20180902\n  DBMZuldazarRaid, v\n  Details, v\n  DetailsDataStorage, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsStreamer, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v4000\n  FreeMountCd, v\n  Gnosis, vr198\n  GottaGoFast, v31100\n  HandyNotes, vv1.5.4\n  HandyNotesBattleForAzerothTreasures, v1\n  HandyNotesHallowsEnd, vv1.4.3\n  HandyNotesWarfrontRares, v0.5.0\n  HPetBattleAny, v2.2.14\n  kSellGreyNRepair, v1.2\n  LibAuraTracker10, v1.0\n  Mapster, v1.8.1\n  MeetingStone, v80000.05\n  MethodDungeonTools, v2.2.22\n  MoveAnything, v17.0.3\n  Omen, v3.1.12\n  oRA3, vv8.1.1\n  Parrot, vv2.1.4\n  Prat30, vr1195      \n  Prat30Libraries, v\n  RangeDisplay, vv4.8.4\n  Rematch, v4.9.4\n  rLib, v\n  SavedInstances, v8.0.9\n  SexyMap, vv8.0.8\n  ShadowedUnitFrames, vv4.2.1\n  SimpleILevel, v3.3.10\n  SimpleILevelGroup, v3.3.10\n  SimpleILevelResilience, v3.3.10\n  SimpleILevelSocial, v3.3.10\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TargetNameplateIndicator, v1.13\n  TellMeWhen, v8.5.9\n  TidyPlatesThreatPlates, v9.1.1\n  TipTac, v18.08.20\n  TipTacItemRef, v18.08.12\n  TipTacTalents, v18.07.30\n  WeakAuras, v2.11.1\n  WorldQuestTracker, v\n  XLoot, v8.0-6\n  XLootFrame, v8.0-6\n  XLootGroup, v8.0-6\n  XLootMaster, v8.0-6\n  XLootMonitor, v8.0-6\n  BlizRuntimeLib_zhCN v8.1.0.80100 <none>\n  (ck=7bb)\n",
 			["locals"] = "(*temporary) = \"player\"\n(*temporary) = \"正义之怒\"\n(*temporary) = nil\n(*temporary) = 135962\n(*temporary) = 0\n(*temporary) = 0\n(*temporary) = 0\n(*temporary) = 25780\n",
-			["timestamp"] = "2019-01-28 20:18:45",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `UnitAura'\nInterface\\AddOns\\Omen\\Omen.lua:2017: in function `UpdateBarsReal'\nInterface\\AddOns\\Omen\\Omen.lua:1729: in function <Interface\\AddOns\\Omen\\Omen.lua:1727>\n",
-		}, -- [1]
-		{
-			["message"] = "...dOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:748: attempt to compare number with nil",
-			["count"] = 1,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  ACU, v\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeritePowerWeights, v8.1.8\n  Bartender4, v4.8.2\n  BuyEmAll, v3.5.1\n  CompactRaid, v5.09\n  DBMCore, v@project-version@\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DBMVPYike, v20180902\n  DBMZuldazarRaid, v\n  Details, v\n  DetailsDataStorage, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsStreamer, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v4000\n  FreeMountCd, v\n  Gnosis, vr198\n  GottaGoFast, v31100\n  HandyNotes, vv1.5.4\n  HandyNotesBattleForAzerothTreasures, v1\n  HandyNotesHallowsEnd, vv1.4.3\n  HandyNotesWarfrontRares, v0.5.0\n  HPetBattleAny, v2.2.14\n  kSellGreyNRepair, v1.2\n  LibAuraTracker10, v1.0\n  Mapster, v1.8.1\n  MeetingStone, v80000.05\n  MethodDungeonTools, v2.2.22\n  MoveAnything, v17.0.3\n  Omen, v3.1.12\n  oRA3, vv8.1.1\n  Parrot, vv2.1.4\n  Prat30, vr1195      \n  Prat30Libraries, v\n  RangeDisplay, vv4.8.4\n  Rematch, v4.9.4\n  rLib, v\n  SavedInstances, v8.0.9\n  SexyMap, vv8.0.8\n  ShadowedUnitFrames, vv4.2.1\n  SimpleILevel, v3.3.10\n  SimpleILevelGroup, v3.3.10\n  SimpleILevelResilience, v3.3.10\n  SimpleILevelSocial, v3.3.10\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TargetNameplateIndicator, v1.13\n  TellMeWhen, v8.5.9\n  TidyPlatesThreatPlates, v9.1.1\n  TipTac, v18.08.20\n  TipTacItemRef, v18.08.12\n  TipTacTalents, v18.07.30\n  WeakAuras, v2.11.1\n  WorldQuestTracker, v\n  XLoot, v8.0-6\n  XLootFrame, v8.0-6\n  XLootGroup, v8.0-6\n  XLootMaster, v8.0-6\n  XLootMonitor, v8.0-6\n  BlizRuntimeLib_zhCN v8.1.0.80100 <none>\n  (ck=7bb)\n",
-			["locals"] = "self = <table> {\n UpdateSettingsIconMode = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:1476\n GridNoCols = 5\n FilterEnemyDebuffsBySpell = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:454\n UpdateAuraInformationBarMode = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:1101\n WidgetHandler = <table> {\n }\n TEXTURE_BORDER = \"Interface\\AddOns\\TidyPlates_ThreatPlates\\Artwork\\squareline\"\n IconMode = true\n CreateAuraGrid = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:1203\n Create = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:1339\n UpdateAllFramesAndNameplateColor = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\WidgetHandler.lua:119\n IsEnabled = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:1377\n ANCHOR_POINT_SETPOINT = <table> {\n }\n FilterFriendlyCrowdControlBySpell = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:495\n GetColorForAura = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:390\n UpdateAllFrames = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\WidgetHandler.lua:108\n UpdatePositionAuraGrid = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:708\n UpdateAuraFrameBarMode = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:1025\n FilterFriendlyBuffsBySpell = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:464\n RegisterUnitEvent = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\WidgetHandler.lua:66\n UpdateWidgetTimeIconMode = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:966\n RegisterEvent = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\WidgetHandler.lua:57\n OnEnable = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:1382\n Name = \"Auras\"\n PRIORITY_FUNCTIONS = <table> {\n }\n UpdateWidgetTimeBarModeNoDuration = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:1175\n AuraWidgetWidth = 106.500000\n UpdateWidgetTimeBarMode = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:1139\n PLAYER_ENTERING_WORLD = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:1330\n UpdateUnitAuras = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:533\n UpdateAuraFrameIconMode = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:890\n UpdateAuraInformationIconMode = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:937\n OnUnitRemoved = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:1424\n FilterEnemyBuffsBySpell = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:475\n FilterFriendlyDebuffsBySpell = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:442\n CenterAurasPositions = <table> {\n }\n UpdateIconGrid = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:734\n CreateAuraFrameBarMode = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:989\n CreateAuraFrameIconMode = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:866\n AuraFilterBuffs = <table> {\n }\n AuraWidgetOffset = 2\n EnabledForStyle = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:1398\n AuraFilterCrowdControl = <table> {\n }\n AURA_TYPE = <table> {\n }\n UnitAuraList = <table> {\n }\n AuraFilterDebuffs = <table> {\n }\n AuraHeight = 22.500000\n AlignLayout = <table> {\n }\n UpdateWidgetTime = <function> defined @Interface\\AddOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:966\n AuraSortFuncti",
-			["timestamp"] = "2019-01-28 23:20:52",
-			["context"] = "Global",
-			["stack"] = "...dOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:748: in function `UpdateIconGrid'\n...dOns\\TidyPlates_ThreatPlates\\Widgets\\AurasWidget.lua:1311: in function `?'\n...ns\\TidyPlates_ThreatPlates\\Widgets\\WidgetHandler.lua:35: in function <...ns\\TidyPlates_ThreatPlates\\Widgets\\WidgetHandler.lua:29>\n",
-		}, -- [2]
-		{
-			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
-			["count"] = 1,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  ACU, v\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeritePowerWeights, v8.1.8\n  Bartender4, v4.8.2\n  BuyEmAll, v3.5.1\n  CompactRaid, v5.09\n  DBMCore, v@project-version@\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DBMVPYike, v20180902\n  Details, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsStreamer, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v4000\n  FreeMountCd, v\n  Gnosis, vr198\n  GottaGoFast, v31100\n  HandyNotes, vv1.5.4\n  HandyNotesBattleForAzerothTreasures, v1\n  HandyNotesHallowsEnd, vv1.4.3\n  HandyNotesWarfrontRares, v0.5.0\n  HPetBattleAny, v2.2.14\n  kSellGreyNRepair, v1.2\n  LibAuraTracker10, v1.0\n  Mapster, v1.8.1\n  MeetingStone, v80000.05\n  MethodDungeonTools, v2.2.22\n  MoveAnything, v17.0.3\n  Omen, v3.1.12\n  oRA3, vv8.1.1\n  Parrot, vv2.1.4\n  Prat30, vr1195      \n  Prat30Libraries, v\n  RangeDisplay, vv4.8.4\n  Rematch, v4.9.4\n  rLib, v\n  SavedInstances, v8.0.9\n  SexyMap, vv8.0.8\n  ShadowedUnitFrames, vv4.2.1\n  SimpleILevel, v3.3.10\n  SimpleILevelGroup, v3.3.10\n  SimpleILevelResilience, v3.3.10\n  SimpleILevelSocial, v3.3.10\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TargetNameplateIndicator, v1.13\n  TellMeWhen, v8.5.9\n  TidyPlatesThreatPlates, v9.1.1\n  TipTac, v18.08.20\n  TipTacItemRef, v18.08.12\n  TipTacTalents, v18.07.30\n  WeakAuras, v2.11.1\n  WorldQuestTracker, v\n  XLoot, v8.0-6\n  XLootFrame, v8.0-6\n  XLootGroup, v8.0-6\n  XLootMaster, v8.0-6\n  XLootMonitor, v8.0-6\n  BlizRuntimeLib_zhCN v8.1.0.80100 <none>\n  (ck=761)\n",
-			["timestamp"] = "2019-01-29 19:45:20",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [3]
-		{
-			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
-			["count"] = 28,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  ACU, v\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeritePowerWeights, v8.1.8\n  Bartender4, v4.8.2\n  BuyEmAll, v3.5.1\n  CompactRaid, v5.09\n  DBMCore, v@project-version@\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DBMVPYike, v20180902\n  Details, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsStreamer, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v4000\n  FreeMountCd, v\n  Gnosis, vr198\n  GottaGoFast, v31100\n  HandyNotes, vv1.5.4\n  HandyNotesBattleForAzerothTreasures, v1\n  HandyNotesHallowsEnd, vv1.4.3\n  HandyNotesWarfrontRares, v0.5.0\n  HPetBattleAny, v2.2.14\n  kSellGreyNRepair, v1.2\n  LibAuraTracker10, v1.0\n  Mapster, v1.8.1\n  MeetingStone, v80000.05\n  MethodDungeonTools, v2.2.22\n  MoveAnything, v17.0.3\n  Omen, v3.1.12\n  oRA3, vv8.1.1\n  Parrot, vv2.1.4\n  Prat30, vr1195      \n  Prat30Libraries, v\n  RangeDisplay, vv4.8.4\n  Rematch, v4.9.4\n  rLib, v\n  SavedInstances, v8.0.9\n  SexyMap, vv8.0.8\n  ShadowedUnitFrames, vv4.2.1\n  SimpleILevel, v3.3.10\n  SimpleILevelGroup, v3.3.10\n  SimpleILevelResilience, v3.3.10\n  SimpleILevelSocial, v3.3.10\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TargetNameplateIndicator, v1.13\n  TellMeWhen, v8.5.9\n  TidyPlatesThreatPlates, v9.1.1\n  TipTac, v18.08.20\n  TipTacItemRef, v18.08.12\n  TipTacTalents, v18.07.30\n  WeakAuras, v2.11.1\n  WorldQuestTracker, v\n  XLoot, v8.0-6\n  XLootFrame, v8.0-6\n  XLootGroup, v8.0-6\n  XLootMaster, v8.0-6\n  XLootMonitor, v8.0-6\n  BlizRuntimeLib_zhCN v8.1.0.80100 <none>\n  (ck=761)\n",
-			["locals"] = "unitFrame = CompactRaidGroupHeaderSubGroup1UnitButton1 {\n 0 = <userdata>\n GetUnitInfo = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1098\n debuffFrames = <table> {\n }\n flagIcon = CompactRaidGroupHeaderSubGroup1UnitButton1FlagIcon {\n }\n UpdateFlags = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:768\n raidIcon = CompactRaidGroupHeaderSubGroup1UnitButton1RaidIcon {\n }\n UpdateVehicleStatus = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:409\n shieldBar = CompactRaidGroupHeaderSubGroup1UnitButton1ShieldBar {\n }\n artFrame = CompactRaidGroupHeaderSubGroup1UnitButton1ArtFrame {\n }\n highlight = CompactRaidGroupHeaderSubGroup1UnitButton1Highlight {\n }\n UpdateHealthColor = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:441\n UpdateResurrect = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:672\n UpdatePowerType = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:468\n nameText = CompactRaidGroupHeaderSubGroup1UnitButton1NameText {\n }\n GetUnitFlag = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1102\n UpdateHealthMax = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:426\n dispelParent = CompactRaidGroupHeaderSubGroup1UnitButton1DispelParent {\n }\n UpdatePowerMax = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:501\n UpdateNameSize = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:532\n resIcon = CompactRaidGroupHeaderSubGroup1UnitButton1ResIcon {\n }\n UpdateDispels = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:275\n UpdateHealthText = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:571\n UpdateReadyCheck = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:620\n UpdateShieldAbsorbs = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:378\n UpdateDebuffs = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:211\n healthBarBackground = CompactRaidGroupHeaderSubGroup1UnitButton1HealthBarBackground {\n }\n background = CompactRaidGroupHeaderSubGroup1UnitButton1Background {\n }\n UpdateThreat = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:606\n UpdateHealthAbsorbs = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:387\n layerFrame = CompactRaidGroupHeaderSubGroup1UnitButton1LayerFrame {\n }\n UpdateHealth = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:435\n dispelFrames = <table> {\n }\n UpdateNameColor = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:521\n lootIcon = CompactRaidGroupHeaderSubGroup1UnitButton1LootIcon {\n }\n UpdateTarget = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:596\n aggroHighlight = CompactRaidGroupHeaderSubGroup1UnitButton1AggroHighlight {\n }\n dispelable = <table> {\n }\n GetRaidIconStatus = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1114\n selectionHighlight = CompactRaidGroupHeaderSubGroup1UnitButton1SelectionHighlight {\n }\n IsInRange = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1106\n healthText = CompactRaidGroupHeaderSubGroup1UnitButton1StatusText {\n }\n overShieldGlow = CompactRaidGroupHeaderSubGroup1UnitButton1overShieldGlow {\n }\n GetPrivilege = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1118\n absorbsBar = CompactRaidGroupHeaderSubGroup1UnitButton1AbsorbsBar {\n }\n GetRoleIconStatus = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1110\n _compactRaidSubGroupSwap = 0\n debuffParent = CompactRaidGroupHeaderSubGroup1UnitButton1DeBuffParent {\n }\n UpdateRole = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:308\n statusText = CompactRaidGroupHeaderSubGroup1UnitButton1StatusText {\n }\n UpdateHealthPrediction = <function> defined @Interface\\AddOns\\CompactRaid\\U",
-			["timestamp"] = "2019-01-29 19:45:25",
-			["context"] = "Global",
-			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:399: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [4]
-		{
-			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
-			["count"] = 1000,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  ACU, v\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeritePowerWeights, v8.1.8\n  Bartender4, v4.8.2\n  BuyEmAll, v3.5.1\n  CompactRaid, v5.09\n  DBMCore, v@project-version@\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DBMVPYike, v20180902\n  Details, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsStreamer, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v4000\n  FreeMountCd, v\n  Gnosis, vr198\n  GottaGoFast, v31100\n  HandyNotes, vv1.5.4\n  HandyNotesBattleForAzerothTreasures, v1\n  HandyNotesHallowsEnd, vv1.4.3\n  HandyNotesWarfrontRares, v0.5.0\n  HPetBattleAny, v2.2.14\n  kSellGreyNRepair, v1.2\n  LibAuraTracker10, v1.0\n  Mapster, v1.8.1\n  MeetingStone, v80000.05\n  MethodDungeonTools, v2.2.22\n  MoveAnything, v17.0.3\n  Omen, v3.1.12\n  oRA3, vv8.1.1\n  Parrot, vv2.1.4\n  Prat30, vr1195      \n  Prat30Libraries, v\n  RangeDisplay, vv4.8.4\n  Rematch, v4.9.4\n  rLib, v\n  SavedInstances, v8.0.9\n  SexyMap, vv8.0.8\n  ShadowedUnitFrames, vv4.2.1\n  SimpleILevel, v3.3.10\n  SimpleILevelGroup, v3.3.10\n  SimpleILevelResilience, v3.3.10\n  SimpleILevelSocial, v3.3.10\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TargetNameplateIndicator, v1.13\n  TellMeWhen, v8.5.9\n  TidyPlatesThreatPlates, v9.1.1\n  TipTac, v18.08.20\n  TipTacItemRef, v18.08.12\n  TipTacTalents, v18.07.30\n  WeakAuras, v2.11.1\n  WorldQuestTracker, v\n  XLoot, v8.0-6\n  XLootFrame, v8.0-6\n  XLootGroup, v8.0-6\n  XLootMaster, v8.0-6\n  XLootMonitor, v8.0-6\n  BlizRuntimeLib_zhCN v8.1.0.80100 <none>\n  (ck=78e)\n",
-			["locals"] = "self = <table> {\n optionPage = CompactRaidOptionFrame_UserPage_5 {\n }\n OnTick = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Overrides\\Core.lua:54\n ApplyCustomDebuffs = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:340\n RegisterTick = <function> defined @Interface\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:403\n GetInstanceName = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:173\n FindTopDebuff = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:69\n desc = \"设置团队减益的显示优先级，优先级较高的将会遮挡住较低的。这些设置作用于全账号。\"\n FindVisual = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:28\n title = \"团队减益显示\"\n InitOptions = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\OptionFrame.lua:270\n IsEnabled = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:133\n GetNumTiers = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:52\n ShowVisuals = <function> defined =[C]:-1\n SetInterval = <function> defined @Interface\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:393\n GetActiveDebuffs = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:27\n GetDefaultDB = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:21\n EnumUnitFrames = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:124\n SetOverrideDebuff = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Overrides\\Core.lua:19\n ZONE_CHANGED_NEW_AREA = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:64\n {62B10A9A-6AF5-40EF-93F6-D7271489AA66} = <table> {\n }\n FindUnitFrame = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:24\n IsSpecsSynced = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:92\n OnEnable = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:53\n RegisterAllEvents = <function> defined @Interface\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:385\n OnInitialize = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:31\n UnregisterAllEvents = <function> defined @Interface\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:389\n EnumVisuals = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:35\n ApplyUserLevels = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:270\n DeleteCustomDebuff = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:318\n UnsyncSpecs = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:112\n UnregisterTick = <function> defined @Interface\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:408\n OnRestoreDefaults = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:40\n name = \"RaidDebuff\"\n GetZoneDebuffs = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:298\n OnUnitChange = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:46\n db = <table> {\n }\n INSTANCE_ENCOUNTER_ENGAGE_UNIT = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Overrides\\Core.lua:86\n GetOverrideDebuff = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Overrides\\Core.lua:46\n GetTierName = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:56\n Enable = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:143\n Print = <function> defined @Interface\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:225\n IsEventRegistered = <function> defined @Interface\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:381\n EnumDebuffs = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:140\n key = \"RaidDebuff\"\n InitAPI = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:462\n ClearCustomDebuffs = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:359\n",
-			["timestamp"] = "2019-01-29 19:46:12",
-			["context"] = "Global",
-			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureGroupHeaders.lua:216: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [5]
-		{
-			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
-			["count"] = 1,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  ACU, v\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeritePowerWeights, v8.1.8\n  Bartender4, v4.8.2\n  BuyEmAll, v3.5.1\n  CompactRaid, v5.09\n  DBMCore, v@project-version@\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DBMVPYike, v20180902\n  Details, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsStreamer, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v4000\n  FreeMountCd, v\n  Gnosis, vr198\n  GottaGoFast, v31100\n  HandyNotes, vv1.5.4\n  HandyNotesBattleForAzerothTreasures, v1\n  HandyNotesHallowsEnd, vv1.4.3\n  HandyNotesWarfrontRares, v0.5.0\n  HPetBattleAny, v2.2.14\n  kSellGreyNRepair, v1.2\n  LibAuraTracker10, v1.0\n  Mapster, v1.8.1\n  MeetingStone, v80000.05\n  MethodDungeonTools, v2.2.22\n  MoveAnything, v17.0.3\n  Omen, v3.1.12\n  oRA3, vv8.1.1\n  Parrot, vv2.1.4\n  Prat30, vr1195      \n  Prat30Libraries, v\n  RangeDisplay, vv4.8.4\n  Rematch, v4.9.4\n  rLib, v\n  SavedInstances, v8.0.9\n  SexyMap, vv8.0.8\n  ShadowedUnitFrames, vv4.2.1\n  SimpleILevel, v3.3.10\n  SimpleILevelGroup, v3.3.10\n  SimpleILevelResilience, v3.3.10\n  SimpleILevelSocial, v3.3.10\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TargetNameplateIndicator, v1.13\n  TellMeWhen, v8.5.9\n  TidyPlatesThreatPlates, v9.1.1\n  TipTac, v18.08.20\n  TipTacItemRef, v18.08.12\n  TipTacTalents, v18.07.30\n  WeakAuras, v2.11.1\n  WorldQuestTracker, v\n  XLoot, v8.0-6\n  XLootFrame, v8.0-6\n  XLootGroup, v8.0-6\n  XLootMaster, v8.0-6\n  XLootMonitor, v8.0-6\n  BlizRuntimeLib_zhCN v8.1.0.80100 <none>\n  (ck=78e)\n",
-			["locals"] = "(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"TOPLEFT\"\n(*temporary) = GuildControlUIRankSettingsFrameBankBg {\n 0 = <userdata>\n}\n(*temporary) = 7\n(*temporary) = -4\n(*temporary) = \"attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)\"\n",
-			["timestamp"] = "2019-01-29 19:53:14",
-			["context"] = "Global",
-			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [6]
-		{
-			["message"] = "Interface\\AddOns\\Omen\\Omen.lua:2017: Usage: UnitAura(\"unit\", [index][, \"filter\"])",
-			["count"] = 1000,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  ACU, v\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeritePowerWeights, v8.1.8\n  Bartender4, v4.8.2\n  BuyEmAll, v3.5.1\n  CompactRaid, v5.09\n  DBMCore, v@project-version@\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DBMVPYike, v20180902\n  DBMZuldazarRaid, v\n  Details, v\n  DetailsDataStorage, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsStreamer, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v4000\n  FreeMountCd, v\n  Gnosis, vr198\n  GottaGoFast, v31100\n  HandyNotes, vv1.5.4\n  HandyNotesBattleForAzerothTreasures, v1\n  HandyNotesHallowsEnd, vv1.4.3\n  HandyNotesWarfrontRares, v0.5.0\n  HPetBattleAny, v2.2.14\n  kSellGreyNRepair, v1.2\n  LibAuraTracker10, v1.0\n  Mapster, v1.8.1\n  MeetingStone, v80000.05\n  MethodDungeonTools, v2.2.22\n  MoveAnything, v17.0.3\n  Omen, v3.1.12\n  oRA3, vv8.1.1\n  Parrot, vv2.1.4\n  Prat30, vr1195      \n  Prat30Libraries, v\n  RangeDisplay, vv4.8.4\n  Rematch, v4.9.4\n  rLib, v\n  SavedInstances, v8.0.9\n  SexyMap, vv8.0.8\n  ShadowedUnitFrames, vv4.2.1\n  SimpleILevel, v3.3.10\n  SimpleILevelGroup, v3.3.10\n  SimpleILevelResilience, v3.3.10\n  SimpleILevelSocial, v3.3.10\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TargetNameplateIndicator, v1.13\n  TellMeWhen, v8.5.9\n  TidyPlatesThreatPlates, v9.1.1\n  TipTac, v18.08.20\n  TipTacItemRef, v18.08.12\n  TipTacTalents, v18.07.30\n  WeakAuras, v2.11.1\n  WorldQuestTracker, v\n  XLoot, v8.0-6\n  XLootFrame, v8.0-6\n  XLootGroup, v8.0-6\n  XLootMaster, v8.0-6\n  XLootMonitor, v8.0-6\n  BlizRuntimeLib_zhCN v8.1.0.80100 <none>\n  (ck=7bb)\n",
-			["locals"] = "(*temporary) = \"player\"\n(*temporary) = \"正义之怒\"\n(*temporary) = nil\n(*temporary) = 135962\n(*temporary) = 0\n(*temporary) = 0\n(*temporary) = 0\n(*temporary) = 25780\n",
 			["timestamp"] = "2019-01-29 19:58:22",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitAura'\nInterface\\AddOns\\Omen\\Omen.lua:2017: in function `UpdateBarsReal'\nInterface\\AddOns\\Omen\\Omen.lua:1729: in function <Interface\\AddOns\\Omen\\Omen.lua:1727>\n",
-		}, -- [7]
+		}, -- [1]
 		{
 			["message"] = "Note: AddOn CompactRaid attempted to call a protected function (UNKNOWN()) during combat lockdown.",
 			["count"] = 4,
@@ -73,7 +20,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-29 19:59:07",
 			["context"] = "AddOn: CompactRaid",
 			["stack"] = "[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [8]
+		}, -- [2]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -81,7 +28,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 10:03:35",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [9]
+		}, -- [3]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 40,
@@ -90,7 +37,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 10:06:24",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [10]
+		}, -- [4]
 		{
 			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
 			["count"] = 1000,
@@ -99,7 +46,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 10:06:24",
 			["context"] = "Global",
 			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [11]
+		}, -- [5]
 		{
 			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
 			["count"] = 1,
@@ -108,7 +55,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 10:09:24",
 			["context"] = "Global",
 			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [12]
+		}, -- [6]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -116,7 +63,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 12:44:27",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [13]
+		}, -- [7]
 		{
 			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
 			["count"] = 1,
@@ -125,7 +72,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 13:10:07",
 			["context"] = "Global",
 			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [14]
+		}, -- [8]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -133,7 +80,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 19:47:21",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [15]
+		}, -- [9]
 		{
 			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
 			["count"] = 1,
@@ -142,7 +89,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 19:50:24",
 			["context"] = "Global",
 			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [16]
+		}, -- [10]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -150,7 +97,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 19:51:14",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [17]
+		}, -- [11]
 		{
 			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
 			["count"] = 1,
@@ -159,7 +106,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 19:51:42",
 			["context"] = "Global",
 			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [18]
+		}, -- [12]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 40,
@@ -168,7 +115,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 19:52:22",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [19]
+		}, -- [13]
 		{
 			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
 			["count"] = 1000,
@@ -177,7 +124,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 19:52:22",
 			["context"] = "Global",
 			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [20]
+		}, -- [14]
 		{
 			["message"] = "Note: AddOn CompactRaid attempted to call a protected function (UNKNOWN()) during combat lockdown.",
 			["count"] = 16,
@@ -185,7 +132,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 19:52:34",
 			["context"] = "AddOn: CompactRaid",
 			["stack"] = "[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [21]
+		}, -- [15]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -193,7 +140,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 19:55:51",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [22]
+		}, -- [16]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 40,
@@ -202,7 +149,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 19:57:04",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [23]
+		}, -- [17]
 		{
 			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
 			["count"] = 1000,
@@ -211,7 +158,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 19:57:04",
 			["context"] = "Global",
 			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [24]
+		}, -- [18]
 		{
 			["message"] = "Note: AddOn CompactRaid attempted to call a protected function (UNKNOWN()) during combat lockdown.",
 			["count"] = 7,
@@ -219,7 +166,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 19:57:13",
 			["context"] = "AddOn: CompactRaid",
 			["stack"] = "[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [25]
+		}, -- [19]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -227,7 +174,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 20:00:00",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [26]
+		}, -- [20]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 24,
@@ -236,7 +183,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 20:00:14",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:399: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [27]
+		}, -- [21]
 		{
 			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
 			["count"] = 1000,
@@ -245,7 +192,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 20:00:35",
 			["context"] = "Global",
 			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureGroupHeaders.lua:216: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [28]
+		}, -- [22]
 		{
 			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
 			["count"] = 1,
@@ -254,7 +201,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 20:01:46",
 			["context"] = "Global",
 			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [29]
+		}, -- [23]
 		{
 			["message"] = "Interface\\AddOns\\Omen\\Omen.lua:2017: Usage: UnitAura(\"unit\", [index][, \"filter\"])",
 			["count"] = 34,
@@ -263,7 +210,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 20:16:09",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitAura'\nInterface\\AddOns\\Omen\\Omen.lua:2017: in function `UpdateBarsReal'\nInterface\\AddOns\\Omen\\Omen.lua:1729: in function <Interface\\AddOns\\Omen\\Omen.lua:1727>\n",
-		}, -- [30]
+		}, -- [24]
 		{
 			["message"] = "Interface\\AddOns\\MeetingStone\\Module\\MainPanel.lua:98: attempt to index field 'NewVersion' (a nil value)",
 			["count"] = 1,
@@ -271,7 +218,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 21:05:08",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\MeetingStone\\Module\\MainPanel.lua:98: in function <Interface\\AddOns\\MeetingStone\\Module\\MainPanel.lua:96>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...\\AddOns\\MeetingStone\\Libs\\LibClass-2.0\\Class-2.0.lua:156: in function `Fire'\n...s\\MeetingStone\\Libs\\NetEaseGUI-2.0\\Embed\\Blocker.lua:43: in function `UpdateBlockers'\nInterface\\AddOns\\MeetingStone\\Module\\MainPanel.lua:23: in function <Interface\\AddOns\\MeetingStone\\Module\\MainPanel.lua:21>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2635: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2544: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2348: in function <Interface\\FrameXML\\UIParent.lua:2344>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:3176: in function <Interface\\FrameXML\\UIParent.lua:3164>\n[C]: in function `ShowUIPanel'\n...ns\\MeetingStone\\Libs\\LibModule-1.0\\LibModule-1.0.lua:131: in function `ShowModule'\nInterface\\AddOns\\MeetingStone\\Main.lua:86: in function `Toggle'\nInterface\\AddOns\\MeetingStone\\Main.lua:13: in function <Interface\\AddOns\\MeetingStone\\Main.lua:11>\n(tail call): ?\n[C]: in function `LFGListUtil_OpenBestWindow'\nInterface\\FrameXML\\QueueStatusFrame.lua:31: in function <Interface\\FrameXML\\QueueStatusFrame.lua:20>\n",
-		}, -- [31]
+		}, -- [25]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -279,7 +226,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 21:11:15",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [32]
+		}, -- [26]
 		{
 			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
 			["count"] = 1,
@@ -288,7 +235,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 21:11:37",
 			["context"] = "Global",
 			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [33]
+		}, -- [27]
 		{
 			["message"] = "Interface\\AddOns\\Omen\\Omen.lua:2017: Usage: UnitAura(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -297,7 +244,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 21:18:36",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitAura'\nInterface\\AddOns\\Omen\\Omen.lua:2017: in function `UpdateBarsReal'\nInterface\\AddOns\\Omen\\Omen.lua:1729: in function <Interface\\AddOns\\Omen\\Omen.lua:1727>\n",
-		}, -- [34]
+		}, -- [28]
 		{
 			["message"] = "Interface\\AddOns\\MeetingStone\\Module\\MainPanel.lua:98: attempt to index field 'NewVersion' (a nil value)",
 			["count"] = 1,
@@ -305,7 +252,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-30 21:23:10",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\MeetingStone\\Module\\MainPanel.lua:98: in function <Interface\\AddOns\\MeetingStone\\Module\\MainPanel.lua:96>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...\\AddOns\\MeetingStone\\Libs\\LibClass-2.0\\Class-2.0.lua:156: in function `Fire'\n...s\\MeetingStone\\Libs\\NetEaseGUI-2.0\\Embed\\Blocker.lua:43: in function `UpdateBlockers'\nInterface\\AddOns\\MeetingStone\\Module\\MainPanel.lua:23: in function <Interface\\AddOns\\MeetingStone\\Module\\MainPanel.lua:21>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2635: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2480: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2348: in function <Interface\\FrameXML\\UIParent.lua:2344>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:3176: in function <Interface\\FrameXML\\UIParent.lua:3164>\n[C]: in function `ShowUIPanel'\n...ns\\MeetingStone\\Libs\\LibModule-1.0\\LibModule-1.0.lua:131: in function `ShowModule'\nInterface\\AddOns\\MeetingStone\\Main.lua:86: in function `Toggle'\nInterface\\AddOns\\MeetingStone\\Main.lua:13: in function <Interface\\AddOns\\MeetingStone\\Main.lua:11>\n(tail call): ?\n[C]: in function `LFGListUtil_OpenBestWindow'\nInterface\\FrameXML\\QueueStatusFrame.lua:31: in function <Interface\\FrameXML\\QueueStatusFrame.lua:20>\n",
-		}, -- [35]
+		}, -- [29]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -313,7 +260,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 00:07:21",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [36]
+		}, -- [30]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 8,
@@ -322,7 +269,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 00:07:57",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:399: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [37]
+		}, -- [31]
 		{
 			["message"] = "Interface\\AddOns\\Omen\\Omen.lua:2018: Usage: UnitAura(\"unit\", [index][, \"filter\"])",
 			["count"] = 36,
@@ -331,7 +278,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 00:18:52",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitAura'\nInterface\\AddOns\\Omen\\Omen.lua:2018: in function `UpdateBarsReal'\nInterface\\AddOns\\Omen\\Omen.lua:1729: in function <Interface\\AddOns\\Omen\\Omen.lua:1727>\n",
-		}, -- [38]
+		}, -- [32]
 		{
 			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
 			["count"] = 1,
@@ -340,7 +287,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 00:51:12",
 			["context"] = "Global",
 			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [39]
+		}, -- [33]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -348,7 +295,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 19:42:04",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [40]
+		}, -- [34]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -356,7 +303,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 19:43:51",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [41]
+		}, -- [35]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 32,
@@ -365,7 +312,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 19:43:55",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:399: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [42]
+		}, -- [36]
 		{
 			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
 			["count"] = 1000,
@@ -374,7 +321,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 19:44:52",
 			["context"] = "Global",
 			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureGroupHeaders.lua:216: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [43]
+		}, -- [37]
 		{
 			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
 			["count"] = 1,
@@ -383,7 +330,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 19:46:12",
 			["context"] = "Global",
 			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [44]
+		}, -- [38]
 		{
 			["message"] = "Note: AddOn CompactRaid attempted to call a protected function (UNKNOWN()) during combat lockdown.",
 			["count"] = 2,
@@ -391,7 +338,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 19:52:00",
 			["context"] = "AddOn: CompactRaid",
 			["stack"] = "[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [45]
+		}, -- [39]
 		{
 			["message"] = "Interface\\AddOns\\Omen\\Omen.lua:2017: Usage: UnitAura(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -400,7 +347,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 19:52:06",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitAura'\nInterface\\AddOns\\Omen\\Omen.lua:2017: in function `UpdateBarsReal'\nInterface\\AddOns\\Omen\\Omen.lua:1729: in function <Interface\\AddOns\\Omen\\Omen.lua:1727>\n",
-		}, -- [46]
+		}, -- [40]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -408,7 +355,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 21:56:10",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [47]
+		}, -- [41]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 32,
@@ -417,7 +364,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 21:56:15",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [48]
+		}, -- [42]
 		{
 			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
 			["count"] = 1000,
@@ -426,7 +373,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 21:56:15",
 			["context"] = "Global",
 			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [49]
+		}, -- [43]
 		{
 			["message"] = "Interface\\AddOns\\Omen\\Omen.lua:2017: Usage: UnitAura(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -435,7 +382,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 22:01:56",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitAura'\nInterface\\AddOns\\Omen\\Omen.lua:2017: in function `UpdateBarsReal'\nInterface\\AddOns\\Omen\\Omen.lua:1729: in function <Interface\\AddOns\\Omen\\Omen.lua:1727>\n",
-		}, -- [50]
+		}, -- [44]
 		{
 			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
 			["count"] = 1,
@@ -444,7 +391,7 @@ SwatterData = {
 			["timestamp"] = "2019-01-31 22:22:03",
 			["context"] = "Global",
 			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [51]
+		}, -- [45]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -452,7 +399,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-01 00:46:24",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [52]
+		}, -- [46]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -460,7 +407,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-01 00:47:59",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [53]
+		}, -- [47]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -468,7 +415,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-01 00:48:26",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [54]
+		}, -- [48]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 40,
@@ -477,7 +424,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-01 00:49:43",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [55]
+		}, -- [49]
 		{
 			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
 			["count"] = 1000,
@@ -486,7 +433,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-01 00:49:43",
 			["context"] = "Global",
 			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [56]
+		}, -- [50]
 		{
 			["message"] = "Note: AddOn CompactRaid attempted to call a protected function (UNKNOWN()) during combat lockdown.",
 			["count"] = 16,
@@ -494,7 +441,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-01 00:50:14",
 			["context"] = "AddOn: CompactRaid",
 			["stack"] = "[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [57]
+		}, -- [51]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -502,7 +449,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-01 00:53:01",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [58]
+		}, -- [52]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 40,
@@ -511,7 +458,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-01 00:54:45",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [59]
+		}, -- [53]
 		{
 			["message"] = "...dOns\\CompactRaid\\Modules\\CornerIndicators\\Visual.lua:248: attempt to index a nil value",
 			["count"] = 105,
@@ -520,7 +467,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-01 00:54:45",
 			["context"] = "Global",
 			["stack"] = "...dOns\\CompactRaid\\Modules\\CornerIndicators\\Visual.lua:248: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:337: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:308>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:862: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [60]
+		}, -- [54]
 		{
 			["message"] = "...AddOns\\CompactRaid\\Modules\\CornerIndicators\\Core.lua:68: attempt to index local 'visual' (a nil value)",
 			["count"] = 1000,
@@ -529,7 +476,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-01 00:54:45",
 			["context"] = "Global",
 			["stack"] = "...AddOns\\CompactRaid\\Modules\\CornerIndicators\\Core.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:825: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:813>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:974: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:962>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:989: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:986>\n",
-		}, -- [61]
+		}, -- [55]
 		{
 			["message"] = "...AddOns\\CompactRaid\\Modules\\CornerIndicators\\Core.lua:53: attempt to index local 'visual' (a nil value)",
 			["count"] = 1000,
@@ -538,7 +485,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-01 00:54:45",
 			["context"] = "Global",
 			["stack"] = "...AddOns\\CompactRaid\\Modules\\CornerIndicators\\Core.lua:53: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\n...nterface\\AddOns\\CompactRaid\\UnitFrames\\Container.lua:194: in function <...nterface\\AddOns\\CompactRaid\\UnitFrames\\Container.lua:187>\n",
-		}, -- [62]
+		}, -- [56]
 		{
 			["message"] = "Note: AddOn CompactRaid attempted to call a protected function (UNKNOWN()) during combat lockdown.",
 			["count"] = 13,
@@ -546,7 +493,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-01 00:55:34",
 			["context"] = "AddOn: CompactRaid",
 			["stack"] = "[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [63]
+		}, -- [57]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -554,7 +501,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-02 00:39:06",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [64]
+		}, -- [58]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -562,7 +509,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-11 19:45:23",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [65]
+		}, -- [59]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 36,
@@ -571,7 +518,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-11 19:45:32",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:399: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [66]
+		}, -- [60]
 		{
 			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
 			["count"] = 1000,
@@ -580,7 +527,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-11 19:46:03",
 			["context"] = "Global",
 			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureGroupHeaders.lua:216: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [67]
+		}, -- [61]
 		{
 			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
 			["count"] = 1,
@@ -589,7 +536,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-11 19:47:32",
 			["context"] = "Global",
 			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [68]
+		}, -- [62]
 		{
 			["message"] = "Note: AddOn CompactRaid attempted to call a protected function (UNKNOWN()) during combat lockdown.",
 			["count"] = 2,
@@ -597,7 +544,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-11 19:54:54",
 			["context"] = "AddOn: CompactRaid",
 			["stack"] = "[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [69]
+		}, -- [63]
 		{
 			["message"] = "Interface\\AddOns\\Omen\\Omen.lua:2017: Usage: UnitAura(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -606,7 +553,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-11 19:55:03",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitAura'\nInterface\\AddOns\\Omen\\Omen.lua:2017: in function `UpdateBarsReal'\nInterface\\AddOns\\Omen\\Omen.lua:1729: in function <Interface\\AddOns\\Omen\\Omen.lua:1727>\n",
-		}, -- [70]
+		}, -- [64]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -614,7 +561,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-12 10:15:51",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [71]
+		}, -- [65]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 24,
@@ -623,7 +570,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-12 10:18:22",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [72]
+		}, -- [66]
 		{
 			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
 			["count"] = 143,
@@ -632,7 +579,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-12 10:18:22",
 			["context"] = "Global",
 			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [73]
+		}, -- [67]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -640,7 +587,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-12 11:09:09",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [74]
+		}, -- [68]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 24,
@@ -649,7 +596,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-12 11:10:59",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [75]
+		}, -- [69]
 		{
 			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
 			["count"] = 1000,
@@ -658,7 +605,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-12 11:10:59",
 			["context"] = "Global",
 			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [76]
+		}, -- [70]
 		{
 			["message"] = "Interface\\AddOns\\Omen\\Omen.lua:2017: Usage: UnitAura(\"unit\", [index][, \"filter\"])",
 			["count"] = 109,
@@ -667,7 +614,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-12 11:13:00",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitAura'\nInterface\\AddOns\\Omen\\Omen.lua:2017: in function `UpdateBarsReal'\nInterface\\AddOns\\Omen\\Omen.lua:1729: in function <Interface\\AddOns\\Omen\\Omen.lua:1727>\n",
-		}, -- [77]
+		}, -- [71]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -675,7 +622,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-12 11:41:13",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [78]
+		}, -- [72]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -683,7 +630,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-12 19:46:14",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [79]
+		}, -- [73]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 35,
@@ -692,7 +639,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-12 19:46:59",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:399: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [80]
+		}, -- [74]
 		{
 			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
 			["count"] = 1000,
@@ -701,7 +648,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-12 19:47:32",
 			["context"] = "Global",
 			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureGroupHeaders.lua:216: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [81]
+		}, -- [75]
 		{
 			["message"] = "Interface\\AddOns\\Omen\\Omen.lua:2017: Usage: UnitAura(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -710,7 +657,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-12 20:02:41",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitAura'\nInterface\\AddOns\\Omen\\Omen.lua:2017: in function `UpdateBarsReal'\nInterface\\AddOns\\Omen\\Omen.lua:1729: in function <Interface\\AddOns\\Omen\\Omen.lua:1727>\n",
-		}, -- [82]
+		}, -- [76]
 		{
 			["message"] = "Note: AddOn CompactRaid attempted to call a protected function (UNKNOWN()) during combat lockdown.",
 			["count"] = 1,
@@ -718,7 +665,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-12 20:26:00",
 			["context"] = "AddOn: CompactRaid",
 			["stack"] = "[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [83]
+		}, -- [77]
 		{
 			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
 			["count"] = 1,
@@ -727,7 +674,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-12 23:17:58",
 			["context"] = "Global",
 			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [84]
+		}, -- [78]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -735,7 +682,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-13 20:00:58",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [85]
+		}, -- [79]
 		{
 			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
 			["count"] = 1,
@@ -744,7 +691,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-13 20:01:10",
 			["context"] = "Global",
 			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [86]
+		}, -- [80]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 33,
@@ -753,7 +700,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-13 20:01:23",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:399: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [87]
+		}, -- [81]
 		{
 			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
 			["count"] = 1000,
@@ -762,7 +709,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-13 20:02:01",
 			["context"] = "Global",
 			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureGroupHeaders.lua:216: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [88]
+		}, -- [82]
 		{
 			["message"] = "Interface\\AddOns\\Omen\\Omen.lua:2017: Usage: UnitAura(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -771,7 +718,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-13 20:28:01",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitAura'\nInterface\\AddOns\\Omen\\Omen.lua:2017: in function `UpdateBarsReal'\nInterface\\AddOns\\Omen\\Omen.lua:1729: in function <Interface\\AddOns\\Omen\\Omen.lua:1727>\n",
-		}, -- [89]
+		}, -- [83]
 		{
 			["message"] = "Note: AddOn CompactRaid attempted to call a protected function (UNKNOWN()) during combat lockdown.",
 			["count"] = 1,
@@ -779,7 +726,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-13 21:16:26",
 			["context"] = "AddOn: CompactRaid",
 			["stack"] = "[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [90]
+		}, -- [84]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -787,7 +734,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-13 22:49:41",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [91]
+		}, -- [85]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 32,
@@ -796,7 +743,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-13 22:49:45",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [92]
+		}, -- [86]
 		{
 			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
 			["count"] = 1000,
@@ -805,7 +752,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-13 22:49:45",
 			["context"] = "Global",
 			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [93]
+		}, -- [87]
 		{
 			["message"] = "Interface\\AddOns\\Omen\\Omen.lua:2017: Usage: UnitAura(\"unit\", [index][, \"filter\"])",
 			["count"] = 920,
@@ -814,7 +761,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-13 22:53:50",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitAura'\nInterface\\AddOns\\Omen\\Omen.lua:2017: in function `UpdateBarsReal'\nInterface\\AddOns\\Omen\\Omen.lua:1729: in function <Interface\\AddOns\\Omen\\Omen.lua:1727>\n",
-		}, -- [94]
+		}, -- [88]
 		{
 			["message"] = "Interface\\AddOns\\Prat-3.0\\modules\\Achievements.lua:932: Usage: GetPlayerInfoByGUID(\"playerGUID\")",
 			["count"] = 2,
@@ -823,7 +770,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-13 23:54:50",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `GetPlayerInfoByGUID'\nInterface\\AddOns\\Prat-3.0\\modules\\Achievements.lua:932: in function <Interface\\AddOns\\Prat-3.0\\modules\\Achievements.lua:921>\n[C]: in function `gsub'\nInterface\\AddOns\\Prat-3.0\\services\\patterns.lua:159: in function `MatchPatterns'\nInterface\\AddOns\\Prat-3.0\\addon\\addon.lua:639: in function <Interface\\AddOns\\Prat-3.0\\addon\\addon.lua:565>\n(tail call): ?\nInterface\\FrameXML\\ChatFrame.lua:2909: in function `ChatFrame_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [95]
+		}, -- [89]
 		{
 			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
 			["count"] = 1,
@@ -832,7 +779,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-13 23:55:38",
 			["context"] = "Global",
 			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [96]
+		}, -- [90]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -840,7 +787,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-14 10:29:05",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [97]
+		}, -- [91]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -848,7 +795,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-15 10:27:38",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [98]
+		}, -- [92]
 		{
 			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
 			["count"] = 1,
@@ -857,7 +804,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-15 10:27:47",
 			["context"] = "Global",
 			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [99]
+		}, -- [93]
 		{
 			["message"] = "Interface\\AddOns\\MeetingStone\\Module\\MainPanel.lua:98: attempt to index field 'NewVersion' (a nil value)",
 			["count"] = 1,
@@ -865,7 +812,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-15 10:28:49",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\MeetingStone\\Module\\MainPanel.lua:98: in function <Interface\\AddOns\\MeetingStone\\Module\\MainPanel.lua:96>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...\\AddOns\\MeetingStone\\Libs\\LibClass-2.0\\Class-2.0.lua:156: in function `Fire'\n...s\\MeetingStone\\Libs\\NetEaseGUI-2.0\\Embed\\Blocker.lua:43: in function `UpdateBlockers'\nInterface\\AddOns\\MeetingStone\\Module\\MainPanel.lua:23: in function <Interface\\AddOns\\MeetingStone\\Module\\MainPanel.lua:21>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2635: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2480: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2348: in function <Interface\\FrameXML\\UIParent.lua:2344>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:3176: in function <Interface\\FrameXML\\UIParent.lua:3164>\n[C]: in function `ShowUIPanel'\n...ns\\MeetingStone\\Libs\\LibModule-1.0\\LibModule-1.0.lua:131: in function `ShowModule'\nInterface\\AddOns\\MeetingStone\\Main.lua:86: in function `Toggle'\nInterface\\AddOns\\MeetingStone\\Module\\DataBroker.lua:48: in function <Interface\\AddOns\\MeetingStone\\Module\\DataBroker.lua:43>\n",
-		}, -- [100]
+		}, -- [94]
 		{
 			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
 			["count"] = 1,
@@ -873,7 +820,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-18 19:45:13",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
-		}, -- [101]
+		}, -- [95]
 		{
 			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
 			["count"] = 39,
@@ -882,7 +829,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-18 19:45:21",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:399: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
-		}, -- [102]
+		}, -- [96]
 		{
 			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
 			["count"] = 1000,
@@ -891,7 +838,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-18 19:45:40",
 			["context"] = "Global",
 			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureGroupHeaders.lua:216: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [103]
+		}, -- [97]
 		{
 			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
 			["count"] = 1,
@@ -900,7 +847,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-18 19:46:17",
 			["context"] = "Global",
 			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [104]
+		}, -- [98]
 		{
 			["message"] = "Interface\\AddOns\\Omen\\Omen.lua:2017: Usage: UnitAura(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -909,7 +856,7 @@ SwatterData = {
 			["timestamp"] = "2019-02-18 19:50:21",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitAura'\nInterface\\AddOns\\Omen\\Omen.lua:2017: in function `UpdateBarsReal'\nInterface\\AddOns\\Omen\\Omen.lua:1729: in function <Interface\\AddOns\\Omen\\Omen.lua:1727>\n",
-		}, -- [105]
+		}, -- [99]
 		{
 			["message"] = "Note: AddOn CompactRaid attempted to call a protected function (UNKNOWN()) during combat lockdown.",
 			["count"] = 7,
@@ -917,7 +864,51 @@ SwatterData = {
 			["timestamp"] = "2019-02-18 19:50:26",
 			["context"] = "AddOn: CompactRaid",
 			["stack"] = "[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
-		}, -- [106]
+		}, -- [100]
+		{
+			["message"] = "...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: Attempt to register unknown event \"WORLD_MAP_UPDATE\"",
+			["count"] = 1,
+			["addons"] = "  Swatter, v8.1.6241 (SwimmingSeadragon)\n  ACU, v\n  AucAdvanced, v8.1.6201 (SwimmingSeadragon)\n  AucFilterBasic, v8.1.6228 (SwimmingSeadragon)\n  AucStatHistogram, v8.1.6230 (SwimmingSeadragon)\n  AucStatiLevel, v8.1.6234 (SwimmingSeadragon)\n  AucStatPurchased, v8.1.6231 (SwimmingSeadragon)\n  AucStatSimple, v8.1.6232 (SwimmingSeadragon)\n  AucStatStdDev, v8.1.6233 (SwimmingSeadragon)\n  AucUtilFixAH, v8.1.6235 (SwimmingSeadragon)\n  AzeritePowerWeights, v8.1.10\n  Bartender4, v4.8.2\n  BuyEmAll, v3.5.1\n  CompactRaid, v5.09\n  DBMCore, v8.1.9\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DBMVPYike, v20180902\n  Details, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsStreamer, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v4000\n  FreeMountCd, v\n  Gnosis, vr198\n  GottaGoFast, v31100\n  HandyNotes, vv1.5.4\n  HandyNotesBattleForAzerothTreasures, v1\n  HandyNotesHallowsEnd, vv1.4.3\n  HandyNotesWarfrontRares, v0.5.0\n  HPetBattleAny, v2.2.14\n  kSellGreyNRepair, v1.2\n  LibAuraTracker10, v1.0\n  Mapster, v1.8.1\n  MeetingStone, v80000.05\n  MethodDungeonTools, v2.2.22\n  MoveAnything, v17.0.3\n  Omen, v3.1.12\n  oRA3, vv8.1.1\n  Parrot, vv2.1.4\n  Prat30, vr1195      \n  Prat30Libraries, v\n  RangeDisplay, vv4.8.4\n  Rematch, v4.9.4\n  rLib, v\n  SavedInstances, v8.0.10\n  SexyMap, vv8.0.8\n  ShadowedUnitFrames, vv4.2.1\n  SimpleILevel, v3.3.10\n  SimpleILevelGroup, v3.3.10\n  SimpleILevelResilience, v3.3.10\n  SimpleILevelSocial, v3.3.10\n  SlideBar, v8.1.6239 (SwimmingSeadragon)\n  Stubby, v8.1.6240 (SwimmingSeadragon)\n  TargetNameplateIndicator, v1.13\n  TellMeWhen, v8.5.9\n  TidyPlatesThreatPlates, v9.1.2\n  TipTac, v18.08.20\n  TipTacItemRef, v18.08.12\n  TipTacTalents, v18.07.30\n  WeakAuras, v2.11.3\n  WorldQuestTracker, v\n  XLoot, v8.1-1\n  XLootFrame, v8.1-1\n  XLootGroup, v8.1-1\n  XLootMaster, v8.1-1\n  XLootMonitor, v8.1-1\n  BlizRuntimeLib_zhCN v8.1.0.80100 <none>\n  (ck=757)\n",
+			["timestamp"] = "2019-02-19 19:49:27",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `RegisterEvent'\n...AddOns\\Bartender4\\libs\\AceEvent-3.0\\AceEvent-3.0.lua:33: in function `OnUsed'\n...ibDataBroker\\CallbackHandler\\CallbackHandler-1.0.lua:142: in function `RegisterEvent'\nInterface\\AddOns\\Omen\\Omen.lua:608: in function <Interface\\AddOns\\Omen\\Omen.lua:594>\n(tail call): ?\n[C]: ?\n[string \"safecall Dispatcher[1]\"]:9: in function <[string \"safecall Dispatcher[1]\"]:5>\n(tail call): ?\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:558: in function `EnableAddon'\n...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:651: in function <...erface\\AddOns\\ACU\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:636>\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:492: in function `CombatLog_LoadUI'\nInterface\\FrameXML\\UIParent.lua:1197: in function <Interface\\FrameXML\\UIParent.lua:1093>\n",
+		}, -- [101]
+		{
+			["message"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: attempt to call method 'CallModuleFunc' (a nil value)",
+			["count"] = 27,
+			["addons"] = "  Swatter, v8.1.6241 (SwimmingSeadragon)\n  ACU, v\n  AucAdvanced, v8.1.6201 (SwimmingSeadragon)\n  AucFilterBasic, v8.1.6228 (SwimmingSeadragon)\n  AucStatHistogram, v8.1.6230 (SwimmingSeadragon)\n  AucStatiLevel, v8.1.6234 (SwimmingSeadragon)\n  AucStatPurchased, v8.1.6231 (SwimmingSeadragon)\n  AucStatSimple, v8.1.6232 (SwimmingSeadragon)\n  AucStatStdDev, v8.1.6233 (SwimmingSeadragon)\n  AucUtilFixAH, v8.1.6235 (SwimmingSeadragon)\n  AzeritePowerWeights, v8.1.10\n  Bartender4, v4.8.2\n  BuyEmAll, v3.5.1\n  CompactRaid, v5.09\n  DBMCore, v8.1.9\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DBMVPYike, v20180902\n  Details, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsStreamer, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v4000\n  FreeMountCd, v\n  Gnosis, vr198\n  GottaGoFast, v31100\n  HandyNotes, vv1.5.4\n  HandyNotesBattleForAzerothTreasures, v1\n  HandyNotesHallowsEnd, vv1.4.3\n  HandyNotesWarfrontRares, v0.5.0\n  HPetBattleAny, v2.2.14\n  kSellGreyNRepair, v1.2\n  LibAuraTracker10, v1.0\n  Mapster, v1.8.1\n  MeetingStone, v80000.05\n  MethodDungeonTools, v2.2.22\n  MoveAnything, v17.0.3\n  Omen, v3.1.12\n  oRA3, vv8.1.1\n  Parrot, vv2.1.4\n  Prat30, vr1195      \n  Prat30Libraries, v\n  RangeDisplay, vv4.8.4\n  Rematch, v4.9.4\n  rLib, v\n  SavedInstances, v8.0.10\n  SexyMap, vv8.0.8\n  ShadowedUnitFrames, vv4.2.1\n  SimpleILevel, v3.3.10\n  SimpleILevelGroup, v3.3.10\n  SimpleILevelResilience, v3.3.10\n  SimpleILevelSocial, v3.3.10\n  SlideBar, v8.1.6239 (SwimmingSeadragon)\n  Stubby, v8.1.6240 (SwimmingSeadragon)\n  TargetNameplateIndicator, v1.13\n  TellMeWhen, v8.5.9\n  TidyPlatesThreatPlates, v9.1.2\n  TipTac, v18.08.20\n  TipTacItemRef, v18.08.12\n  TipTacTalents, v18.07.30\n  WeakAuras, v2.11.3\n  WorldQuestTracker, v\n  XLoot, v8.1-1\n  XLootFrame, v8.1-1\n  XLootGroup, v8.1-1\n  XLootMaster, v8.1-1\n  XLootMonitor, v8.1-1\n  BlizRuntimeLib_zhCN v8.1.0.80100 <none>\n  (ck=757)\n",
+			["locals"] = "unitFrame = CompactRaidGroupHeaderSubGroup1UnitButton1 {\n 0 = <userdata>\n GetUnitInfo = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1098\n debuffFrames = <table> {\n }\n flagIcon = CompactRaidGroupHeaderSubGroup1UnitButton1FlagIcon {\n }\n UpdateFlags = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:768\n raidIcon = CompactRaidGroupHeaderSubGroup1UnitButton1RaidIcon {\n }\n UpdateVehicleStatus = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:409\n shieldBar = CompactRaidGroupHeaderSubGroup1UnitButton1ShieldBar {\n }\n artFrame = CompactRaidGroupHeaderSubGroup1UnitButton1ArtFrame {\n }\n highlight = CompactRaidGroupHeaderSubGroup1UnitButton1Highlight {\n }\n UpdateHealthColor = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:441\n UpdateResurrect = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:672\n UpdatePowerType = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:468\n nameText = CompactRaidGroupHeaderSubGroup1UnitButton1NameText {\n }\n GetUnitFlag = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1102\n UpdateHealthMax = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:426\n dispelParent = CompactRaidGroupHeaderSubGroup1UnitButton1DispelParent {\n }\n UpdatePowerMax = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:501\n UpdateNameSize = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:532\n resIcon = CompactRaidGroupHeaderSubGroup1UnitButton1ResIcon {\n }\n UpdateDispels = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:275\n UpdateHealthText = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:571\n UpdateReadyCheck = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:620\n UpdateShieldAbsorbs = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:378\n UpdateDebuffs = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:211\n healthBarBackground = CompactRaidGroupHeaderSubGroup1UnitButton1HealthBarBackground {\n }\n background = CompactRaidGroupHeaderSubGroup1UnitButton1Background {\n }\n UpdateThreat = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:606\n UpdateHealthAbsorbs = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:387\n layerFrame = CompactRaidGroupHeaderSubGroup1UnitButton1LayerFrame {\n }\n UpdateHealth = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:435\n dispelFrames = <table> {\n }\n UpdateNameColor = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:521\n lootIcon = CompactRaidGroupHeaderSubGroup1UnitButton1LootIcon {\n }\n UpdateTarget = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:596\n aggroHighlight = CompactRaidGroupHeaderSubGroup1UnitButton1AggroHighlight {\n }\n dispelable = <table> {\n }\n GetRaidIconStatus = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1114\n selectionHighlight = CompactRaidGroupHeaderSubGroup1UnitButton1SelectionHighlight {\n }\n IsInRange = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1106\n healthText = CompactRaidGroupHeaderSubGroup1UnitButton1StatusText {\n }\n overShieldGlow = CompactRaidGroupHeaderSubGroup1UnitButton1overShieldGlow {\n }\n GetPrivilege = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1118\n absorbsBar = CompactRaidGroupHeaderSubGroup1UnitButton1AbsorbsBar {\n }\n GetRoleIconStatus = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1110\n _compactRaidSubGroupSwap = 0\n debuffParent = CompactRaidGroupHeaderSubGroup1UnitButton1DeBuffParent {\n }\n UpdateRole = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:308\n statusText = CompactRaidGroupHeaderSubGroup1UnitButton1StatusText {\n }\n UpdateHealthPrediction = <function> defined @Interface\\AddOns\\CompactRaid\\U",
+			["timestamp"] = "2019-02-19 19:49:35",
+			["context"] = "Global",
+			["stack"] = "Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:265: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:1556: in function `_UnitButton_OnLoad'\n[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>\n[C]: ?\n[C]: ?\n[C]: in function `CreateFrame'\nInterface\\FrameXML\\SecureGroupHeaders.lua:164: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:399: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:387>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureStateDriver.lua:100: in function <Interface\\FrameXML\\SecureStateDriver.lua:95>\nInterface\\FrameXML\\SecureStateDriver.lua:127: in function <Interface\\FrameXML\\SecureStateDriver.lua:119>\n",
+		}, -- [102]
+		{
+			["message"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: attempt to index local 'visual' (a nil value)",
+			["count"] = 1000,
+			["addons"] = "  Swatter, v8.1.6241 (SwimmingSeadragon)\n  ACU, v\n  AucAdvanced, v8.1.6201 (SwimmingSeadragon)\n  AucFilterBasic, v8.1.6228 (SwimmingSeadragon)\n  AucScanData, v8.1.6229 (SwimmingSeadragon)\n  AucStatHistogram, v8.1.6230 (SwimmingSeadragon)\n  AucStatiLevel, v8.1.6234 (SwimmingSeadragon)\n  AucStatPurchased, v8.1.6231 (SwimmingSeadragon)\n  AucStatSimple, v8.1.6232 (SwimmingSeadragon)\n  AucStatStdDev, v8.1.6233 (SwimmingSeadragon)\n  AucUtilFixAH, v8.1.6235 (SwimmingSeadragon)\n  AzeritePowerWeights, v8.1.10\n  Bartender4, v4.8.2\n  BuyEmAll, v3.5.1\n  CompactRaid, v5.09\n  DBMCore, v8.1.9\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DBMVPYike, v20180902\n  Details, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsStreamer, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v4000\n  FreeMountCd, v\n  Gnosis, vr198\n  GottaGoFast, v31100\n  HandyNotes, vv1.5.4\n  HandyNotesBattleForAzerothTreasures, v1\n  HandyNotesHallowsEnd, vv1.4.3\n  HandyNotesWarfrontRares, v0.5.0\n  HPetBattleAny, v2.2.14\n  kSellGreyNRepair, v1.2\n  LibAuraTracker10, v1.0\n  Mapster, v1.8.1\n  MeetingStone, v80000.05\n  MethodDungeonTools, v2.2.22\n  MoveAnything, v17.0.3\n  Omen, v3.1.12\n  oRA3, vv8.1.1\n  Parrot, vv2.1.4\n  Prat30, vr1195      \n  Prat30Libraries, v\n  RangeDisplay, vv4.8.4\n  Rematch, v4.9.4\n  rLib, v\n  SavedInstances, v8.0.10\n  SexyMap, vv8.0.8\n  ShadowedUnitFrames, vv4.2.1\n  SimpleILevel, v3.3.10\n  SimpleILevelGroup, v3.3.10\n  SimpleILevelResilience, v3.3.10\n  SimpleILevelSocial, v3.3.10\n  SlideBar, v8.1.6239 (SwimmingSeadragon)\n  Stubby, v8.1.6240 (SwimmingSeadragon)\n  TargetNameplateIndicator, v1.13\n  TellMeWhen, v8.5.9\n  TidyPlatesThreatPlates, v9.1.2\n  TipTac, v18.08.20\n  TipTacItemRef, v18.08.12\n  TipTacTalents, v18.07.30\n  WeakAuras, v2.11.3\n  WorldQuestTracker, v\n  XLoot, v8.1-1\n  XLootFrame, v8.1-1\n  XLootGroup, v8.1-1\n  XLootMaster, v8.1-1\n  XLootMonitor, v8.1-1\n  BlizRuntimeLib_zhCN v8.1.0.80100 <none>\n  (ck=784)\n",
+			["locals"] = "self = <table> {\n optionPage = CompactRaidOptionFrame_UserPage_5 {\n }\n OnTick = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Overrides\\Core.lua:54\n ApplyCustomDebuffs = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:340\n RegisterTick = <function> defined @Interface\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:403\n GetInstanceName = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:173\n FindTopDebuff = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:69\n desc = \"设置团队减益的显示优先级，优先级较高的将会遮挡住较低的。这些设置作用于全账号。\"\n FindVisual = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:28\n title = \"团队减益显示\"\n InitOptions = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\OptionFrame.lua:270\n IsEnabled = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:133\n GetNumTiers = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:52\n ShowVisuals = <function> defined =[C]:-1\n SetInterval = <function> defined @Interface\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:393\n GetActiveDebuffs = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:27\n GetDefaultDB = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:21\n EnumUnitFrames = <function> defined @Interface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:124\n SetOverrideDebuff = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Overrides\\Core.lua:19\n ZONE_CHANGED_NEW_AREA = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:64\n {62B10A9A-6AF5-40EF-93F6-D7271489AA66} = <table> {\n }\n FindUnitFrame = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:24\n IsSpecsSynced = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:92\n OnEnable = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:53\n RegisterAllEvents = <function> defined @Interface\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:385\n OnInitialize = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:31\n UnregisterAllEvents = <function> defined @Interface\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:389\n EnumVisuals = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:35\n ApplyUserLevels = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:270\n DeleteCustomDebuff = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:318\n UnsyncSpecs = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:112\n UnregisterTick = <function> defined @Interface\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:408\n OnRestoreDefaults = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:40\n name = \"RaidDebuff\"\n GetZoneDebuffs = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:298\n OnUnitChange = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:46\n db = <table> {\n }\n INSTANCE_ENCOUNTER_ENGAGE_UNIT = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Overrides\\Core.lua:86\n GetOverrideDebuff = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Overrides\\Core.lua:46\n GetTierName = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:56\n Enable = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\Manager.lua:143\n Print = <function> defined @Interface\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:225\n IsEventRegistered = <function> defined @Interface\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:381\n EnumDebuffs = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:140\n key = \"RaidDebuff\"\n InitAPI = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:462\n ClearCustomDebuffs = <function> defined @Interface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\API.lua:359\n",
+			["timestamp"] = "2019-02-19 19:50:05",
+			["context"] = "Global",
+			["stack"] = "...rface\\AddOns\\CompactRaid\\Modules\\RaidDebuff\\Core.lua:48: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:591: in function `CallModule'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:68: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:579: in function `EnumModules'\nInterface\\AddOns\\CompactRaid\\Modules\\Manager.lua:73: in function `func'\n...face\\AddOns\\CompactRaid\\Includes\\LibAddonManager.lua:495: in function `BroadcastEvent'\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:109: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:107>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:568: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:564>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:872: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:851>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:913: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:881>\n...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:922: in function <...terface\\AddOns\\CompactRaid\\UnitFrames\\UnitButton.lua:920>\n[C]: in function `Show'\nInterface\\FrameXML\\SecureGroupHeaders.lua:216: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:123>\nInterface\\FrameXML\\SecureGroupHeaders.lua:488: in function `SecureGroupHeader_Update'\nInterface\\FrameXML\\SecureGroupHeaders.lua:62: in function <Interface\\FrameXML\\SecureGroupHeaders.lua:60>\n",
+		}, -- [103]
+		{
+			["message"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v8.1.6241 (SwimmingSeadragon)\n  ACU, v\n  AucAdvanced, v8.1.6201 (SwimmingSeadragon)\n  AucFilterBasic, v8.1.6228 (SwimmingSeadragon)\n  AucScanData, v8.1.6229 (SwimmingSeadragon)\n  AucStatHistogram, v8.1.6230 (SwimmingSeadragon)\n  AucStatiLevel, v8.1.6234 (SwimmingSeadragon)\n  AucStatPurchased, v8.1.6231 (SwimmingSeadragon)\n  AucStatSimple, v8.1.6232 (SwimmingSeadragon)\n  AucStatStdDev, v8.1.6233 (SwimmingSeadragon)\n  AucUtilFixAH, v8.1.6235 (SwimmingSeadragon)\n  AzeritePowerWeights, v8.1.10\n  Bartender4, v4.8.2\n  BuyEmAll, v3.5.1\n  CompactRaid, v5.09\n  DBMCore, v8.1.9\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DBMVPYike, v20180902\n  Details, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsStreamer, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v4000\n  FreeMountCd, v\n  Gnosis, vr198\n  GottaGoFast, v31100\n  HandyNotes, vv1.5.4\n  HandyNotesBattleForAzerothTreasures, v1\n  HandyNotesHallowsEnd, vv1.4.3\n  HandyNotesWarfrontRares, v0.5.0\n  HPetBattleAny, v2.2.14\n  kSellGreyNRepair, v1.2\n  LibAuraTracker10, v1.0\n  Mapster, v1.8.1\n  MeetingStone, v80000.05\n  MethodDungeonTools, v2.2.22\n  MoveAnything, v17.0.3\n  Omen, v3.1.12\n  oRA3, vv8.1.1\n  Parrot, vv2.1.4\n  Prat30, vr1195      \n  Prat30Libraries, v\n  RangeDisplay, vv4.8.4\n  Rematch, v4.9.4\n  rLib, v\n  SavedInstances, v8.0.10\n  SexyMap, vv8.0.8\n  ShadowedUnitFrames, vv4.2.1\n  SimpleILevel, v3.3.10\n  SimpleILevelGroup, v3.3.10\n  SimpleILevelResilience, v3.3.10\n  SimpleILevelSocial, v3.3.10\n  SlideBar, v8.1.6239 (SwimmingSeadragon)\n  Stubby, v8.1.6240 (SwimmingSeadragon)\n  TargetNameplateIndicator, v1.13\n  TellMeWhen, v8.5.9\n  TidyPlatesThreatPlates, v9.1.2\n  TipTac, v18.08.20\n  TipTacItemRef, v18.08.12\n  TipTacTalents, v18.07.30\n  WeakAuras, v2.11.3\n  WorldQuestTracker, v\n  XLoot, v8.1-1\n  XLootFrame, v8.1-1\n  XLootGroup, v8.1-1\n  XLootMaster, v8.1-1\n  XLootMonitor, v8.1-1\n  BlizRuntimeLib_zhCN v8.1.0.80100 <none>\n  (ck=784)\n",
+			["locals"] = "(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"TOPLEFT\"\n(*temporary) = GuildControlUIRankSettingsFrameBankBg {\n 0 = <userdata>\n}\n(*temporary) = 7\n(*temporary) = -4\n(*temporary) = \"attempt to index global 'GuildControlUIRankSettingsFrameRosterLabel' (a nil value)\"\n",
+			["timestamp"] = "2019-02-19 20:02:45",
+			["context"] = "Global",
+			["stack"] = "...face\\AddOns\\Blizzard_GuildControlUI\\Localization.lua:4: in main chunk\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:449: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:695: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:929: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:816: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
+		}, -- [104]
+		{
+			["message"] = "Interface\\AddOns\\Omen\\Omen.lua:2017: Usage: UnitAura(\"unit\", [index][, \"filter\"])",
+			["count"] = 902,
+			["addons"] = "  Swatter, v8.1.6241 (SwimmingSeadragon)\n  ACU, v\n  AucAdvanced, v8.1.6201 (SwimmingSeadragon)\n  AucFilterBasic, v8.1.6228 (SwimmingSeadragon)\n  AucScanData, v8.1.6229 (SwimmingSeadragon)\n  AucStatHistogram, v8.1.6230 (SwimmingSeadragon)\n  AucStatiLevel, v8.1.6234 (SwimmingSeadragon)\n  AucStatPurchased, v8.1.6231 (SwimmingSeadragon)\n  AucStatSimple, v8.1.6232 (SwimmingSeadragon)\n  AucStatStdDev, v8.1.6233 (SwimmingSeadragon)\n  AucUtilFixAH, v8.1.6235 (SwimmingSeadragon)\n  AzeritePowerWeights, v8.1.10\n  Bartender4, v4.8.2\n  BuyEmAll, v3.5.1\n  CompactRaid, v5.09\n  DBMCore, v8.1.9\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DBMVPYike, v20180902\n  DBMZuldazarRaid, v\n  Details, v\n  DetailsDataStorage, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsStreamer, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ExRT, v4000\n  FreeMountCd, v\n  Gnosis, vr198\n  GottaGoFast, v31100\n  HandyNotes, vv1.5.4\n  HandyNotesBattleForAzerothTreasures, v1\n  HandyNotesHallowsEnd, vv1.4.3\n  HandyNotesWarfrontRares, v0.5.0\n  HPetBattleAny, v2.2.14\n  kSellGreyNRepair, v1.2\n  LibAuraTracker10, v1.0\n  Mapster, v1.8.1\n  MeetingStone, v80000.05\n  MethodDungeonTools, v2.2.22\n  MoveAnything, v17.0.3\n  Omen, v3.1.12\n  oRA3, vv8.1.1\n  Parrot, vv2.1.4\n  Prat30, vr1195      \n  Prat30Libraries, v\n  RangeDisplay, vv4.8.4\n  Rematch, v4.9.4\n  rLib, v\n  SavedInstances, v8.0.10\n  SexyMap, vv8.0.8\n  ShadowedUnitFrames, vv4.2.1\n  SimpleILevel, v3.3.10\n  SimpleILevelGroup, v3.3.10\n  SimpleILevelResilience, v3.3.10\n  SimpleILevelSocial, v3.3.10\n  SlideBar, v8.1.6239 (SwimmingSeadragon)\n  Stubby, v8.1.6240 (SwimmingSeadragon)\n  TargetNameplateIndicator, v1.13\n  TellMeWhen, v8.5.9\n  TidyPlatesThreatPlates, v9.1.2\n  TipTac, v18.08.20\n  TipTacItemRef, v18.08.12\n  TipTacTalents, v18.07.30\n  WeakAuras, v2.11.3\n  WorldQuestTracker, v\n  XLoot, v8.1-1\n  XLootFrame, v8.1-1\n  XLootGroup, v8.1-1\n  XLootMaster, v8.1-1\n  XLootMonitor, v8.1-1\n  BlizRuntimeLib_zhCN v8.1.0.80100 <none>\n  (ck=7b1)\n",
+			["locals"] = "(*temporary) = \"player\"\n(*temporary) = \"正义之怒\"\n(*temporary) = nil\n(*temporary) = 135962\n(*temporary) = 0\n(*temporary) = 0\n(*temporary) = 0\n(*temporary) = 25780\n",
+			["timestamp"] = "2019-02-19 20:10:10",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `UnitAura'\nInterface\\AddOns\\Omen\\Omen.lua:2017: in function `UpdateBarsReal'\nInterface\\AddOns\\Omen\\Omen.lua:1729: in function <Interface\\AddOns\\Omen\\Omen.lua:1727>\n",
+		}, -- [105]
 	},
 	["autoshow"] = true,
 }

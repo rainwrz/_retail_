@@ -12,12 +12,12 @@ oRA3DB = {
 		},
 		["ReadyCheck"] = {
 		},
-		["Loot"] = {
+		["Alerts"] = {
 		},
 		["Difficulty"] = {
 			["profiles"] = {
 				["Default"] = {
-					["prevRaidDifficulty"] = 15,
+					["prevRaidDifficulty"] = 16,
 				},
 			},
 		},
@@ -28,7 +28,7 @@ oRA3DB = {
 				},
 			},
 		},
-		["GuildRepairs"] = {
+		["Loot"] = {
 		},
 		["Promote"] = {
 		},
@@ -36,7 +36,7 @@ oRA3DB = {
 			["global"] = {
 				["spellsOnCooldown"] = {
 				},
-				["lastTime"] = 310804.124,
+				["lastTime"] = 389534.331,
 				["chargeSpellsOnCooldown"] = {
 				},
 			},
@@ -61,11 +61,11 @@ oRA3DB = {
 				},
 			},
 		},
-		["Consumables"] = {
-		},
 		["Tanks"] = {
 		},
-		["Alerts"] = {
+		["Consumables"] = {
+		},
+		["GuildRepairs"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -86,16 +86,16 @@ oRA3DB = {
 		["梧桐哟 - 伊森利恩"] = "Default",
 		["Thelastangel - 布莱克摩"] = "Default",
 		["麝月 - 熊猫酒仙"] = "Default",
-		["飘哥 - 熊猫酒仙"] = "Default",
+		["霜梧桐 - 熊猫酒仙"] = "Default",
 		["梧桐黃昏 - 伊森利恩"] = "Default",
 		["月麝 - 熊猫酒仙"] = "Default",
-		["Hokin - 熊猫酒仙"] = "Default",
+		["雨梧桐 - 伊森利恩"] = "Default",
 		["风梧桐 - 熊猫酒仙"] = "Default",
 		["烦躁啊 - 伊森利恩"] = "Default",
-		["雨梧桐 - 伊森利恩"] = "Default",
+		["Hokin - 熊猫酒仙"] = "Default",
 		["梧桐晨曦 - 伊森利恩"] = "Default",
 		["雪梧桐 - 熊猫酒仙"] = "Default",
-		["霜梧桐 - 熊猫酒仙"] = "Default",
+		["飘哥 - 熊猫酒仙"] = "Default",
 		["祈梧桐 - 熊猫酒仙"] = "Default",
 	},
 	["profiles"] = {
@@ -104,21 +104,21 @@ oRA3DB = {
 			["positions"] = {
 				["oRA3ReadyCheck"] = {
 					["Height"] = 211.000015258789,
-					["Width"] = 320.000152587891,
-					["PosY"] = 314.639879511324,
 					["PosX"] = 309.333556463771,
+					["PosY"] = 314.639879511324,
+					["Width"] = 320.000152587891,
 				},
 				["oRA3CooldownFrameBarsDefault"] = {
 					["Height"] = 181.914169311523,
-					["PosX"] = 1010.91119338875,
-					["PosY"] = 419.300012085987,
 					["Width"] = 202.188247680664,
+					["PosY"] = 419.300012085987,
+					["PosX"] = 1010.91119338875,
 				},
 				["oRA3BattleResMonitor"] = {
 					["Height"] = 30.0000114440918,
-					["Width"] = 140.000045776367,
-					["PosY"] = 173.305351004037,
 					["PosX"] = 1056.72722564377,
+					["PosY"] = 173.305351004037,
+					["Width"] = 140.000045776367,
 				},
 				["oRA3RingsFrame"] = {
 					["PosY"] = 48.9287491971254,
